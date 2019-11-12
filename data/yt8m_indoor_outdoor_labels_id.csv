@@ -1,0 +1,2897 @@
+,labels,target,yt8m_id,yt_id
+0,"[88, 184, 420, 514]",indoors,k5a7,LLf2i_EK6RU
+1,"[15, 18, 60, 87, 545, 1696]",outdoors,Nda7,bkK-qbwAgJo
+2,"[511, 514, 1148, 2277, 2405]",indoors,Dca7,jsFiMne0Eyk
+3,[60],outdoors,OEa7,p4Ub6lYdK38
+4,"[11, 20, 22, 29, 176, 307, 2561]",indoors,EMa7,KW2WY3GIpt4
+5,[60],outdoors,XTa7,WMg80hvfJTY
+6,"[1, 105, 184, 246]",indoors,k8a7,rLtCskwerAk
+7,"[18, 43, 59, 60, 101, 571, 823]",outdoors,Txa7,Y3CsxkaT3Eo
+8,[248],outdoors,ZAa7,e2S-BKy4s9E
+9,"[43, 60, 101, 286, 374, 693, 1415]",outdoors,8Fa7,MVEC5CBHRF0
+10,"[43, 60, 101, 1975]",outdoors,Esa7,fK4nlbXdiS4
+11,[60],outdoors,ysa7,cPkjg_Qc-z0
+12,"[88, 184, 307, 313, 364, 514, 616]",indoors,3Ga7,jheLdBeOS5o
+13,"[53, 58, 60, 163, 232, 427, 2690]",outdoors,SUbu,QRaJ1GJxAUU
+14,"[15, 60, 239, 686, 1714, 1880]",outdoors,Hrbu,h6zbgyiYSxk
+15,"[184, 388, 1583]",indoors,Qgbu,7EYwThh6LY4
+16,"[15, 18, 87, 248]",outdoors,9obu,Ji1rSTmLXLw
+17,[248],outdoors,58bu,ReIwAz2OQz4
+18,"[2, 17, 30, 248, 511, 1068]",outdoors,Iabu,ZXhdzgn7NSI
+19,[184],indoors,bPbu,WNTgUVGpcX4
+20,"[2, 666, 1948]",outdoors,tcbu,5bQEyRiFfbo
+21,"[60, 64, 95, 149, 729]",outdoors,rTbu,c0rHPyVyGHU
+22,"[313, 347, 364, 1013, 2105]",outdoors,0sbu,UgFiNi2uuhE
+23,"[88, 184, 364, 416]",indoors,Z6bu,PT0J1pGQqTE
+24,"[2, 60, 76, 385, 1055]",outdoors,AHbu,jwSNya1DC4M
+25,"[19, 53, 58, 60]",outdoors,Xfbu,vcU9DVMjebM
+26,"[2, 76, 248]",outdoors,bAbu,cQqmoNovpyk
+27,"[2, 18, 43, 59, 60, 76, 101]",outdoors,OUbw,kPGRSM-bEz4
+28,"[254, 1226, 1886, 1970, 2900]",outdoors,V7bw,NRaUatGBxuk
+29,"[18, 43, 59, 60, 101, 1685]",outdoors,cRbw,a6K3w1u9yTo
+30,"[2, 60, 76, 385, 1055]",outdoors,jtbw,_fWx7PzNI7Q
+31,"[18, 43, 59, 60, 101, 286, 1685]",outdoors,HRbw,7EU8CHLgRHo
+32,"[88, 184, 313, 364, 416, 1013]",indoors,Tebw,BOer4WZy_yc
+33,"[53, 60]",outdoors,GWbw,6RJC-_59QqM
+34,"[18, 43, 59, 60, 101, 419]",outdoors,71bw,q8r_xqbG_ug
+35,"[15, 18, 67, 170, 514, 1148, 1831]",indoors,pjbw,WCORVY9Zr00
+36,"[15, 18, 60, 87, 333, 365, 545]",outdoors,Ivbw,kR0h2l---r4
+37,"[60, 385]",outdoors,zjbw,XEsz88W69EQ
+38,"[60, 82, 160, 166, 273, 696, 888, 1423]",outdoors,rjbw,fTtcPpWFnm4
+39,"[11, 83, 262, 601, 720, 1081]",outdoors,wUbw,E3kZb2lGSJE
+40,"[60, 353, 1765]",outdoors,jgbw,aoEfxBfAyUo
+41,"[60, 1396]",outdoors,Qvbw,gmys26Pvbzo
+42,"[191, 248]",outdoors,Szbw,HdPmDPnb7go
+43,[248],outdoors,Ifbw,1Sid-sN56Rk
+44,"[2, 60, 76, 385, 419, 995]",outdoors,eNbw,VRWdfIR8UrU
+45,"[15, 18, 43, 59, 60, 101, 286, 374, 549, 906, 1415]",outdoors,f8bx,eMOgaP7BHp4
+46,"[88, 184, 307, 380, 514]",indoors,GZbx,5zE1Q5-07FI
+47,"[184, 375, 380, 420, 2039]",indoors,UJbx,3nyxgYn0AAY
+48,"[88, 184, 299, 380, 416, 571]",indoors,Dubx,tafODixgfXc
+49,"[60, 239, 686, 1714]",outdoors,Rubx,ca8GoC9Z5O0
+50,"[18, 43, 59, 60, 101]",outdoors,M5bx,QhnttxHCjh4
+51,"[205, 1245]",indoors,Jibx,TXKtX_MZI3E
+52,"[15, 262, 1057, 1835]",outdoors,Z0bx,uhZJk8XiVH0
+53,"[11, 20, 22, 307, 1265]",indoors,0Ibx,1ErqsWKpDmk
+54,"[15, 60, 239, 363, 533, 1816]",outdoors,tnbx,HcmCrwVmHAg
+55,"[18, 43, 59, 60, 101, 2735]",outdoors,vdbx,_J4FMrnazZ4
+56,"[79, 248]",outdoors,WDbx,8YWh_bhtVQA
+57,"[88, 307, 1013]",indoors,Nwbx,N3j5u1NWrSg
+58,[248],outdoors,HUbx,7Qh2M6-V3Ug
+59,"[184, 380, 400, 1608]",indoors,cxbx,3M2bsfDRWK4
+60,"[18, 43, 59, 60, 101, 549, 693, 906]",outdoors,ZZbF,qO3zsou9v7A
+61,"[60, 239]",outdoors,MjbF,ME2m5mXzP5U
+62,"[15, 60, 186, 239, 2785]",outdoors,oYbF,QuCXX8Y47Kg
+63,"[43, 248, 428]",outdoors,ULbF,_bxzX5LsVdQ
+64,"[11, 262, 751]",outdoors,wgbF,QoerZ2rsw-8
+65,"[43, 60, 101, 1032]",outdoors,cQbF,QjnyciEXeSY
+66,"[2, 186, 380]",indoors,ahbF,x2CwTgqyfDk
+67,"[2, 186, 666]",outdoors,DNbF,yCV1QmoConU
+68,"[2, 30, 55, 60, 428]",outdoors,QIbF,-7_u703YfXM
+69,"[60, 160]",outdoors,4zbF,YYV3Z8pftFY
+70,"[2, 18, 43, 59, 60, 76, 101, 286, 385, 1415]",outdoors,k2bF,3cZBzlvbB2k
+71,[248],outdoors,1JbF,3eSdQdqyY_4
+72,"[15, 60, 239, 363, 1098, 1452]",outdoors,UXbF,533sW4zeXQo
+73,"[43, 60]",outdoors,P4bF,JNf1gOlMOTI
+74,"[60, 166, 333, 398]",outdoors,ZabF,Nt91xuk9Ui0
+75,"[88, 184, 380]",indoors,fRbF,TLeEv2hBRJU
+76,"[15, 18, 43, 59, 60, 101]",outdoors,BMbF,609GkCi-fZU
+77,"[60, 333, 398, 501]",outdoors,TAbK,ee1E0DVTggM
+78,"[60, 68, 72, 98, 240]",outdoors,g1bK,po0dYr3t508
+79,"[182, 248]",outdoors,B6bK,EYmlMvHaynw
+80,[1226],outdoors,cFbK,Jc5eM_0217k
+81,"[11, 15, 18, 60, 67, 519]",outdoors,UwbK,iB38IiCFggA
+82,"[88, 184, 307, 364]",indoors,PpbK,tmJB7n3Lffs
+83,"[307, 2305]",indoors,TfbK,19HAfwFSGPk
+84,"[60, 166, 398, 482]",outdoors,eVbK,YBvmKvx36T8
+85,"[88, 184, 1013]",indoors,KQbK,VfKM2MZEsRE
+86,"[514, 1148, 2177, 2473]",indoors,hfbK,RYeFBtBNgX4
+87,"[43, 60, 101, 286]",outdoors,XQbK,gm-2bPHMR5Q
+88,[248],outdoors,SAbK,bE4eba6qOM8
+89,"[18, 43, 59, 60, 101]",outdoors,GhbK,ZbusCt1XIcM
+90,"[60, 166, 398, 482]",outdoors,RGbK,PKVR8epcPs8
+91,"[60, 428, 519, 995]",outdoors,1AbK,sNz9PUD86eg
+92,[248],outdoors,vTbX,mLW_d2dpDJM
+93,"[18, 43, 59, 60, 101, 286]",outdoors,1ubX,uGL48fkL4O4
+94,"[514, 1443]",indoors,70bX,hGVat0nflVQ
+95,"[18, 87, 248]",outdoors,b0bX,yPX0S48xviM
+96,"[60, 353, 642, 669, 673, 3553]",outdoors,FYbX,08OVk5b8KQE
+97,"[21, 23, 24, 288, 1245]",indoors,rzbX,X2UJQ_UrPW4
+98,"[2, 43, 60, 76, 549]",outdoors,0nbX,_TFqMuDpT5Y
+99,"[60, 72, 98, 151]",outdoors,iPbX,18yDlra1DtE
+100,"[60, 519, 794, 995]",outdoors,EbbX,jOdt36svNvk
+101,"[83, 262, 2953, 3230]",outdoors,0zbX,g3Eo7OZdfOo
+102,"[60, 519, 666]",outdoors,tBbX,3OPlykc0Hmg
+103,"[2, 7, 83, 262, 601]",outdoors,RAcs,4tEgmAzH_Ak
+104,"[15, 262, 1057]",outdoors,elcs,xbpf9yf6rZY
+105,"[60, 571]",outdoors,Zkcs,rQ-p0-6tQjw
+106,"[2, 43, 60, 76, 101, 281]",outdoors,wtcs,_bNLh-TQT40
+107,"[11, 514, 1148, 1203]",indoors,IDcs,TYaGhaOczTU
+108,"[60, 239, 291]",outdoors,wscs,4VVi3pRFS7E
+109,[184],indoors,ztcs,jfOdtlqyubs
+110,[60],outdoors,jlcs,YBXF5s83hk4
+111,"[191, 248, 299, 985]",outdoors,rRcs,MvZtkKlUGYI
+112,"[60, 353, 673]",outdoors,A4cs,fWpToz6u2Fc
+113,[60],outdoors,ypcs,S24cuMXnzeg
+114,"[182, 248]",outdoors,gmcs,P-wQxJ3PA9o
+115,"[11, 20, 22, 307, 341]",indoors,Ljcs,aF5lR4vXmw4
+116,"[88, 184, 307, 380, 416, 614]",indoors,4acs,bMOsG_bFE7E
+117,"[184, 3566]",indoors,dGcs,W0DpVh2Q2dQ
+118,"[88, 191, 248]",outdoors,6Qc4,-g6wujr_zI8
+119,"[88, 184, 364, 380]",indoors,oIc4,hK0AYpI8cww
+120,"[19, 53, 58, 60, 214, 494]",outdoors,eNc4,rto_TTNXUg0
+121,"[0, 83, 254, 262, 542]",outdoors,YSc4,qswpE7wmwII
+122,"[15, 60, 239, 686, 1714]",outdoors,lpc4,9y6s9CKOCzQ
+123,"[400, 952, 3501]",indoors,NRc4,BOPreQ7OI_Y
+124,"[60, 1002]",outdoors,1Kc4,8Qw8fty9AiI
+125,"[11, 20, 22, 29, 32, 120, 122, 303, 307, 679]",indoors,tNc4,zjtdZ82fkdQ
+126,[248],outdoors,2lc4,IDJLcl9JvEU
+127,"[53, 58, 60, 163, 232]",outdoors,G9c4,0Qul48q1DNE
+128,"[18, 43, 59, 60, 101]",outdoors,vjc4,357GTNW4Zis
+129,"[2, 43, 60, 76, 101, 281, 419, 991]",outdoors,5Cc4,gi1dXYvT4IQ
+130,"[88, 184, 364, 514, 614]",indoors,wMc4,fioQicfkFjk
+131,"[18, 43, 59, 248, 374]",outdoors,INc4,cRQPfiGlgek
+132,"[88, 184, 307, 364, 1013]",indoors,vmda,XgzkNB9xbWA
+133,"[88, 184, 307, 416]",indoors,snda,yi5ABf9he2U
+134,"[15, 18, 43, 59, 60, 374, 549]",outdoors,CIda,0-Kb3g2z4hk
+135,"[60, 66, 909]",outdoors,2yda,0WH3U4Bs69Q
+136,[1238],outdoors,62da,VYouNt-smM4
+137,"[60, 1396]",outdoors,Vnda,Cmrz9iX55Mo
+138,"[2, 43, 60, 76, 101, 286, 385]",outdoors,7uda,ReT4tiBka_E
+139,"[18, 43, 59, 60, 101, 286, 419, 1685]",outdoors,9Cda,-B1m7HoUpUM
+140,"[88, 184, 191, 299, 364, 380, 416, 614]",indoors,8ada,cNEdqUb6vmk
+141,"[18, 43, 59, 60, 101, 419]",outdoors,49da,7m6pv-TZN28
+142,"[15, 60, 96, 239, 789, 1626, 1795]",outdoors,tUda,SRiNvJZbw8o
+143,[248],outdoors,Inda,18dLF5lLoQ0
+144,"[15, 60, 239, 363, 2071]",outdoors,4Fda,Beq4P5Ffnus
+145,"[43, 60, 101]",outdoors,Fjda,4hIVnwyogPw
+146,"[15, 18, 60, 67, 239, 666]",outdoors,svda,Uj2UJAau6B4
+147,"[88, 184, 307, 416, 497, 514, 899]",indoors,VAda,8uBgrY6PnK4
+148,[60],outdoors,veda,dIW7TsWUvYg
+149,"[60, 365]",outdoors,usda,_LwXKr-b5-s
+150,"[43, 60, 101, 419]",outdoors,qCda,xNwMIxxRWtQ
+151,"[43, 60, 101]",outdoors,zSdw,rcD_Iet93iM
+152,"[60, 333, 365]",outdoors,gVdw,SrtIvhqNx54
+153,"[15, 18, 170, 314, 514, 2882]",indoors,Mkdw,c9kIRjBaVdI
+154,"[43, 60, 101]",outdoors,bEdw,chBu1urpHv4
+155,"[60, 669]",outdoors,evdw,z7MK9R2AqI4
+156,"[18, 43, 59, 60, 101]",outdoors,WXdw,bejFJM0-OBQ
+157,"[0, 60, 1056]",outdoors,zbdw,4kvlDCq-X2Y
+158,"[307, 400, 1299]",indoors,OIdw,qGNDYBDn99w
+159,[248],outdoors,lXdw,tzvZpG-QbUA
+160,"[2, 18, 43, 59, 60, 76, 101, 286, 385]",outdoors,L7dw,2FG4z8lVBvU
+161,"[380, 497]",indoors,IIdw,rp9ao2j0cEE
+162,"[43, 60, 549, 693, 906]",outdoors,V6dw,U_vFBKDITmU
+163,"[184, 191, 364]",indoors,nodw,mToFaZcwgKg
+164,"[60, 1615]",outdoors,pzdw,29NOPSjiLX8
+165,"[60, 353, 673]",outdoors,rLdw,MuYCWx2ldhw
+166,[60],outdoors,o3dw,TqDZQ2GhICs
+167,[1226],outdoors,0Wdw,DuYhGRixKU0
+168,"[15, 18, 60, 87, 365, 545]",outdoors,Pxdw,sQvrvVR4wgQ
+169,"[2, 43, 60, 76]",outdoors,5Pdw,9FNyQt8sbFY
+170,"[60, 398]",outdoors,lndL,qXMB5jmrHys
+171,"[80, 127, 184]",indoors,L9dL,MI0oc8vsuak
+172,"[88, 184, 307, 380, 416, 614]",indoors,HodL,7EukVD-XUCs
+173,"[43, 60, 101, 385, 549, 906]",outdoors,0EdL,P455b8KJhSs
+174,"[2, 186, 1238, 1918]",outdoors,tldL,EiXLzTjRkUU
+175,"[43, 248, 798, 971]",outdoors,B1dL,ONLVVG0pQMw
+176,[184],indoors,tKdL,WAZZIpiSw-Y
+177,"[83, 262, 542, 820]",outdoors,0ddL,1IDwhbvITGY
+178,"[43, 60, 101, 286, 374, 549]",outdoors,Q9dL,paVNS9TsKbs
+179,"[11, 83, 262, 541, 820]",outdoors,tCdL,LTBj4Te5kFM
+180,"[18, 43, 59, 60, 101, 286]",outdoors,ChdL,0G77QwT-rf4
+181,"[15, 18, 87, 262]",outdoors,h2dL,5Q9L6LLhvNc
+182,"[307, 1299]",indoors,e1dL,Vz5yE2oXt1c
+183,[184],indoors,Lbes,piWlr06aDKQ
+184,"[307, 465]",indoors,lFes,UoS8mww0kJY
+185,"[313, 1013, 1226]",outdoors,X4es,AGa_mWRFcV4
+186,"[15, 262, 502, 619]",outdoors,K1es,u2d-zz-JU_E
+187,"[60, 160, 166, 231, 491]",outdoors,Xqes,rFBh-Zgb6K0
+188,"[2, 83, 262, 291]",outdoors,Yves,xJy75IPpeZA
+189,"[15, 18, 60, 67, 96, 239, 2924, 3633]",outdoors,1hes,eDadifrVLeQ
+190,"[184, 191, 985, 1803]",indoors,gJes,YCpJiJCRL3Y
+191,"[11, 307]",indoors,qfes,N3ZlHscKEq8
+192,"[53, 58, 60, 163, 166, 232]",outdoors,oxes,rkUXhS1Kxiw
+193,"[18, 43, 59, 60, 101, 286, 374, 549, 571]",outdoors,cCes,rCH9ruapgg0
+194,[248],outdoors,NQes,l2GChwuJdQc
+195,"[313, 3501]",indoors,9ces,2XEBQKRk7yQ
+196,"[60, 428, 1007, 2628]",outdoors,bweA,8B8q64wqS1M
+197,"[11, 20, 307, 341, 1049, 1928]",indoors,KqeA,cnh7ykUeSHU
+198,"[88, 184, 307, 313, 364, 380, 416, 514, 614, 899, 1013]",indoors,uneA,pn6gL4WYoNk
+199,"[11, 20, 22, 29, 32, 122, 123, 211, 307, 426, 444]",indoors,uoeA,oBlO9RN4TKo
+200,"[15, 262, 502, 619]",outdoors,xteA,9AoAuWkgF60
+201,"[60, 166, 353, 519, 666, 669, 673, 3598]",outdoors,sQeA,zViKcdIuieY
+202,"[15, 60, 239, 686, 1714, 1880]",outdoors,ireA,wa1RJKy-3Mo
+203,"[402, 1238]",outdoors,iFeA,LyD1XKBRja0
+204,"[2, 60]",outdoors,9yeA,zzVnvmmR-bk
+205,"[400, 416, 1152, 1927]",indoors,EUeA,OseNfJZCWOg
+206,"[248, 402, 1389]",outdoors,f7eA,Ow46B9atfzQ
+207,"[60, 68, 72, 98, 240]",outdoors,doeA,QGbdEXy-5IY
+208,"[60, 353, 673]",outdoors,epeA,kpmG29IMFag
+209,"[43, 60]",outdoors,DteA,rMHhCdj_y6s
+210,"[60, 385, 419]",outdoors,6zeA,rNH2WI9yqiw
+211,"[53, 58, 60, 163, 232]",outdoors,XgeA,HsVWhiQ5M0o
+212,"[18, 43, 59, 60, 101, 1415]",outdoors,XxeC,IPKXvUe_zf4
+213,"[60, 166, 353]",outdoors,AyeC,05QMypPLfA0
+214,"[60, 160, 231, 690]",outdoors,j6eC,_Z_pACRZCMQ
+215,"[15, 18, 43, 59, 60, 101, 419]",outdoors,9zeC,MRw3FDIcOhY
+216,"[2, 17, 19, 30, 55, 60, 143, 1014]",outdoors,JVeC,X6m5598lMSs
+217,"[15, 18, 43, 59, 60, 101]",outdoors,8VeC,Faq2Z7kCSH4
+218,"[43, 60]",outdoors,5xeC,Q8249pbtTt0
+219,"[15, 262, 1057, 3018]",outdoors,WReC,wLhKLskW0eM
+220,"[43, 101, 248]",outdoors,zLeC,y5srP5YEHpk
+221,"[2, 60, 76, 385, 419, 571, 1055, 2696]",outdoors,1EeC,yLj6xYqi70A
+222,"[60, 68, 72, 98, 151]",outdoors,zDeC,6lRzYqlYiNw
+223,"[53, 58, 60, 163, 232]",outdoors,iXeC,I9segV-pKbc
+224,"[43, 60, 101, 286, 374, 693, 873, 1503]",outdoors,gSeC,SJ2-6-QrxPM
+225,"[60, 160, 284]",outdoors,U9eC,Tp5UYaOga3o
+226,[1245],indoors,VOeC,ZFgLc5LgD4c
+227,"[60, 239]",outdoors,HteC,tV25Wf54Nu4
+228,[184],indoors,M8eC,v1UiVPdKEHU
+229,"[262, 542]",outdoors,28eC,T9GNmqwopcI
+230,"[307, 497]",indoors,aIeC,vyi2uvc4MO0
+231,"[15, 262, 502, 619]",outdoors,mneC,nqsgaTlmMGU
+232,"[11, 20, 22, 29, 32, 303, 307, 605, 2007]",indoors,yhe4,eMZNxTWBaoY
+233,[1226],outdoors,WZe4,QQGZiGjaQVQ
+234,"[88, 184, 307, 380, 416, 614]",indoors,kye4,QSPEYEEjsgg
+235,"[18, 43, 59, 60, 101]",outdoors,cPe4,CvWHcme000s
+236,"[11, 172, 262, 1186]",outdoors,UNe4,sXY9chwQmd4
+237,"[0, 1, 242, 254, 313, 1097, 2105]",outdoors,WOe4,MKJnN6exUPk
+238,"[0, 60]",outdoors,OVe4,m2Y-_7P_9q8
+239,"[15, 18, 43, 59, 60, 101, 286]",outdoors,p1e4,PjdEpue9Zis
+240,"[0, 83, 254, 262, 542]",outdoors,qAe4,8M61b_2a1HU
+241,"[0, 60, 1056, 1865]",outdoors,oUe4,3YxrAE0pJe8
+242,"[2, 43, 60, 76]",outdoors,vue4,YpyYA0-T8QU
+243,[248],outdoors,Bce4,kxWfApj1kEw
+244,"[15, 18, 60, 87]",outdoors,JOe4,FpaXHbatLE8
+245,"[15, 18, 60, 87, 365, 545, 1696, 1751]",outdoors,JQe5,nFeclZKL0nM
+246,"[2, 7, 83, 262, 751, 804]",outdoors,hle5,rf5asP-3soI
+247,"[43, 60, 101, 1975]",outdoors,VMe5,izIiOHopngI
+248,"[60, 166, 398, 482, 664]",outdoors,MNe5,3KdUGIU3Vqs
+249,"[2, 43, 60, 76, 473, 547]",outdoors,HPe5,_h3wNqXYH1c
+250,"[2, 75, 83, 262, 1205, 3543]",outdoors,HDe5,H-fUWjRwpX0
+251,"[15, 60, 239, 3633]",outdoors,aXe5,R4K7xJMdldA
+252,"[88, 184, 380, 416, 614, 899]",indoors,wme5,MC3xoFyKxsk
+253,"[60, 428, 1055]",outdoors,wee5,fET5iNmFV1k
+254,"[307, 400, 497, 514, 1815, 2277, 2476]",indoors,VKe5,Oh66AKuOxec
+255,"[53, 58, 60, 163, 232]",outdoors,pPe5,tVZwvkkQNlU
+256,"[15, 18, 60, 87, 333, 365]",outdoors,bqe5,1SPkjugNoRs
+257,"[15, 18, 60, 87, 333, 365]",outdoors,yve5,OyIHh9676no
+258,[248],outdoors,DAe5,638iB2cKvo0
+259,"[60, 519]",outdoors,mcfb,nT7OcLNi918
+260,"[0, 1, 27, 262, 1613]",outdoors,C8fb,lOqt_MAsMLw
+261,"[15, 262, 502, 619, 1835]",outdoors,81fb,IgldpwFpcDk
+262,"[88, 184, 307, 380, 416]",indoors,80fb,BjmtxfpEZdE
+263,"[1, 21, 23, 184]",indoors,jQfb,1wVN3H5fvWA
+264,"[60, 398, 482, 664, 1563]",outdoors,vgfb,Ei_-DlO7s_k
+265,"[184, 191, 227, 474, 985, 1807]",indoors,1tfb,i9AnOA10LjQ
+266,"[11, 20, 22, 29, 307]",indoors,L4fb,4FAJCVXylcU
+267,"[307, 1815]",indoors,g1fb,sm3dAsu736U
+268,"[26, 184]",indoors,AJfb,VuODw0LSrm8
+269,"[43, 60, 101, 549, 2490]",outdoors,9tfb,j8nTiCvqE1Y
+270,"[53, 58, 60, 228]",outdoors,YPfb,mThApSZbPvc
+271,"[14, 262, 3230]",outdoors,cqfb,o-yuX8IByWo
+272,[248],outdoors,7ofb,IBBKywjYLuY
+273,"[88, 184, 307, 313, 380, 416, 514, 614]",indoors,Ftfb,4fWEbn1EXGQ
+274,"[18, 43, 59, 101, 248, 668, 873]",outdoors,Gjfb,_EYPBVUO_yc
+275,"[60, 160, 273]",outdoors,lgfb,LYDAEG58jPc
+276,"[2, 18, 43, 59, 60, 76, 374, 385, 549]",outdoors,KWfb,9gl0nhhcIo0
+277,"[60, 1271, 1393]",outdoors,hhfb,W4aNbAN8f6U
+278,"[18, 43, 59, 60, 101]",outdoors,LGfb,H7URbSALUD8
+279,"[60, 160, 273, 888]",outdoors,Vtfb,2WzeCheXUD4
+280,"[191, 248]",outdoors,ElfE,eiNWZKQT_cE
+281,[248],outdoors,0cfE,WeY3dzsEoZk
+282,"[43, 60, 642]",outdoors,tXfE,Y1rTWkyuqXg
+283,[184],indoors,PvfE,ZXPy89yPbzs
+284,"[88, 184]",indoors,DmfE,XYm5hJfJaFo
+285,"[15, 18, 60, 87, 365]",outdoors,93fE,gQUl8_ppOSM
+286,"[2, 7, 83, 262, 541]",outdoors,JvfE,6o37qXI2chE
+287,"[60, 82, 160, 273, 888, 1423]",outdoors,TrfE,daw5IlKY698
+288,"[2, 7, 88, 184, 364, 380, 416]",indoors,mGfE,4d7PN7RF084
+289,"[88, 184, 307, 380, 416]",indoors,kzfE,jluEDplQCYs
+290,"[60, 353]",outdoors,mpfE,Q0-gHQXB7CE
+291,"[307, 400]",indoors,b3fE,E1ImU-Rgl4s
+292,[184],indoors,IqfE,gikgj6I4nZc
+293,"[2, 18, 43, 59, 60, 76, 385, 549, 693, 1415]",outdoors,PMfE,0FQeMeSpE_M
+294,"[2, 83, 262]",outdoors,9xfE,yZFQn9C5IeU
+295,"[60, 419, 1393]",outdoors,GafE,FrdfYw05tR0
+296,"[15, 18, 60, 67, 140, 1048]",outdoors,NdfG,ejF9hQFoiw4
+297,"[18, 43, 59, 60, 101, 286, 419, 1824]",outdoors,EHfG,RzPfIUuOoT0
+298,[248],outdoors,WZfG,_BzvP6gvlWw
+299,"[669, 1238]",outdoors,yofG,QXXI8iTFbD0
+300,"[2, 60, 76, 385]",outdoors,gPfG,xdZ3qoiVX38
+301,"[191, 248, 299]",outdoors,OrfG,ozI-X78owJM
+302,"[15, 262, 605, 619, 1057, 1174]",outdoors,71fG,Smi9ljXrkkU
+303,"[15, 18, 43, 59, 60, 549, 693, 906, 1503]",outdoors,fvfG,tzknyNi924A
+304,"[88, 184]",indoors,v3fG,J0Elq04DtbQ
+305,[1226],outdoors,rpfG,kRV9bl9g90I
+306,"[184, 1947]",indoors,pLfG,kTxTUipLqLw
+307,"[53, 58, 60, 166, 228]",outdoors,e9fG,gpvcGlf1xMY
+308,"[2, 7, 95, 248, 912]",outdoors,7zfG,5eBel9E6R2s
+309,"[43, 60, 709]",outdoors,PVfG,Gc5mIQ96lKI
+310,[184],indoors,75fG,1RQoIzGOUMI
+311,[248],outdoors,Y0fG,JAgH4joka08
+312,"[43, 60, 166, 182, 901, 958]",outdoors,arfQ,St07BBAoRmU
+313,"[184, 985]",indoors,ytfQ,BUe9AIEFKWw
+314,"[60, 68, 72, 98]",outdoors,5BfQ,Jv60n7FKviM
+315,"[184, 380, 400, 416, 614, 641]",indoors,lofQ,Q9FuHyoX7dQ
+316,"[184, 191, 985]",indoors,RDfQ,8L1uV8-YBO4
+317,"[15, 18, 43, 59, 60, 101, 1032]",outdoors,qofQ,GTBZfU55UHE
+318,"[60, 166, 182, 901, 3160]",outdoors,EofQ,O9DshHaoFmY
+319,"[0, 60, 432, 1056, 1865, 3204]",outdoors,RzfQ,WPyupODvLbI
+320,"[18, 43, 59, 60, 101, 286, 374, 1415]",outdoors,mGfQ,M4bMWSK759g
+321,"[514, 1148]",indoors,33fQ,M8SuJUq4XDc
+322,"[2, 7, 88, 184, 380]",indoors,hhfQ,DN-kQgCOgzk
+323,"[53, 58, 60, 163, 232]",outdoors,21fQ,lwjhBLVTWjo
+324,"[2, 60, 76, 385, 419, 1569]",outdoors,gUfQ,5_C_DKVLLAA
+325,[1226],outdoors,tqfQ,D_kkzk1J8Aw
+326,"[60, 353, 519, 673, 3553]",outdoors,7CfQ,IDGImq0YBvw
+327,"[2, 83, 262, 2126]",outdoors,59fQ,_PRVj8TyJ5E
+328,"[88, 184, 251, 616]",indoors,ZKfQ,0RYW6L4a5XI
+329,"[0, 208, 254, 262, 542]",outdoors,I1fQ,EATV4Inicfo
+330,"[184, 750, 992]",indoors,U2fQ,a3s3D13maOQ
+331,"[88, 307, 497]",indoors,0qfQ,FqJ8g5Bq36k
+332,"[248, 428]",outdoors,Gsg3,edsY7tTrYCU
+333,[248],outdoors,Fjg3,8AO_8cU1MAE
+334,"[60, 419, 1271, 1393]",outdoors,pSg3,q-gPaFVKClY
+335,"[88, 184]",indoors,Eig3,OS1d2lrEV2I
+336,"[15, 18, 60, 87, 333, 536, 1751, 1938]",outdoors,4og3,ckJZ2JrG-ns
+337,"[88, 184, 380, 416, 571]",indoors,pDg3,yd6t0hsm_i4
+338,"[53, 58, 60, 163, 232, 427]",outdoors,L8g3,hEblNi6hcTE
+339,"[60, 239]",outdoors,3Vg3,m2bXX7MOCMs
+340,"[60, 160, 166, 231, 273, 398]",outdoors,9kg3,yRZd1TqcVAk
+341,"[88, 184, 313, 364, 380, 416, 514, 614, 1013]",indoors,jdg3,yHv_klAzctg
+342,"[2, 19, 60, 76, 2499]",outdoors,fLg3,GE-L2eL8dMQ
+343,"[0, 83, 262, 542]",outdoors,yYg3,EkKoiNGKPbo
+344,"[53, 58, 60, 163, 214, 232]",outdoors,zEg3,nbViZar-0TM
+345,"[2, 60, 76, 385, 1055]",outdoors,Gjg3,QAIOHOtV6GY
+346,"[2, 60, 76]",outdoors,ygg3,i709VxFCdmc
+347,[248],outdoors,xUg3,Lh783mifm0w
+348,"[400, 641, 3501]",indoors,MMg3,XXp1ddde09g
+349,"[497, 514]",indoors,nng3,91AclyybHzU
+350,"[60, 1537]",outdoors,c6g3,tMVc8xY8egQ
+351,"[191, 248, 299, 1159]",outdoors,8vg3,gyteEIS2h6k
+352,"[191, 248, 299]",outdoors,PBg3,49-MZQnVE-4
+353,"[43, 60, 180, 873]",outdoors,XTg3,paQs_tmrEO4
+354,"[88, 313, 380, 821, 1025, 2012, 2351]",indoors,L0g3,FUjgkrMbNn8
+355,"[99, 184, 716]",indoors,1Wg3,gWOHocyj_OQ
+356,"[184, 191]",indoors,sWg3,exmHetey3no
+357,"[2, 7, 184, 307, 380, 402]",indoors,lFg3,IpXg9JmnY24
+358,"[11, 20, 22, 29, 32, 120, 122, 173, 307, 406, 747, 892, 1489]",indoors,dAha,Boc316mmcBQ
+359,"[88, 184, 380, 992, 1947, 2776]",indoors,XHha,X-doc-omfYk
+360,"[2, 76, 248]",outdoors,Ogha,nmBcOco3qOs
+361,"[88, 184, 364]",indoors,GTha,3D83CKi4r-k
+362,"[18, 43, 59, 60, 101]",outdoors,pOha,ucGdDM4g87A
+363,"[15, 18, 43, 59, 60, 101, 419, 549, 693, 3703]",outdoors,kjha,-vZ4SW8HQG4
+364,"[60, 353, 419]",outdoors,5Uhl,cl6lopNIHyQ
+365,"[18, 43, 59, 60, 101, 286]",outdoors,fvhl,AKZZYErczFk
+366,"[15, 60, 363, 519, 1238, 2972]",outdoors,VFhl,cfZdelr5Jtw
+367,"[60, 428, 794, 825]",outdoors,WRhl,5ZFC2YjqKMU
+368,"[2, 43, 60, 76, 101, 549, 571, 693, 906]",outdoors,3Phl,MrRbisRIqKA
+369,"[11, 83, 262, 506]",outdoors,5Nhl,t7vP0EO9b9g
+370,"[0, 262, 542]",outdoors,Sehl,ZZCz1NkkPIA
+371,"[88, 184, 380, 2536]",indoors,Ohhl,8quObyIvCII
+372,"[15, 18, 60, 87, 318, 365]",outdoors,tihl,LVzLTjATkIY
+373,"[18, 43, 59, 60, 101]",outdoors,FLhl,khiB1UD7vNg
+374,"[88, 184, 380]",indoors,VPhl,dnptfysf4XY
+375,"[11, 20, 22, 29, 32, 211, 307, 506, 791]",indoors,ELhA,oxS9qilCBc4
+376,[1226],outdoors,UKhA,bs0ytmV5Mh0
+377,"[60, 291]",outdoors,c2hA,re6aN_kbePs
+378,"[15, 18, 43, 59, 60, 101, 823]",outdoors,5ehA,IPGKIViK8N0
+379,[248],outdoors,xThA,ALX6jN3yyes
+380,"[60, 210]",outdoors,5nhA,8NJH5UKYsSM
+381,"[60, 68, 72, 98, 240]",outdoors,1xhA,AgHHF9fNdVA
+382,"[2, 43, 60, 76, 571]",outdoors,WZhA,M8HVEPcuXeQ
+383,"[88, 184, 416, 514]",indoors,GxhA,scCavt-ay6g
+384,"[11, 83, 262]",outdoors,MLhA,SSwHBzltdAI
+385,"[60, 141, 299, 746, 1289]",outdoors,g2hA,tT92LVxWeOA
+386,"[2, 7, 88, 184, 307, 380, 1013]",indoors,CbhA,o4JMQHC9x9A
+387,"[53, 58, 60, 163, 166, 232]",outdoors,MdhA,7DbFWfrD100
+388,[2211],outdoors,D2hR,8Go0zSojIEM
+389,"[11, 262, 1613]",outdoors,NDhR,50-CJGkgjF8
+390,"[60, 166, 333, 398]",outdoors,UOhR,K7P6fEFwoPc
+391,"[148, 184]",indoors,rihR,x-fSsEEyX6Y
+392,"[291, 666]",outdoors,ALhR,B5yjKd43dB4
+393,"[43, 60, 101]",outdoors,XjhR,_gBUmxHVf_E
+394,"[17, 19, 60, 340]",outdoors,tNhR,V88EO7JvhuE
+395,"[53, 58, 60, 163, 166, 232, 690]",outdoors,5chR,XW-bW9pOnxI
+396,[184],indoors,4KhR,nPUUbxbgwQI
+397,"[60, 353]",outdoors,4YhR,O-eIx_asKwU
+398,"[18, 43, 59, 60, 101, 286, 419]",outdoors,tXhR,0A_dnvowLrY
+399,[60],outdoors,0rhR,bW7XoyHVwbA
+400,"[53, 58, 60, 214]",outdoors,xKhR,bZDj9EG2gdA
+401,"[60, 353, 519, 666]",outdoors,uWhR,w1QdKfuZl1U
+402,"[2, 83, 262, 820]",outdoors,QNhR,5_D3tSYvsRQ
+403,"[15, 18, 60, 87, 365, 536, 2832]",outdoors,u1hR,MqBdejEHMuY
+404,"[60, 519, 1918]",outdoors,zIhR,lhE7nXHslc0
+405,"[18, 43, 59, 60, 101, 1975]",outdoors,1dhR,469YdzFx8O4
+406,"[248, 1389]",outdoors,wXhR,meunWstlPFc
+407,"[205, 598, 857, 1245]",indoors,qRhR,7vrufmAcfZs
+408,"[60, 419, 1271, 1393]",outdoors,LNhR,bNfRczQGKKs
+409,"[88, 184, 380, 614]",indoors,z6hS,reZfAixUlE8
+410,"[43, 248]",outdoors,GihS,5xuUTY9po1A
+411,"[88, 184, 242, 254, 380, 470, 614]",indoors,WnhS,IzOMWad3SJc
+412,"[88, 184, 307, 380, 416, 514, 614, 899, 1299]",indoors,1uhS,A-9hhz0aEiE
+413,"[39, 514, 2305]",indoors,ZJhS,nQOkCrDQnuc
+414,"[60, 72, 980]",outdoors,iphS,iPve92lJzPg
+415,"[184, 380, 400, 1152, 1608]",indoors,0shS,hZYVsg5q7a4
+416,"[184, 380, 400, 614, 1608]",indoors,PFhS,czRVUUr8Adk
+417,"[205, 598, 1245]",indoors,X4hS,b6qKAuyamkg
+418,"[0, 1, 262, 542]",outdoors,hvhS,gdZJDiiCoIY
+419,"[60, 365]",outdoors,zHhS,fzxjg5ErwJA
+420,"[88, 184, 307, 416, 514]",indoors,xMhS,-NtQslRYxDw
+421,"[60, 519, 666, 2626]",outdoors,ZohS,7QDDHz_xyRs
+422,"[2, 60, 76, 385, 1055]",outdoors,kahS,7DIi5qZpSjc
+423,"[60, 333, 2438]",outdoors,sPhS,ZrdVgRW2_-w
+424,"[60, 210, 685]",outdoors,EZh3,qvSQWtzsJy4
+425,"[2, 18, 43, 59, 60, 76, 101]",outdoors,1Wh3,bpXIR_Poguc
+426,"[15, 18, 43, 59, 60, 101, 374, 823]",outdoors,Wxh3,KD1PWPM4E4o
+427,"[184, 2180]",indoors,0Ah3,p-CnzMjXZN8
+428,"[43, 60]",outdoors,66h3,MNg--HldqeI
+429,"[248, 289]",outdoors,vRh3,hRRo0aVztmE
+430,"[60, 153]",outdoors,Sjh3,AZe_Hd3Xl4w
+431,"[191, 248, 299]",outdoors,b9h3,LtAXLKU1lDE
+432,"[18, 43, 59, 60, 101]",outdoors,ith3,twmqms-2_Nc
+433,"[88, 184, 416]",indoors,Jnh3,URjdxK5ZaRs
+434,"[191, 248, 299]",outdoors,24h3,ooMgJ6-Yq7w
+435,"[43, 60, 238, 274]",outdoors,Kth3,ll61IH1swT0
+436,"[0, 1, 83, 254, 262, 542]",outdoors,KOh3,uaVKWIi2IqA
+437,"[88, 184, 307, 380, 514, 614, 2536]",indoors,G0h3,Ehcmwo3xg_c
+438,"[18, 43, 59, 60, 101, 120, 668, 2462]",outdoors,W4h3,40Tt6-F_nTo
+439,"[0, 42, 262, 306]",outdoors,UXh3,9foW3d99hkE
+440,"[2, 30, 55, 60]",outdoors,JVh3,9sQK_AF2IoI
+441,"[15, 18, 43, 59, 60, 101, 286, 374]",outdoors,nph3,upgbqHS64E4
+442,"[2, 43, 60, 76, 90, 101, 385]",outdoors,F6ih,ebpNDwUBYBA
+443,"[60, 160, 273]",outdoors,s2ih,_iDYbC1Dxgs
+444,[184],indoors,u3ih,CQ51G81-t5w
+445,[248],outdoors,twih,R3IL1ZPTNqs
+446,"[88, 307, 416, 514, 2885]",indoors,Mmih,VDCr6U94X4s
+447,[262],outdoors,guih,9ymjpm51_z8
+448,"[18, 43, 59, 60, 101, 286, 374, 873, 1975]",outdoors,6Eih,4N07kOidUl4
+449,"[2, 15, 18, 43, 59, 60, 76, 101]",outdoors,meih,AIPmOTl1Yl0
+450,"[60, 419, 1271, 1393]",outdoors,Saih,qngdEmR2l48
+451,"[307, 313, 364, 3330]",indoors,7Nih,YUJwQZYkLSY
+452,"[15, 60, 239, 363, 686, 1714]",outdoors,89ih,5i0a3zcKUV4
+453,"[2, 7, 307, 402]",indoors,ieih,jFPBL9YFIYA
+454,"[18, 43, 59, 60, 101, 286]",outdoors,rXih,_JeEw8VHaU0
+455,"[353, 519, 666]",outdoors,0zih,YMKBx6cHb6Q
+456,"[60, 284, 291]",outdoors,hRih,F1yaxtI1b3w
+457,"[53, 58, 60, 163, 232, 494]",outdoors,Obih,7aX8ijyMKbs
+458,"[2, 7, 83, 262, 541]",outdoors,Rjih,VTGe4tJPURI
+459,"[1245, 2456]",indoors,uVih,jibDy93nqRc
+460,"[53, 58, 60, 163, 232]",outdoors,86iw,crnzmnUybnI
+461,"[53, 58, 60, 163, 232]",outdoors,Xoiw,4ssyjERnlwQ
+462,"[88, 184, 380, 416, 614]",indoors,fJiw,FRCwSVvLozU
+463,[1245],indoors,Tsiw,XRr_AUFPez8
+464,"[26, 262]",outdoors,9Eiw,P7tfXlhdD64
+465,[60],outdoors,hFiw,Usv2hi8u4DE
+466,"[15, 262, 502, 619, 3169]",outdoors,dLiw,EpSLGj7Q4mQ
+467,"[18, 43, 59, 60, 101]",outdoors,kmiw,-5rSLe0aC5g
+468,"[307, 420, 2039]",indoors,priw,WF5nB_Ms3OE
+469,"[15, 262, 502, 619, 713]",outdoors,5qiw,vevczQuVpe4
+470,"[313, 2105]",outdoors,mfiw,d198w0Z_U9Y
+471,[666],outdoors,0Aiw,wQuP_AoQ3A0
+472,"[18, 43, 59, 60, 101]",outdoors,EKiw,OokbCOAtirs
+473,"[307, 616, 966, 1025]",indoors,FViw,WoOW6jbCw2c
+474,"[246, 514]",indoors,04iw,Iw6rIXnq-3Y
+475,"[60, 1982]",outdoors,6Siw,_DJ7wsa-XTE
+476,"[15, 18, 60, 87, 365, 536, 619, 2832]",outdoors,sJiw,ZGk-8afhK0U
+477,"[60, 310]",outdoors,DJiw,rjC9fW3T0rg
+478,[248],outdoors,TUiw,ovrgyl90vds
+479,"[60, 1626]",outdoors,JFiy,eboPxpdxbNc
+480,"[15, 18, 60, 87, 545]",outdoors,4Giy,8HZ2pyX5sdE
+481,"[53, 58, 60, 163, 232, 427]",outdoors,6Diy,NKz-uxTfNdA
+482,"[60, 353, 519, 666]",outdoors,xHiy,ZUcKWI8a76w
+483,[248],outdoors,Nriy,w_c2X6fsS3I
+484,"[53, 58, 60, 163, 428, 3524]",outdoors,jpiy,tyO2usgqdOU
+485,"[88, 184, 191, 364, 1013]",indoors,mJiy,gXyIUBrWY64
+486,"[88, 307, 497]",indoors,Spiy,mV0PJIbbf-k
+487,"[2, 44, 46, 60, 64, 179, 664, 965]",outdoors,EJiy,goG9l_IVxOM
+488,"[18, 43, 59, 60, 101, 286]",outdoors,myiy,Gu0hP7wDWow
+489,[248],outdoors,dNiy,xmCptiFn8XY
+490,"[18, 43, 59, 60, 101, 286]",outdoors,Jwiy,q5Ik6bVqGRE
+491,"[88, 184, 313, 364]",indoors,Rwiy,W2LLatkzljY
+492,"[18, 43, 59, 60, 101, 286, 549, 1637]",outdoors,RAjd,LKWgGq7_g-Y
+493,"[0, 42, 262, 306]",outdoors,Nujd,DcDiTjCxCVM
+494,"[15, 18, 43, 59, 60, 101]",outdoors,CUjd,VFoGeEYbXFk
+495,"[18, 43, 59, 60, 101, 286]",outdoors,Zsjd,EXK1ejqk_cM
+496,"[191, 248]",outdoors,cWjd,0aeLoCCp_0s
+497,"[2, 17, 30, 60]",outdoors,nojd,NTuLXl3mGyE
+498,"[60, 385, 1055, 1393]",outdoors,kUjd,VyPiR_znWng
+499,"[15, 262, 502, 619, 713]",outdoors,cqjd,0z7XpwnJcpw
+500,"[191, 248]",outdoors,17jd,XEslOQZHOko
+501,"[146, 248, 332]",outdoors,ksjd,qaZOCJ8-yak
+502,"[18, 43, 59, 60]",outdoors,8Pjd,QHlA4tifrk0
+503,"[60, 353, 1765]",outdoors,PRjd,QI76FrYJUQU
+504,"[15, 18, 43, 59, 60, 101, 286]",outdoors,GWjd,fJBMFqOAeno
+505,"[307, 364, 1299]",indoors,JLjd,T9rnNR9_DY8
+506,"[2, 30, 55, 60]",outdoors,zWjd,jr3dNNOsUGQ
+507,"[60, 160, 273]",outdoors,REjw,LjsAS5sYK1M
+508,"[15, 18, 60, 87, 244]",outdoors,Fqjw,08cgX2fLc3Y
+509,"[15, 18, 60, 87, 365, 536, 545]",outdoors,kPjw,Xs9he9IsD7U
+510,"[15, 18, 60, 87, 333, 365]",outdoors,NOjw,pD1Dgqz8sLw
+511,"[2, 7, 83, 262, 751]",outdoors,nSjw,Hvz0KO1o3e8
+512,"[2, 18, 43, 59, 60, 76, 101]",outdoors,47jw,31bvDXpOUhY
+513,"[60, 239, 686]",outdoors,NDjw,kSDwbwDCBQE
+514,[307],indoors,22jw,fZBvSAvTjxc
+515,"[43, 248]",outdoors,18jw,gW_eTp2CA_M
+516,"[248, 398, 482, 501, 664, 1290]",outdoors,Ghjw,qKqoTPujmXY
+517,"[88, 184, 364, 416]",indoors,LBjw,Zu0AaoQhkBA
+518,"[88, 184, 191, 299, 380, 416, 614]",indoors,kqjI,RzD2h1tyfuY
+519,[666],outdoors,KmjI,_d4aXlNMp9s
+520,"[18, 43, 59, 60, 101, 286]",outdoors,lHjI,sFW_s9RFSLo
+521,"[18, 43, 59, 60, 101, 419, 823, 991, 2952]",outdoors,c9jI,zFK85uCihoc
+522,"[60, 353, 673]",outdoors,TPjI,VAX1MPk-6jE
+523,"[15, 18, 43, 59, 60, 101, 2735]",outdoors,VijI,4oKvooZkNls
+524,"[60, 353, 673, 1615]",outdoors,REjI,hTJt1nJsPiA
+525,"[19, 53, 58, 60, 163, 232]",outdoors,86jI,iDFo10c-ypk
+526,"[60, 126, 291]",outdoors,53jI,-9M2tVgdUtA
+527,"[60, 239, 2625]",outdoors,KdjI,zkB_-330pzA
+528,"[2, 18, 43, 59, 60, 76, 101, 286, 1824]",outdoors,i0jI,zudMwbOtRSM
+529,[1245],indoors,MYjI,I72DFAqhIfM
+530,[248],outdoors,bHjI,jvlD57raMZk
+531,"[0, 1, 27, 262]",outdoors,mFjI,Hb_nNjOirus
+532,"[60, 248]",outdoors,3OjI,N1BwYybJ1GM
+533,"[60, 353, 673]",outdoors,SZjI,Ndr1Lo73Nnc
+534,"[53, 58, 60, 163, 232]",outdoors,98jR,re_15Mdt5QA
+535,[248],outdoors,a1jR,SbxMi2DLTqc
+536,"[514, 1443]",indoors,cUjR,JTQYU9gJUKc
+537,"[2, 7, 88, 184, 307, 402, 416]",indoors,NzjR,1x-nfMrcH70
+538,"[0, 1, 254, 262, 542, 751]",outdoors,ifjR,mDTD5j8ugOg
+539,"[60, 160, 231, 491]",outdoors,fGjR,gLRzkE4dcN0
+540,"[15, 18, 43, 59, 60, 101, 1032]",outdoors,7njR,97hGmn1GjLM
+541,"[11, 22, 307, 406]",indoors,gFjR,Ag-KmLS5Lio
+542,"[60, 353, 519]",outdoors,aYjR,7pmMp_uPUoE
+543,"[400, 416, 514]",indoors,CrjR,dvVh4yWom7A
+544,"[18, 43, 59, 60, 101, 286]",outdoors,OHjR,q_lH6i3TjHQ
+545,"[60, 519]",outdoors,zrjR,gCjSIRVUxAo
+546,[248],outdoors,BSjR,3VZhHvt1Jks
+547,"[18, 43, 59, 60, 101]",outdoors,YTjW,Z-jXPa74jRo
+548,"[88, 184, 364, 416]",indoors,etjW,qQTqzcSFbp4
+549,"[15, 18, 43, 59, 60, 101, 286, 2350]",outdoors,ImjW,RUXN2PpZMaA
+550,"[18, 59, 60, 238, 274, 289, 366]",outdoors,1EjW,3JChV7eUbfg
+551,"[2, 17, 60, 95, 490]",outdoors,bZjW,P34-7Ew2SKs
+552,"[60, 519]",outdoors,wUjW,P5ozqBHcY6w
+553,"[60, 68, 72, 151]",outdoors,ftjW,nOvuxOkvro8
+554,"[2, 43, 60, 76, 549, 571]",outdoors,DDjW,bdbPRUuaLqE
+555,"[18, 43, 59, 60, 374]",outdoors,i2jW,JzYPAX_YZsk
+556,"[83, 262, 2000, 3230]",outdoors,7wjW,unBS-xQ4V3g
+557,"[60, 68, 72]",outdoors,r3jW,Y2wd9BF4vtw
+558,"[60, 385]",outdoors,VyjW,VKBm_ijBZks
+559,"[60, 519, 669]",outdoors,fKjW,JRQgyFZ59yA
+560,"[88, 184, 307, 380, 416]",indoors,XWjW,mfzqjMUlkcw
+561,"[5, 16, 614]",indoors,XXj6,T37lxbS-q5s
+562,[307],indoors,Kej6,Tffc9nlKPZo
+563,"[11, 20, 22, 29, 32, 122, 123, 307, 406]",indoors,TKj6,JjsM2DeyyZM
+564,"[60, 180, 239]",outdoors,Fvj6,BNW2JdwJbxg
+565,"[60, 166, 353, 673]",outdoors,5Kj6,y7YcAw1nIFU
+566,"[53, 58, 60, 163, 166, 232, 427]",outdoors,wLj6,bXldW_8LFj8
+567,"[60, 353, 385, 419, 1271, 1393]",outdoors,EBj6,tftusIw_-MQ
+568,"[18, 43, 59, 60, 101, 286, 374, 549]",outdoors,Raj6,25DBLl-0qx8
+569,"[113, 289, 666]",outdoors,bpj6,PDwiBERCVpo
+570,"[191, 248]",outdoors,kHj6,fReIgS_C6No
+571,"[18, 43, 59, 60]",outdoors,TWj6,asXJUcAZn0g
+572,"[60, 210, 698, 2390]",outdoors,Fdj6,gBYQawQ1xTs
+573,"[18, 43, 59, 60, 101, 549]",outdoors,cDj6,xmKP6Ni7Qqs
+574,"[18, 43, 59, 60, 101]",outdoors,Noj6,q4-uKxlTBDs
+575,"[15, 60, 239, 686, 1880, 2625]",outdoors,05j6,_0bBq70vbv0
+576,"[2, 18, 43, 59, 60, 76, 101, 281]",outdoors,sTkr,eQOJIGHEuC4
+577,[248],outdoors,JQkr,uLzCIAJAFQw
+578,"[0, 60, 1056]",outdoors,idkr,_hlIJoWrUbk
+579,"[15, 18, 87, 248]",outdoors,cwkr,qs8mqzNhRxI
+580,"[2, 60, 76, 385, 419, 1055, 2696]",outdoors,iZkr,4NKE4pNFr9o
+581,"[88, 184, 307, 380, 400, 416]",indoors,zrkr,YXOugLystcs
+582,"[11, 20, 22, 29, 32, 307, 426, 2462]",indoors,HXkr,Eydie3DAFhE
+583,"[53, 58, 60, 160, 273, 1139]",outdoors,Lwkr,31BdEsuCDtU
+584,"[182, 248, 634]",outdoors,yzkr,4865h3w-Pw8
+585,"[2, 18, 43, 59, 60, 76, 101]",outdoors,ZTkr,u_O-k6AcO8o
+586,"[451, 1245]",indoors,Eokr,S2JRMLKcqEs
+587,"[5, 16, 614]",indoors,3Lkr,CAKPE7DVk8g
+588,"[191, 248, 299, 746]",outdoors,dVkr,5PFG65eZrGc
+589,"[60, 353]",outdoors,5UkN,qRcI_JlUoHY
+590,"[18, 67, 380, 400, 1608]",indoors,ZykN,WSRm2m90paQ
+591,"[18, 43, 59, 60, 101, 286, 991, 1415]",outdoors,lPkN,NKH2VoRvKnw
+592,"[182, 248]",outdoors,wbkN,WqanTfa06ls
+593,"[43, 248]",outdoors,W1kN,nJJlTOiyag0
+594,"[60, 160, 231, 273, 1423]",outdoors,51kN,f9fmEhVSSXc
+595,"[26, 83, 262]",outdoors,h4kN,fEvG8gmUmnc
+596,"[184, 277, 388]",indoors,OokN,w_R81fDl5jM
+597,"[15, 18, 60, 87, 536]",outdoors,3LkN,dAaJWYoiZVg
+598,"[11, 22, 307, 1891]",indoors,RykN,goqtMqqjlQU
+599,"[18, 43, 59, 60, 101]",outdoors,JzkN,fZd21-GLrvM
+600,"[60, 353, 673]",outdoors,8TkN,3O-QKstghlY
+601,"[60, 163, 427]",outdoors,BckN,bCIJqy4_NHI
+602,"[60, 160, 273]",outdoors,2SkN,vTZtGnkE8Kw
+603,"[18, 67, 598, 1245]",indoors,c9kV,Z07E8yEhPi8
+604,"[205, 598, 1245, 1776]",indoors,0nkV,oTiy_rrj1Js
+605,"[11, 20, 22, 29, 32, 122, 173, 307, 1792]",indoors,0mkV,z2xN8U_Wtd0
+606,"[53, 58, 60, 163, 232, 284]",outdoors,ArkV,DTDHhv7NE7I
+607,"[88, 184, 380, 400, 614]",indoors,KekV,2LvJQGVwqms
+608,"[191, 248, 299, 311]",outdoors,WJkV,LuRrVJuNpxY
+609,"[15, 18, 60, 87, 333, 365, 536]",outdoors,EikV,WC8chpcQ9zc
+610,[1226],outdoors,wIkV,7tjX41fbJyk
+611,"[160, 273, 666, 888]",outdoors,ZdlE,kQJ7NjZ1hdM
+612,"[205, 598, 1245, 1776]",indoors,hhlE,qSXbQuKPD34
+613,[666],outdoors,BhlE,f3GDaGVJmPc
+614,"[0, 60, 432, 1056, 1865]",outdoors,MFlE,Sd33h1w5KAE
+615,"[0, 1, 83, 254, 262, 542]",outdoors,PXlE,VYO3NCrJNVY
+616,"[11, 20, 22, 29, 32, 122, 211, 307, 321, 334, 430, 444, 576, 1157]",indoors,vQlE,LhbiaFKuGqU
+617,"[15, 18, 43, 59, 60, 101, 549, 906]",outdoors,7RlE,7kHZ5e1_xkI
+618,"[18, 43, 59, 60, 101, 286, 374]",outdoors,yAlE,iIvnwKLV2Fw
+619,"[262, 3230]",outdoors,j5lE,Lq_p7krNK8U
+620,"[2, 7, 307, 402]",indoors,FilE,gxvnm9OTdCw
+621,"[41, 205, 857, 1245]",indoors,BWlE,64nZclPXegg
+622,"[2, 18, 43, 59, 60, 76, 101, 385]",outdoors,sFlE,4YBmmknrSiI
+623,"[60, 210, 685]",outdoors,n2lE,IEdNgPeS-6Q
+624,[1226],outdoors,JVlE,3YfRkqvMs3M
+625,"[248, 1334]",outdoors,zElE,HU8ZRjndtWk
+626,"[60, 160, 231, 284, 491]",outdoors,4YlE,eY-V5uBHETU
+627,"[88, 184, 307, 311, 364, 416, 514]",indoors,VXlE,sP38rAhyL7U
+628,"[2, 43, 60, 76]",outdoors,SplE,vTnciM-kwJI
+629,"[88, 184, 380, 416]",indoors,f4mc,rPrgp7BwKBg
+630,"[18, 43, 59, 60, 101, 286, 549, 693, 906, 2681]",outdoors,Jbmc,xMr3fA6PFWY
+631,"[18, 43, 59, 60]",outdoors,4xmc,vAR6-OOkyvU
+632,[1226],outdoors,zcmc,jReKFUefI6U
+633,"[43, 60, 101, 374, 1975]",outdoors,J9mc,EHsjlRQ-Crs
+634,"[43, 101, 248]",outdoors,YOmc,t3a-cZQkWKM
+635,[184],indoors,Kymc,6zGzVUIGYdk
+636,"[184, 191, 985]",indoors,Gxmc,T8Wab3X2U6s
+637,"[60, 239]",outdoors,o6mc,FnKXGDw00a0
+638,[307],indoors,46nk,-hVxfN7YONc
+639,"[2, 76, 184]",indoors,nYnk,JYtvDSmjhUo
+640,[2105],outdoors,c0nk,er3wXR6iqWs
+641,"[205, 598, 857, 1245]",indoors,bgnk,CP-P9Lq68Ac
+642,"[2, 30, 55, 60, 428]",outdoors,sfnk,X5PS_SY4q-g
+643,"[2, 43, 60, 76, 473, 547]",outdoors,iLnk,LE6UzeAOyes
+644,"[5, 262]",outdoors,0pnk,0E3aOZ-9Y_M
+645,"[11, 15, 96, 173, 262, 397, 619, 1057, 1098]",outdoors,Qunk,J2u7UE0njpQ
+646,[60],outdoors,Ngnk,ViRfHkCxD1Q
+647,"[60, 291]",outdoors,qInk,69Vym4JLoWE
+648,"[2, 7, 83, 262, 2044]",outdoors,rFnk,Hc-37ZvP2u4
+649,"[514, 580]",indoors,Asnk,3YwfSZ2iJzo
+650,"[15, 18, 43, 59, 60, 101, 374, 385]",outdoors,ngnk,xlscDN8gxqk
+651,"[15, 18, 60, 87, 333, 365]",outdoors,Wvnk,rgIbjzs18Rk
+652,"[43, 60, 286, 873]",outdoors,ugnk,sSeNrUnKFnQ
+653,"[2, 7, 83, 262]",outdoors,hnnk,9RM9dhAgVOc
+654,"[289, 666]",outdoors,lAny,4wCBxeHl7sw
+655,"[262, 2000]",outdoors,eXny,MSaa69M5XJU
+656,"[2, 60, 76, 385, 419, 1393]",outdoors,PYny,YnjumV443_w
+657,"[15, 262, 502, 619]",outdoors,hyny,BMRAEhBEdjE
+658,"[60, 210]",outdoors,xxny,KXgpdjuQEh0
+659,"[2, 83, 262]",outdoors,p0ny,IjTSYB9Vm-I
+660,"[53, 58, 60, 163, 232]",outdoors,Yyny,RIlTsHEuF8k
+661,"[191, 248, 299]",outdoors,BVny,IZZlhx9zZ24
+662,"[60, 428, 825]",outdoors,c8ny,1ginHkCRd6Y
+663,[2211],outdoors,Csny,dAw2YKmCqTc
+664,"[11, 20, 22, 29, 307, 886]",indoors,zAny,EJFmvZ6Nxc0
+665,"[11, 20, 22, 29, 32, 307, 559]",indoors,Czny,K6LZ_VZrBys
+666,[3501],indoors,RAny,_IAOp290Rpw
+667,"[43, 60, 101, 286, 991, 1824]",outdoors,bXny,ZD27y-gB0ls
+668,"[18, 43, 59, 60, 101, 286, 823, 1824]",outdoors,Mlny,kwJkQ_7DPUM
+669,"[60, 68, 72, 98, 151, 166, 452, 480]",outdoors,dyny,9tcI5hQNxlU
+670,"[262, 542]",outdoors,9vnL,bqtT_A2mpmw
+671,"[2, 43, 60, 76, 374, 3040]",outdoors,rRnL,tG2ksw2yYjI
+672,"[88, 184]",indoors,AmnL,QReeZoUUvKY
+673,"[60, 353, 519, 666]",outdoors,KbnL,c8SA5JOhW9s
+674,"[2, 7, 60, 95, 1412]",outdoors,qUnL,JV9-uj6VCLg
+675,[184],indoors,B7nL,Dz0nOficYFs
+676,"[18, 43, 59, 60, 101]",outdoors,FenL,iAUZkuo94pE
+677,"[18, 43, 59, 60, 101, 286, 419]",outdoors,gnnL,7oZB2i6Kvmk
+678,"[2, 18, 43, 59, 60, 76, 101, 385]",outdoors,UhnL,3eAeJw0ru5w
+679,"[88, 184, 311, 380, 416, 514, 2365]",indoors,YZnL,6iHrf5-nH8Q
+680,"[60, 353, 673]",outdoors,eSnL,d5uYVj_zoRU
+681,"[15, 60, 239, 686, 1714]",outdoors,p3nL,UFc21vWuuoA
+682,"[60, 68, 72, 98, 240, 480]",outdoors,ewnL,dwq51s2b6CA
+683,"[307, 341]",indoors,7hnL,Vf6QnBXvuco
+684,"[18, 43, 59, 60, 101, 374, 549, 906]",outdoors,ZVnL,5eVQnXdP-ag
+685,"[83, 262, 3230]",outdoors,qInL,LZfIOyt5KPU
+686,"[60, 72, 98, 240]",outdoors,qXnL,GPw3A-WJ_d8
+687,"[60, 419, 669]",outdoors,YNnL,7GI1FqUvWPw
+688,"[15, 18, 60, 87, 365]",outdoors,vVnW,nFjYZtDMOOo
+689,"[60, 239, 2071]",outdoors,MVnW,qzayoabkDJU
+690,"[60, 428, 571, 1055, 2785]",outdoors,25nW,tIiLc565Z1A
+691,"[191, 248, 299, 311]",outdoors,9XnW,6Jisgym0dWQ
+692,"[15, 18, 60, 87, 365, 536]",outdoors,qwnW,ynrjUJspmCc
+693,[248],outdoors,TxnW,JWbrbgE7Yjc
+694,"[299, 380, 614]",indoors,ZhnW,TkZhfmB5xxs
+695,"[2, 83, 262, 2126]",outdoors,mbnW,JjJxuSO4KA4
+696,"[88, 184, 364, 380, 614, 1013]",indoors,IonW,Qngcnj-sR0w
+697,"[43, 60, 101, 286]",outdoors,KWnW,VEZXUejCS2Y
+698,"[11, 20, 22, 29, 307]",indoors,bXnW,mD76WzfT63A
+699,"[276, 380]",indoors,6MnW,uUmg8Mm8KWI
+700,"[60, 160, 231]",outdoors,GNnW,yvhJyyypzmc
+701,"[15, 173, 262, 502, 619, 747]",outdoors,rjnW,iIHMJFwc2Ik
+702,"[18, 43, 59, 60, 101, 286, 1503]",outdoors,NRnW,VOq1cSmnVRs
+703,"[0, 262, 542]",outdoors,djnW,5aky21Bq11Y
+704,"[88, 184, 497, 514, 2885]",indoors,sInW,lffpj43sTKc
+705,"[0, 60, 1056, 1865, 3204]",outdoors,OFnW,xOPWulCCKvM
+706,"[15, 83, 262]",outdoors,FcnW,vtKUNmkKmoI
+707,"[60, 239, 2625]",outdoors,jqnW,r2BkgXmBLUM
+708,"[88, 184, 380, 514, 614]",indoors,KWpX,ocEwAaSEKN4
+709,"[43, 60, 101, 286, 571]",outdoors,FtpX,poVGRaniaZQ
+710,"[60, 511]",outdoors,LQpX,3lmPWN891PU
+711,"[43, 60, 1824]",outdoors,qWpX,VIfP9yeauDM
+712,"[2, 43, 60, 76, 385]",outdoors,F6pX,gKvlwwhPoC4
+713,"[289, 666]",outdoors,uepX,iGsx2TgtPUk
+714,"[88, 184, 191, 364, 380, 416, 514, 1013]",indoors,EnpX,DROgTYmqN1E
+715,[184],indoors,LcpX,GkgkwnAsn2U
+716,[1245],indoors,rmpX,-c5I0l6mj_Y
+717,"[2, 17, 30, 53, 55, 58, 60, 232, 340]",outdoors,15pX,x6QcHFzwE84
+718,"[184, 191, 299]",indoors,IRpX,uCvL2szNzhM
+719,"[248, 958]",outdoors,ALpX,qdaiiWSATho
+720,[666],outdoors,HlpX,wIGHmmBui5g
+721,"[18, 43, 59, 60, 101]",outdoors,xppX,ZIT5Osruve8
+722,[307],indoors,IXpX,Rr_JlW9WJb4
+723,"[15, 18, 60, 87]",outdoors,y6pX,V0tDJyabAGk
+724,"[60, 365, 1696]",outdoors,D8qd,lzX3zLBleCE
+725,[248],outdoors,coqd,m2fJsqafozc
+726,"[49, 80, 127, 277, 770, 787, 2211, 2274, 3030]",outdoors,k2qd,1xaSZPuxNQs
+727,"[15, 262, 502, 619]",outdoors,piqd,BS6_Vi8AZHo
+728,"[2, 18, 43, 59, 60, 76, 101, 286, 385]",outdoors,Gpqd,zozyiL5GM6U
+729,"[60, 353, 1393]",outdoors,tNqd,SYGnOdSMReM
+730,"[2, 60, 76, 385, 1055]",outdoors,YQqd,pyZthRr_wgs
+731,"[99, 1245]",indoors,zoqd,DVE9pzzdJo4
+732,"[248, 1848]",outdoors,qLqd,EDjHVsjvYn4
+733,"[43, 60, 419, 991]",outdoors,KIqd,bAe0KMoUfLc
+734,"[18, 43, 59, 60, 101, 286, 693]",outdoors,5Aqd,xi6tveaJlgU
+735,[60],outdoors,b4qd,ZpXwfBmhDVY
+736,"[60, 160, 252, 273]",outdoors,t8qJ,WQ6U2mWGfZg
+737,"[307, 400, 497, 2305]",indoors,BAqJ,JBn9xWR-vRQ
+738,"[88, 307, 364, 416]",indoors,iFqJ,B0FZbQaK4Y4
+739,"[15, 18, 43, 59, 60, 101, 374]",outdoors,3IqJ,rsys2fDpIvQ
+740,"[88, 184, 313, 347, 388, 497, 514]",indoors,DSqJ,nAA5pN9EYEk
+741,"[18, 43, 59, 60, 101, 286]",outdoors,p6qJ,Kx7KVg76CNA
+742,"[15, 18, 60, 67, 2401]",outdoors,9RqJ,UsonkMMiErg
+743,"[15, 18, 60, 87, 365]",outdoors,Z1qJ,i9_aKSO6oJw
+744,"[88, 184, 364]",indoors,O4qJ,iA18cdIjteI
+745,[184],indoors,ZdqJ,yDS2rhfjgsI
+746,"[18, 43, 59, 60, 101, 286, 1032]",outdoors,0jqJ,bZ16hi89JAY
+747,"[353, 428, 666]",outdoors,TVqJ,YSOHj2C8dLI
+748,"[43, 60, 642]",outdoors,VxqJ,3fn0uyd4QPk
+749,"[15, 18, 60, 87, 545]",outdoors,RpqJ,-d89ywtmGJM
+750,[2211],outdoors,P5qJ,LsM-uWL1ZUo
+751,"[184, 191, 299]",indoors,MnqJ,RJc1T6A5eaU
+752,"[0, 60, 166, 385, 398, 482]",outdoors,iSqJ,VtRdQtF2o0s
+753,"[15, 18, 60, 87, 365]",outdoors,lXqJ,qcXvSUvGEXo
+754,"[60, 1103]",outdoors,U8qJ,5pnu8XvH99k
+755,"[18, 43, 59, 60, 101]",outdoors,lTqM,_eHXH-VnezY
+756,"[46, 60, 908, 965]",outdoors,H6qM,JTrtOD00qGE
+757,[248],outdoors,gcqM,TgyogDeoS-8
+758,"[11, 20, 22, 29, 32, 112, 122, 307]",indoors,2oqM,fos5c6DAX2Y
+759,"[18, 43, 59, 60, 101, 286, 873]",outdoors,AtqM,gK5W19bwS-o
+760,"[53, 58, 60, 163, 232]",outdoors,kwqM,jXoHyhXaEfM
+761,"[2, 30, 55, 60, 427]",outdoors,5cqM,WCEh3aaoL_o
+762,"[15, 18, 60, 87, 333]",outdoors,JHqM,qaDoPa4M9UU
+763,"[88, 184]",indoors,rSqM,6e-3ymTjTC4
+764,"[522, 2105]",outdoors,6EqM,554KzCLMAoM
+765,"[15, 18, 60, 87, 365]",outdoors,CFqM,iqVy8M8aa1o
+766,"[60, 180]",outdoors,bxqM,IqMTw3Itaes
+767,"[60, 68, 72, 98]",outdoors,diqM,W3WxlHx-7PA
+768,[60],outdoors,u1rG,SARi-l0zOs8
+769,[248],outdoors,mPrG,ofZ7Ah53Qvk
+770,"[60, 239, 2071]",outdoors,7ZrG,5LJeCtu3w1E
+771,"[60, 160, 273]",outdoors,v2rG,ifolLRa7YT8
+772,"[2, 83, 262]",outdoors,BXrG,7dQLQW6h9VQ
+773,"[514, 1025]",indoors,virG,faNGKZOlro4
+774,[60],outdoors,LPrG,xo6h646uL4Q
+775,"[18, 43, 59, 60, 101, 286]",outdoors,uirG,Um3CzJTz4RQ
+776,[184],indoors,xCrG,pY183gxsKwY
+777,[60],outdoors,HkrG,DAI88zIOMDU
+778,"[60, 385, 419, 1393]",outdoors,g1rG,rj4t4ZL309E
+779,"[205, 1245]",indoors,6JrH,yUefWGr9-9Q
+780,"[2, 60, 76, 1055, 2499]",outdoors,JurH,C_PewLapWUI
+781,"[15, 18, 60, 87, 365]",outdoors,bMrH,JhQj4gRU4GE
+782,[248],outdoors,d5rH,9GvuNtGGz4c
+783,"[0, 1, 254, 262, 542]",outdoors,clrH,8JicTcb0axg
+784,"[514, 1148]",indoors,tNrH,H_1cTwch8Ao
+785,"[307, 2076]",indoors,mqrH,21laHgsYXQg
+786,"[88, 184, 307, 364, 416, 616, 1619]",indoors,DsrH,WHPcDjKGQ80
+787,"[205, 598, 1245]",indoors,7CrH,fU8VByAvoMU
+788,"[14, 60]",outdoors,r0rP,ePJYmXMUhd4
+789,"[60, 385, 419, 1393]",outdoors,myrP,9TJwS2-I-p0
+790,"[15, 18, 43, 59, 60, 101, 3285]",outdoors,zTrP,O2Uy9sHWA6k
+791,"[248, 730, 798, 824, 971, 1243]",outdoors,Y7rP,K-fxWU-zgX0
+792,"[598, 1245]",indoors,XBrP,GqGNpsNi4Bk
+793,"[2, 17, 30, 55, 60, 340]",outdoors,zSrP,YRu3m8yqho0
+794,"[60, 101, 374]",outdoors,ForP,w6Wfv-Jd8rg
+795,"[43, 60, 101, 286]",outdoors,bWrP,tE_oLRa6ywU
+796,"[184, 299, 571, 1013]",indoors,8IrP,1-o9B9ADkBE
+797,[248],outdoors,QxrP,tXBw6PYCTFg
+798,"[43, 60, 642]",outdoors,G8rP,1nSCMZkJ0ec
+799,"[18, 43, 59, 60, 604, 823]",outdoors,3srP,W7QRjhVfvQg
+800,[248],outdoors,5Vr4,87YbTBRO-IU
+801,"[205, 1245]",indoors,kYr4,KAiuaTSD0MY
+802,"[254, 313, 1226, 1886]",outdoors,o7r4,j0kkMEM000M
+803,"[88, 184, 364, 380]",indoors,E3r4,yqYdMkuLTuM
+804,"[15, 18, 60, 67, 239, 2924, 3539]",outdoors,oyr4,6kFAHQxOHE8
+805,"[60, 160, 231, 273]",outdoors,SRr4,cDAhqf1fWdM
+806,"[88, 184, 313, 364, 416, 614]",indoors,sTr4,zPF0bwrp4xw
+807,"[60, 398, 482]",outdoors,Uhr4,RhYTAALu1Zw
+808,"[15, 60, 239, 686, 1880]",outdoors,4Ar4,SleNU3Ao60k
+809,"[60, 304, 825]",outdoors,yCr4,AAltAeG_SR4
+810,"[88, 184, 364, 416]",indoors,RRr4,UQiiU9sorek
+811,"[43, 60, 101]",outdoors,wYr4,VfWZ7OnNPGs
+812,"[2, 15, 18, 43, 59, 60, 76, 101, 549]",outdoors,ttr4,D3RppgcXi00
+813,[248],outdoors,CHr4,VJLL5AFpaHI
+814,"[248, 299]",outdoors,iar4,5C5AbUbB76Y
+815,"[238, 248, 274]",outdoors,h6r4,vY9EBra3cV8
+816,[1226],outdoors,9Ir4,LXH_QlUkjRI
+817,"[60, 365]",outdoors,oXr4,fFkO-PfW6-g
+818,"[15, 60, 239, 363, 686, 1714]",outdoors,bPr4,5X69-oBOvL8
+819,"[60, 353, 519]",outdoors,0Msb,SaFp74MDeOA
+820,"[11, 20, 32, 184, 1964]",indoors,6hsb,J-evvA9qdY0
+821,"[43, 60, 374, 549]",outdoors,lrsb,A8ITrvMu8lU
+822,"[60, 210, 685]",outdoors,DHsb,Pt5-2M5r5lQ
+823,"[0, 60, 1056]",outdoors,t5sb,ldzWBOaqoSo
+824,"[60, 519, 995]",outdoors,Rwsb,amjzkjaQzEU
+825,[248],outdoors,scsb,anP2b_4qGmA
+826,"[191, 248, 299]",outdoors,C0sb,dNi-VAkIyXw
+827,[248],outdoors,ursb,gCDAAm40Rl4
+828,"[11, 20, 22, 29, 32, 122, 123, 250, 307]",indoors,rrsb,VSyLoyXY0CM
+829,"[53, 58, 60, 160, 166, 231, 491, 1139]",outdoors,mKsi,crUj0JM5aYE
+830,"[88, 184, 364, 416, 1013]",indoors,qbsi,lzbMWedFbKw
+831,"[191, 248]",outdoors,Oosi,BR7LiNAbH8A
+832,[248],outdoors,Glsi,7kS7dFjJe4s
+833,[60],outdoors,J7si,w69VkvfAujQ
+834,"[60, 210, 685]",outdoors,t3si,VQkDEtOjp8I
+835,"[15, 18, 43, 59, 60, 101, 286, 374, 823]",outdoors,ugsi,ucou5kGURb8
+836,"[182, 248, 284, 392]",outdoors,eisi,3Udmipt_blo
+837,"[88, 184, 307, 364, 380, 614]",indoors,Phsi,ChCcsMmuFi0
+838,"[60, 428, 1238]",outdoors,resi,GaQYoi9lwRk
+839,"[53, 58, 60, 163, 166, 232]",outdoors,mqsi,Im06kl1YOWo
+840,"[248, 912, 1334]",outdoors,cIso,w9HGJPC9ODA
+841,"[2, 15, 18, 43, 59, 60, 76, 101, 374]",outdoors,k7so,FOpCg6OXaak
+842,[60],outdoors,miso,oMS5sNOaMlg
+843,"[2, 18, 43, 59, 60, 76, 101, 286, 604]",outdoors,FIso,MEWPk7k_xwI
+844,"[88, 184, 380, 614]",indoors,Aoso,CX6nyv7YIRc
+845,"[0, 262, 542]",outdoors,1fso,1uukUoCtv1Y
+846,"[60, 1396, 2499]",outdoors,6yso,ZOu8seUQFRg
+847,"[88, 184, 380]",indoors,IOso,ZV5k18zhIXs
+848,"[18, 43, 59, 60, 693, 1685]",outdoors,A2so,JzBNErgQRY4
+849,"[184, 400, 416, 1152]",indoors,Veso,gOiTp-JuPag
+850,"[53, 58, 60, 163, 232, 427]",outdoors,ELso,IZ_7uTh-UKw
+851,"[60, 160, 273, 888]",outdoors,hPso,-dxSAllXoks
+852,"[18, 43, 59, 60, 101, 286]",outdoors,vzso,DY_qSC_bcRQ
+853,"[184, 251, 497]",indoors,68so,YEve5FqXYsQ
+854,"[64, 113, 119, 262, 475]",outdoors,qjso,5oM8WGArgp4
+855,"[2, 7, 83, 208, 262, 601]",outdoors,ABso,aL9OcuiVho8
+856,"[11, 248, 1165, 1848]",outdoors,1Zso,6-mHX1NtuGU
+857,"[18, 43, 59, 60, 101, 286, 419, 991]",outdoors,m4so,sNCQJaO-gUg
+858,[1226],outdoors,VysQ,ERObpckhgAs
+859,"[307, 966]",indoors,IVsQ,Qn08RF4_ArU
+860,"[88, 184, 307, 364, 380, 416, 514, 614, 1013]",indoors,obsQ,vFHLPYgOIZo
+861,"[88, 184, 242, 254, 313, 470]",indoors,nAsQ,FVUhM17fghI
+862,"[191, 248, 299]",outdoors,nMsQ,2w6i5p3Ty1U
+863,"[15, 18, 60, 87, 333, 365, 3599]",outdoors,mZsQ,UgrneLoasxk
+864,"[18, 43, 59, 60, 101, 286, 385]",outdoors,3psQ,WpovI9UhOag
+865,"[60, 82, 160, 273]",outdoors,NhsQ,lE-Dbxcl0Rw
+866,"[15, 18, 43, 59, 60, 101, 374]",outdoors,QRsQ,jjTlo3wQ7s8
+867,"[60, 239, 686, 1714, 2625]",outdoors,2hs4,a760hYaHn98
+868,"[15, 18, 43, 59, 60, 101, 374, 549, 906]",outdoors,BRs4,y_liPr8NUvw
+869,"[88, 184, 364, 380, 416, 899, 3330]",indoors,iGs4,O9ECLbfcYQU
+870,"[18, 43, 59, 60, 101, 286, 374, 549, 906, 1415]",outdoors,XAs4,YPEJCkkW-n4
+871,"[88, 184, 416]",indoors,1ls4,mTn5YehAKPQ
+872,"[3, 4, 14, 248]",outdoors,ics4,qAPJJgtQqV4
+873,"[60, 68, 72, 98, 151, 166]",outdoors,iMs4,vnzPtBALyWA
+874,"[248, 299]",outdoors,Aes4,kqd1UuTF_x0
+875,"[277, 388, 514, 899]",indoors,2xs4,E0x9eCF6j4k
+876,"[88, 184, 307, 364, 380, 416, 614, 1013]",indoors,RWs4,XixjmrqQEo8
+877,"[18, 43, 59, 60, 101, 286]",outdoors,mis4,axwAVjLhwuA
+878,"[18, 43, 59, 60, 101]",outdoors,9Vs4,HWjH9bHw8-k
+879,"[15, 18, 43, 59, 60, 101, 286, 2227]",outdoors,Yuti,3IU31dcNFyI
+880,"[18, 43, 59, 60, 101, 385, 419, 549]",outdoors,e8ti,yN8oIDWyV9Y
+881,"[60, 519]",outdoors,8nti,Hnba_KqcaSg
+882,"[43, 60, 101]",outdoors,ovti,FDaINxiTpIo
+883,"[60, 160, 166, 273]",outdoors,UKti,U1_7tRCjcpM
+884,"[5, 262, 647]",outdoors,c6ti,pWcDDlSc9oY
+885,"[15, 18, 60, 87]",outdoors,9Mti,AGkP6gjAXJM
+886,"[184, 191, 985]",indoors,zgti,KIbAQDs1cfE
+887,[248],outdoors,titi,eDctypJY3i0
+888,"[2, 104, 500, 666, 1948]",outdoors,Fnti,kaKbOHpXigw
+889,"[248, 396]",outdoors,lpti,RN84Jiumaoo
+890,"[88, 307, 966]",indoors,Zyti,xtg1nOj1QAQ
+891,"[2, 43, 60, 76, 385]",outdoors,0NtY,QrbG_ZXAOJY
+892,"[2, 7, 83, 262, 541]",outdoors,kHtY,mF2dOtyQ6vE
+893,"[13, 248, 3127]",outdoors,eHtY,FZvgE-xzOp8
+894,"[15, 18, 60, 67, 239, 2053, 3539]",outdoors,6etY,T1F7_Mv-ICg
+895,"[88, 184, 313, 364, 416, 1013]",indoors,68tY,rl-Xiy5DRmc
+896,"[15, 18, 60, 87, 365, 536]",outdoors,oZtY,XQvUABA4L20
+897,"[88, 184, 307, 364, 380, 416, 614]",indoors,IntY,WC96X7MgR_I
+898,"[60, 385, 419, 1393]",outdoors,kStY,UdhWdRDVI1k
+899,"[60, 511]",outdoors,nptY,Kpw3cnPn6Mw
+900,"[18, 43, 59, 60, 101, 1975]",outdoors,49tY,S3Psk7sBtAY
+901,"[43, 60, 238, 274, 366, 3179]",outdoors,tNtY,hB8MMYFTwGY
+902,"[88, 184, 364, 416, 514]",indoors,nmt1,q-6akWTLc4Y
+903,[184],indoors,92t1,wwvx00TENx0
+904,"[88, 184, 313, 364, 380, 416, 514]",indoors,Pnt1,rrTBoq5Bgkw
+905,"[248, 2646]",outdoors,det1,09CEavrg6HQ
+906,"[39, 248, 382]",outdoors,pQt1,TbGn58IxC2Y
+907,"[15, 60, 87, 2786]",outdoors,O6t1,KbUXb4AxuLI
+908,"[88, 184, 1947]",indoors,g4t1,O7Ug1CQ5_PM
+909,"[60, 353, 669, 673]",outdoors,gPt1,vId5FpPqRJQ
+910,"[18, 43, 59, 60, 182]",outdoors,mtt1,vJXe5_oBY9g
+911,"[5, 16, 598, 1245]",indoors,FDt1,iOcYfrZJWi8
+912,"[15, 18, 43, 59, 60, 101, 374]",outdoors,2ot1,MvWTURtg6H8
+913,"[15, 18, 60, 87, 333, 365]",outdoors,xst1,jKsRLplUz54
+914,"[11, 83, 262, 720, 751, 1081]",outdoors,Qct1,d3M1z1aaaYE
+915,"[64, 113, 119, 289, 666]",outdoors,9qt1,g6zWWQ0LRZc
+916,[248],outdoors,uwt1,8qdnWJrJdSw
+917,"[11, 20, 22, 29, 32, 307]",indoors,v2t1,e7FD3hWMNbI
+918,"[18, 43, 59, 60, 101, 419, 604]",outdoors,Nbt1,ZoJPlXcjMUc
+919,"[43, 60, 901]",outdoors,UIt9,a5ICu6DUJPQ
+920,"[11, 83, 95, 262, 601, 1613]",outdoors,FAt9,yrxk1aU8TPs
+921,"[2, 43, 60, 76]",outdoors,4Tt9,-mZEcoV48MA
+922,"[0, 83, 254, 262, 542]",outdoors,rdt9,5MHA6s1dr3c
+923,"[60, 353, 519, 666, 995]",outdoors,cVt9,9YGR7IXrGU8
+924,"[18, 43, 59, 60, 101, 286]",outdoors,ZMt9,PnjNJWMFbGo
+925,"[2, 18, 43, 59, 60, 76, 101, 385, 549]",outdoors,Y4t9,XcaYgFZ9IDM
+926,[248],outdoors,ZCt9,hTN76WQSJNA
+927,[666],outdoors,9ut9,7pVmPZjTNjc
+928,"[15, 18, 87, 262, 619]",outdoors,wTt9,0BUz23AGGnI
+929,[248],outdoors,45t9,Mpv5qGHC24Q
+930,"[2, 43, 60, 76, 571, 1121]",outdoors,8ut9,44aWgjs8N_Y
+931,"[88, 184, 380]",indoors,J8t9,kqsCwB6pTrw
+932,[1226],outdoors,pet9,-rwvPHDKmd0
+933,"[184, 364]",indoors,BXul,kEQG_K71wiY
+934,"[88, 184, 380, 614]",indoors,Zlul,U2z5-SESYWY
+935,"[388, 514, 1148, 1583]",indoors,Ddul,2MAKbEnXGfk
+936,"[15, 60, 96, 239, 363, 1880, 2071, 2505]",outdoors,kQul,jV5h4w4OHYA
+937,[60],outdoors,qkul,CWxacERmhuc
+938,"[184, 388]",indoors,Fpul,Z5TMUMvqEM8
+939,"[11, 20, 22, 29, 122, 307]",indoors,aXul,bImL6XyWotA
+940,[307],indoors,M2ul,VdJ-R01rqEI
+941,"[43, 60, 101, 239, 286, 1880]",outdoors,Cvul,Bex1lydC_5E
+942,"[60, 239, 789, 1626]",outdoors,iEul,v_coA4YWlRQ
+943,"[15, 18, 43, 59, 60, 101, 823, 2952]",outdoors,8sul,1kzSDokcnNw
+944,"[388, 514, 616, 1025, 1443]",indoors,tVul,k5tONSCZ1js
+945,[248],outdoors,Idul,FiGAtUnp9NI
+946,"[11, 22, 307]",indoors,Kuus,iwZ9STsvV7w
+947,"[2, 7, 83, 262, 541]",outdoors,7Pus,ht_E9lWqhjw
+948,"[0, 27, 262, 2953]",outdoors,Hius,sBp1tNZP8ck
+949,"[18, 43, 59, 60]",outdoors,hVus,yIyqPOKabWM
+950,"[88, 184, 307, 380, 416, 614]",indoors,Ocus,jPQtnmyhWT8
+951,"[18, 43, 59, 60, 101, 286, 1503]",outdoors,1eus,BXG-3R6qQhk
+952,"[2, 83, 262, 601]",outdoors,7Jus,pgow237_T2Y
+953,"[2, 43, 60, 76, 446, 473, 547]",outdoors,a3us,xNbqPKW4Vcs
+954,"[60, 68, 72, 98]",outdoors,zius,ysBwrdXQWf8
+955,"[11, 29, 62, 112, 307]",indoors,7lus,xzCGW_8xvUM
+956,[307],indoors,mcus,Gge38uuFo5o
+957,"[60, 419, 1271, 1393, 1569]",outdoors,ENus,sTvqbzdFBqQ
+958,"[60, 385, 3256]",outdoors,HuuL,wiDi-tXldz8
+959,"[53, 58, 60, 163, 232]",outdoors,jxuL,_sN7Zj0B-oI
+960,"[18, 43, 59, 60, 239]",outdoors,UvuL,rP0N0gfB3tw
+961,"[60, 501]",outdoors,LAuL,pkIEYpc5KPY
+962,"[15, 18, 60, 87, 244, 333]",outdoors,8DuL,xdhA9L-S0vM
+963,"[60, 669]",outdoors,sNuL,8gGJK2Ki1q0
+964,"[15, 262, 502, 619, 713, 3018]",outdoors,hfuL,JvHU5ncnmtc
+965,"[12, 248, 2434]",outdoors,R3uL,lroya8XhuPs
+966,"[88, 184, 380, 416, 614, 2001]",indoors,lruL,Vf3y1OjZi6E
+967,"[60, 160, 901, 954]",outdoors,mnuL,VMBZYThE65w
+968,"[60, 166, 398]",outdoors,54uL,_knM-Zurk9g
+969,"[32, 191, 248, 299]",outdoors,cEuL,-Mb_C-dSxUI
+970,"[60, 210, 427, 519]",outdoors,ifuL,3xEoiH3kulo
+971,[248],outdoors,ZBvB,cBxW1gxe348
+972,[307],indoors,DyvB,hDhKHxrPvFE
+973,"[353, 666]",outdoors,m4vB,MNKnhXtN2pA
+974,"[53, 58, 60, 163, 166, 232, 724]",outdoors,JkvB,FecKPv-uqio
+975,"[18, 43, 59, 60, 101, 286, 1975]",outdoors,xCvB,M3YUQwQEzSE
+976,"[60, 365, 536]",outdoors,22vB,fBrunwI3bNQ
+977,"[88, 184, 307, 380, 416, 514, 614]",indoors,tYvB,2NVmgRodsO8
+978,"[15, 18, 87, 262, 536, 545, 1835]",outdoors,bZvB,0CrORJWmLmg
+979,"[15, 18, 60, 87, 365, 536]",outdoors,RKvB,5sYH7BjUC1M
+980,"[60, 289, 519]",outdoors,iVvB,BCVCx6NwNVs
+981,"[11, 126, 262, 1016, 1123]",outdoors,XpvB,le9vvh9Eh1M
+982,"[43, 60]",outdoors,7LvB,Vc9uMdkHz-w
+983,"[53, 58, 60, 163, 232]",outdoors,IwvB,CJnCltAPphA
+984,[248],outdoors,DWvB,FuLko4T6A7w
+985,"[60, 419]",outdoors,hIvB,qCcEOIu2wbg
+986,[1226],outdoors,oUvB,vv1WM4n0NLY
+987,"[14, 71, 152, 2211]",outdoors,IlvB,dmBQBRXF3P8
+988,"[18, 43, 59, 60, 101, 419, 991]",outdoors,oAvB,iW8DjlNzIcc
+989,"[60, 794, 995]",outdoors,VDwE,Di8Z0CFZg-8
+990,[248],outdoors,3hwE,-A8plyXAo9M
+991,"[15, 18, 60, 87, 333]",outdoors,lTwE,gGqzoDMzG8E
+992,"[0, 1, 83, 254, 262, 542]",outdoors,KpwE,ubxIOkPKmMI
+993,"[0, 60]",outdoors,nRwE,vtovfXvJSV8
+994,"[11, 20, 22, 29, 112, 307, 341, 572, 1265]",indoors,DxwM,5niZeXoKeSU
+995,"[184, 400, 416, 1152]",indoors,fCwM,PqFtDx7e5yY
+996,"[248, 2443]",outdoors,W7wM,yuSvJGTgR_Q
+997,"[15, 18, 43, 59, 60, 101, 286, 1032]",outdoors,cUwM,8Nvd6g8lF7A
+998,"[184, 2789]",indoors,BBwM,fb-bFhztJrg
+999,"[2, 18, 43, 59, 60, 76, 101, 286]",outdoors,WhwM,8s2s4VO3Zac
+1000,"[60, 428, 825]",outdoors,1Ex4,QsDqFloJmZY
+1001,"[184, 694]",indoors,fmx4,WZaZ5QvCYfE
+1002,"[15, 18, 60, 87, 244, 1938]",outdoors,axx4,x_YjKCYnrlg
+1003,"[15, 18, 60, 87, 536, 545, 1696]",outdoors,7zx4,f2B9ffOu7p0
+1004,"[11, 20, 22, 29, 122, 123, 211, 250, 307, 426, 576]",indoors,6yx4,LS73TAGycR0
+1005,[248],outdoors,11x4,7xgA6zX6nw4
+1006,"[26, 184, 1367, 3566]",indoors,sxx4,mxOs-VwcK0E
+1007,"[262, 502, 619]",outdoors,4ax4,YE1BuueE2OU
+1008,"[15, 18, 43, 59, 60, 101, 286, 374]",outdoors,gQx4,I7bTFWpylIo
+1009,"[88, 184]",indoors,Pnx4,VfkUcT1w1xI
+1010,[60],outdoors,z9yh,t8D-Z8moxqE
+1011,[60],outdoors,qWyh,Z6eKlzgUQUM
+1012,"[11, 83, 262, 720, 751, 1081]",outdoors,3cyh,yk81kXTJhqo
+1013,"[53, 58, 60, 163]",outdoors,VFyh,A2WNSq7hCA8
+1014,"[2, 43, 60, 76, 385]",outdoors,tWyh,o-G7-hmJQuA
+1015,"[205, 598, 1245]",indoors,AYyh,uguBhONrFok
+1016,"[598, 1195, 1245]",indoors,7lyh,Ixpup4ViMQQ
+1017,"[60, 304]",outdoors,18yh,eXO-U4bsczg
+1018,"[43, 60, 101, 419, 991, 1824]",outdoors,TSy3,gYDrBAUPgaE
+1019,"[60, 419, 1192]",outdoors,WSy3,oLvwFJaWgbs
+1020,"[39, 514]",indoors,JUy3,SrO4WYp-6rk
+1021,"[43, 60, 101, 823]",outdoors,nvy3,5JOSmfAuEN0
+1022,"[11, 22, 43, 60, 297, 428, 477, 528, 560, 742]",outdoors,Q3y3,HxQ1EGP5frE
+1023,[1226],outdoors,NSy3,9vWAo7WLN8Y
+1024,"[184, 191, 299]",indoors,hQy3,jBV7uspTp9c
+1025,"[11, 83, 262, 601, 1613]",outdoors,xKy3,jky1jxCfPlQ
+1026,"[60, 68, 72, 98]",outdoors,ajy3,Vnvr3R95kNQ
+1027,"[205, 598, 1245]",indoors,hGy3,ZJnZbykDNgg
+1028,"[182, 248, 284, 634]",outdoors,9ty3,bD5Dx6vjpNs
+1029,"[99, 1245]",indoors,0Ey3,L_zRIS5qh3Y
+1030,"[60, 353, 519, 673]",outdoors,l5y3,rDV1j0SZMZI
+1031,"[15, 60, 239]",outdoors,72y3,W0yRZueVaR4
+1032,"[60, 2038]",outdoors,5Vzc,JW_x5ArQWFU
+1033,"[0, 60]",outdoors,T1zc,iCeCfbiQJq8
+1034,[3501],indoors,Q4zc,iRztcAoaGRw
+1035,"[2, 43, 60, 76, 281]",outdoors,GPzc,qnf0h2L_DQ0
+1036,"[1238, 1918]",outdoors,iXzc,SxUi6j0elhs
+1037,"[15, 43, 60, 289, 363, 709, 2771]",outdoors,79zc,tTOqfRcCJi4
+1038,"[88, 307, 614]",indoors,yozc,WxvYzK3bUbA
+1039,"[18, 43, 59, 60, 101, 385, 693]",outdoors,MNzc,12TS7GKymgg
+1040,"[60, 869]",outdoors,Zyzc,Ygo-wNID_q0
+1041,"[112, 126, 220, 262, 276, 720, 1123]",outdoors,PYzc,BHoo0GW6wAE
+1042,"[15, 289, 363, 1238]",outdoors,5qzc,E8Az4CVdcjM
+1043,"[11, 262, 2000]",outdoors,HGzc,vNXqkPEvsFc
+1044,"[88, 184, 191, 380, 614]",indoors,MPzs,QU1gkpBcfFM
+1045,"[0, 60, 1056, 1865, 3204]",outdoors,enzs,yht3BgM41x8
+1046,"[514, 1148]",indoors,tlzs,wuTLMtvv9tg
+1047,[60],outdoors,46zs,YjiAca5c4oI
+1048,"[83, 262, 820]",outdoors,t6zs,YnZceaactYM
+1049,"[2, 60, 76, 385]",outdoors,NUzs,Rb8X9ptp4Bg
+1050,"[184, 416]",indoors,g7zs,O7dwh_oKg5A
+1051,"[18, 43, 59, 60, 101]",outdoors,yYzs,bbop3dSsJI4
+1052,"[11, 22, 43, 60, 823, 1254]",outdoors,LSzs,-GlzQwXi3q4
+1053,"[15, 18, 43, 59, 60, 101, 286]",outdoors,7hzs,Z96mRhGYvqY
+1054,"[53, 58, 60, 163, 232, 427, 1423, 2690]",outdoors,aVzs,E-Uk08g-ifw
+1055,"[88, 184, 191, 299, 364]",indoors,nKzs,UFeGMj5JUl8
+1056,"[60, 68, 72, 98, 480]",outdoors,I9zs,LHAUV8maXJ0
+1057,"[88, 184, 380, 416]",indoors,ZUzs,Mnn9RUwjPqo
+1058,"[60, 385, 419, 669, 1055]",outdoors,Euzs,PHKxDmyfJYE
+1059,[184],indoors,Ipzs,qiZbN_-ih30
+1060,"[182, 248, 392]",outdoors,ilzs,HbDixG_roK4
+1061,"[184, 191, 299]",indoors,2Pzs,fmfCVWdYScs
+1062,[3501],indoors,tZzs,geRVXXMGRWg
+1063,"[18, 43, 59, 60, 101, 286, 571]",outdoors,oUzs,qLOZDytjDME
+1064,"[88, 184]",indoors,Wwzs,urwalWltlvs
+1065,"[88, 184, 307, 380, 416, 614, 899, 1299, 1815, 2351]",indoors,X8zs,ZvD3BUy0FVk
+1066,"[191, 248, 299, 364]",outdoors,xazu,lOjwIpt8Gag
+1067,"[18, 43, 59, 60, 101, 286, 604]",outdoors,ymzu,clkuR-4OnpU
+1068,[262],outdoors,Ttzu,a7YKUhj6MDc
+1069,"[2, 60, 76, 385, 1055]",outdoors,R6zu,ohT85OklQtM
+1070,"[60, 158, 239]",outdoors,90zu,wKfAW92Atro
+1071,"[15, 43, 60, 96, 101, 239, 789, 1626, 1795]",outdoors,8jzu,3pVvCX1eWUo
+1072,"[18, 43, 59, 60, 101, 286, 693, 823, 873, 991]",outdoors,pozu,omz9hizwh08
+1073,"[43, 60]",outdoors,VFzu,RoL2MUmN8VE
+1074,"[15, 18, 60, 87, 333, 365]",outdoors,4Jzu,yxZ13RUdT7Y
+1075,"[184, 364, 380, 416]",indoors,YJzu,4lvL6Vtjq84
+1076,"[15, 60]",outdoors,7Kzu,UNKDoudO3Ok
+1077,"[0, 1, 184, 193, 963, 2627]",indoors,OKzu,1dDe1YpNUoY
+1078,"[11, 20, 22, 29, 303, 307, 1971]",indoors,aDzu,YhRWhW0C-So
+1079,"[2, 18, 43, 59, 60, 76, 101, 286]",outdoors,eCzu,h8kWXplVvpU
+1080,"[2, 7, 248]",outdoors,mVzu,Zcx9LQ-WTuw
+1081,"[60, 385]",outdoors,bqzu,a0aBCi9uJqI
+1082,"[82, 103, 118, 184]",indoors,nPzu,cKfeu-YXscU
+1083,"[60, 210, 685]",outdoors,JBzu,-tiuSIftzEU
+1084,"[88, 184]",indoors,Uazu,6379Y8iN-fI
+1085,"[60, 353, 519, 669, 995]",outdoors,J8zv,J_En2V7Skhw
+1086,"[289, 666]",outdoors,jpzv,jbI0RAuCE5M
+1087,"[60, 419, 2023]",outdoors,DHzv,YnzWDo3VFao
+1088,"[191, 248, 299]",outdoors,sPzv,Biv0GAraDxE
+1089,"[88, 364, 416]",indoors,cqzv,yPX3JKR5hI0
+1090,"[11, 22, 32, 307]",indoors,56zv,n943xQI1hZw
+1091,"[60, 353, 519, 673]",outdoors,kbzv,JxQNYMdKSV8
+1092,[248],outdoors,xwzv,PZcZIVBzCYM
+1093,"[88, 307, 497, 1638]",indoors,PUzv,JQkvmeGau2E
+1094,"[2, 7, 116, 171, 248]",outdoors,9Dzv,nfqRARpLBvE
+1095,"[184, 191, 985]",indoors,eDzv,txSGOasJcuA
+1096,"[43, 248]",outdoors,MFzv,UEK0uunqHVI
+1097,"[248, 402, 428, 1389]",outdoors,Kxzv,SDu1Td7cFq0
+1098,[184],indoors,cnzv,ICZ2j4lSXyY
+1099,"[15, 1238]",outdoors,Xwzv,dZaWphuNttE
+1100,"[60, 166, 482]",outdoors,RAzv,fvS-7yxdxiQ
+1101,"[310, 2105]",outdoors,Hnzv,HUUL3fjj-eM
+1102,"[88, 364, 416, 514]",indoors,mxzB,nEfluU-qXzA
+1103,"[15, 43, 60, 96, 101]",outdoors,3ZzB,ydPFXHX5j5U
+1104,"[2, 83, 262]",outdoors,RizB,mRq896EQUlo
+1105,"[60, 398, 482]",outdoors,anzB,Cu72hBgN6Gg
+1106,"[8, 205, 1245, 1776]",indoors,dBzB,xq-tV8TRt48
+1107,"[184, 191, 985, 1803]",indoors,aGzB,4MiT3jdrKNg
+1108,"[2, 43, 60, 76, 101, 385]",outdoors,TjzB,gKXjLcWPOfM
+1109,"[2, 18, 43, 59, 60, 76, 101]",outdoors,HAzB,2FwpeI_Comw
+1110,"[18, 43, 59, 60]",outdoors,qWzB,LOrAN4qVaTU
+1111,"[0, 83, 262, 541, 542]",outdoors,kizB,6vTdaJKAi_E
+1112,"[43, 60]",outdoors,jdzB,mvquCx1rio4
+1113,"[18, 43, 59, 60, 101, 1975]",outdoors,VKzB,SLLNNuzORhw
+1114,"[2, 83, 262, 751]",outdoors,zkzB,orclhIVUbcA
+1115,"[15, 60, 96, 239, 789, 1626, 1795]",outdoors,rXzN,6JOzvkWN1oI
+1116,[60],outdoors,X9zN,yRTjNCzYiq8
+1117,"[60, 353, 673, 3446]",outdoors,lazN,PoG5dSfgRq4
+1118,"[2, 43, 60, 76, 281]",outdoors,8kzN,RgHrQgT7o5c
+1119,"[60, 252, 995]",outdoors,3vzN,zqAaHfdV7dY
+1120,"[18, 43, 59, 60, 101, 286]",outdoors,GmzN,0zsZ6vIMZRw
+1121,"[184, 191, 299, 313]",indoors,TAzN,E3aoEnO7qWo
+1122,"[15, 60, 239, 363, 686, 1714]",outdoors,VPzN,gnYyo72oeqY
+1123,"[25, 60, 2194, 3080]",outdoors,RzzN,HjXe97mgO1A
+1124,[60],outdoors,LNzN,Wj8aUb-Su94
+1125,"[0, 254, 262, 542]",outdoors,0wzN,v2mkkq4CnuI
+1126,[248],outdoors,GOzN,bMEc3-wE8eo
+1127,[60],outdoors,aXzN,noVi0221RmQ
+1128,"[11, 83, 262, 820]",outdoors,lNzW,JZ0YbSg2230
+1129,"[60, 239, 428]",outdoors,iuzW,lKELlKtvwVQ
+1130,"[83, 262]",outdoors,G7zW,p2UDUWzq1Hk
+1131,"[60, 353, 519, 995, 2413, 3553]",outdoors,e0zW,cBFaUID9NhE
+1132,"[184, 400]",indoors,CnzW,3q7bt7GnPaA
+1133,"[60, 101]",outdoors,yXzW,AQuZ-KaKSD0
+1134,[60],outdoors,82zW,zqppWDLjhVs
+1135,"[60, 333]",outdoors,YhzW,SVBRiTTqV4w
+1136,[248],outdoors,xxzW,5aT4K7GriWE
+1137,"[60, 210, 685]",outdoors,QuzW,MlZdk3DAjsk
+1138,"[60, 353, 673]",outdoors,KezW,0TldK9njyB4
+1139,"[15, 18, 43, 59, 60, 101, 693, 823, 991, 1415, 1685]",outdoors,pGzW,ua1lIcfuqt8
+1140,"[11, 83, 262, 751]",outdoors,nezW,Ix8MUyKtNqA
+1141,"[0, 83, 262, 542]",outdoors,j5zW,FxteF9kJb3I
+1142,"[17, 19, 129, 666]",outdoors,xazW,TKymh9JbpQY
+1143,"[60, 237, 333, 365]",outdoors,MxzW,aNCvgjPwjGI
+1144,"[60, 92]",outdoors,FzzW,61zTkBjMT10
+1145,"[60, 289, 519, 995]",outdoors,XtzW,2Wr34YmpsOQ
+1146,"[248, 364]",outdoors,hRAk,zxFsjO04Txw
+1147,[248],outdoors,y3Ak,6JFfHbl9hyM
+1148,"[15, 18, 60, 67, 239]",outdoors,mzAk,Tf4ettOy_Qs
+1149,"[43, 60, 101, 286, 374, 1975]",outdoors,cXAk,JvTzQCTvZzw
+1150,"[11, 83, 262, 720]",outdoors,vdAk,75EmhU2qhac
+1151,"[60, 289, 353, 419, 519]",outdoors,SnAk,9Ie-zlzfNGs
+1152,"[18, 43, 59, 60, 101, 286]",outdoors,ALAk,moovksBnT98
+1153,[248],outdoors,XmAk,0v1uotvz0yc
+1154,"[60, 141]",outdoors,qWAk,b7zPCQrLcNI
+1155,"[18, 43, 59, 60, 101]",outdoors,2BAk,8rdgTo-1wy8
+1156,"[60, 1393]",outdoors,eSAk,1OZISh4BGHE
+1157,"[2, 60, 908, 965]",outdoors,TCAk,Xm4Q0KInPTc
+1158,"[15, 18, 60, 67, 239, 1452]",outdoors,StAk,Dv598MXX1kM
+1159,[184],indoors,1yAk,duXqBIuhzr4
+1160,"[184, 191, 299, 364, 380, 416, 614, 985]",indoors,OdAE,ebC9YTr_XfY
+1161,"[18, 43, 59, 60, 101]",outdoors,C2AE,SAuawQnC8Zk
+1162,[248],outdoors,g5AE,RtHwObFgz1A
+1163,"[307, 315, 400]",indoors,t2AE,052DDS1zyjU
+1164,"[191, 248, 299, 1013]",outdoors,wwAE,0kGHo4Q58mw
+1165,"[2, 83, 262]",outdoors,ywAE,9_KiXckq2rk
+1166,"[15, 18, 60, 67, 140]",outdoors,RwAE,GHafoDy6jXE
+1167,"[43, 60, 964, 1526, 2395]",outdoors,nHAE,F4-KLUFvdp0
+1168,"[60, 239]",outdoors,jsAE,6dDbLJqaoYo
+1169,"[60, 68, 72, 98]",outdoors,mrAE,lYOCwMDpVII
+1170,"[60, 239, 2678]",outdoors,QNAE,dAJBnK0-L9g
+1171,"[43, 60, 101, 182, 248, 374, 549, 1415]",outdoors,tuAE,n-WRyo2I818
+1172,"[60, 353, 519, 2413]",outdoors,JTAE,DJGQXlvWXy8
+1173,"[88, 184, 1638]",indoors,oCAE,WpY2E0MQaXo
+1174,"[11, 262, 601]",outdoors,JrAE,gV3_Vm9Onnk
+1175,"[60, 519]",outdoors,WUAI,QUUsUBEGjfE
+1176,"[18, 43, 59, 60, 101]",outdoors,F5AI,vSUL4oYu8-c
+1177,"[15, 18, 60, 87, 365, 1424, 2736]",outdoors,fkAI,aDSZKh1Zl7o
+1178,"[112, 126, 220, 262]",outdoors,wxAI,RpBC8tyDF64
+1179,"[60, 686, 1880, 3263]",outdoors,aaAI,XY_nKr2_f0U
+1180,"[126, 220, 262, 302, 2718]",outdoors,FcAI,AcWfvcH-TwA
+1181,"[2, 44, 186, 248]",outdoors,97AI,zfRT-K81hzQ
+1182,"[184, 2001]",indoors,IMAI,sizQ_F7W1cM
+1183,"[88, 364, 380, 400, 614]",indoors,NzAI,MgXswowzzF0
+1184,"[2, 44, 53, 60, 186]",outdoors,YOAI,BYwznxYZdB0
+1185,[184],indoors,9CAI,McRGjfMR498
+1186,"[15, 262, 502, 619]",outdoors,F2AI,D4bzYWtE-yM
+1187,"[88, 184, 307, 364, 380, 416, 514, 614, 1013]",indoors,EeAI,WgfaD8VsxjQ
+1188,"[53, 58, 60, 163, 214, 232]",outdoors,qBAI,IxPDMqHvPaA
+1189,"[15, 60, 239, 363, 686]",outdoors,zJAI,kp96lUJg4bo
+1190,"[15, 262]",outdoors,IVAI,-rmai65eGLw
+1191,"[11, 20, 22, 29, 32, 122, 307, 564]",indoors,ewBb,f1DjxyoTDlQ
+1192,"[60, 141, 247, 255]",outdoors,XbBb,x5wROJFpDL8
+1193,"[307, 341]",indoors,NZBb,abRB26O5ZEo
+1194,"[2, 43, 60, 2270]",outdoors,INBb,yKdpIyqJ1SE
+1195,"[60, 385, 419, 669]",outdoors,UwBb,F6wo9mBiqJI
+1196,"[18, 43, 59, 60, 101, 374, 419, 823, 1824]",outdoors,d0Bb,Chca528SREM
+1197,"[1020, 2211]",outdoors,ZeBb,Zd0qbPnmxH0
+1198,"[0, 262, 542]",outdoors,ixBb,vU4enakk_Hc
+1199,"[60, 1393]",outdoors,ALBb,H8MybGrqgT4
+1200,"[88, 184, 313, 380, 416, 514]",indoors,sSBw,eviz85vpKS8
+1201,"[83, 262, 542, 820]",outdoors,euBw,2dde9c0pdEE
+1202,"[18, 43, 59, 60, 101, 286, 549]",outdoors,akBw,YkKQt_O5Egg
+1203,[514],indoors,GlBw,U1sy_zHlQ3w
+1204,"[88, 184, 380]",indoors,oqBw,A2GUfHceIPA
+1205,"[88, 184, 380, 2776]",indoors,QoBw,HHgbrfvR7UQ
+1206,"[60, 166, 398, 501]",outdoors,2VBw,AeI-CPN6s84
+1207,"[60, 210]",outdoors,WFBw,w1xk_d5C3Xo
+1208,[248],outdoors,4ZBw,UIh0htFwqpA
+1209,"[60, 160]",outdoors,SJBw,Zf4PwZ5cMuY
+1210,"[519, 666, 1238]",outdoors,gXBw,OwSx6UpIUZA
+1211,"[2, 43, 60, 76]",outdoors,SzBw,1U3Ips66cQY
+1212,"[15, 60, 96, 239, 363, 2071]",outdoors,qKBw,fuU5-GuBsYg
+1213,"[248, 1848]",outdoors,pvBw,kbU69ebQ30g
+1214,"[88, 184, 380, 416]",indoors,DgB3,kPJw39jXWuk
+1215,"[88, 184]",indoors,kWB3,mO9GpuIwjm8
+1216,"[15, 18, 60, 87, 244, 545]",outdoors,4oB3,hs4L5fH0DS8
+1217,"[60, 519]",outdoors,D7B3,I1MUEcx-Szs
+1218,[184],indoors,GEB3,BMrj2k9m2OM
+1219,"[60, 239, 686]",outdoors,WLB3,HNLpfa9yi5I
+1220,"[88, 184]",indoors,sAB3,gDxOJnHxy2M
+1221,"[60, 798, 824, 971, 2443]",outdoors,dxB3,904kDcAScgk
+1222,"[39, 184, 416]",indoors,j4B3,bZC594RQObQ
+1223,[248],outdoors,F5B3,LvbM6zv8XVc
+1224,"[2, 43, 60, 76, 1271, 2302]",outdoors,QvB3,kYLoT3kIRJs
+1225,"[11, 22, 307, 341, 791, 1891]",indoors,CLB3,OGfgZBgYmT8
+1226,"[184, 191, 299]",indoors,q4B3,QJHRbNVmnjA
+1227,[248],outdoors,CdB3,xOKtNN_8Cgw
+1228,[248],outdoors,EhB3,9qjbmvcfDmU
+1229,"[88, 364, 416]",indoors,byCj,TfBVdtb-Zuk
+1230,[184],indoors,lxCj,EX9uh_SCXuI
+1231,"[15, 18, 60, 87, 333]",outdoors,MACj,z7kDr1Ng1WA
+1232,"[60, 353, 673]",outdoors,daCj,9--MiE_Hd8Y
+1233,"[15, 18, 43, 59, 60, 101, 374, 549, 693, 906, 2681, 3040]",outdoors,pQCj,2G__MEd-jeA
+1234,"[18, 43, 59, 60, 101]",outdoors,3mCj,85Qcu75DC2Y
+1235,"[15, 18, 60, 87, 365, 545]",outdoors,z5Cj,HuXt-iNREFc
+1236,"[15, 262]",outdoors,gZCj,c2DivblKpuc
+1237,"[15, 363, 1238]",outdoors,eKCj,wRMlZ_Wq2YU
+1238,"[262, 1034]",outdoors,9KCj,DmpBHOhQbaU
+1239,[248],outdoors,X8Cj,L2gz1H1BaQ4
+1240,"[88, 184, 311, 2910]",indoors,rkCj,gltGcmDXEEk
+1241,[262],outdoors,I3Cj,ZMqsNnuguKs
+1242,"[11, 20, 22, 307, 1265, 1672]",indoors,oECj,rhEVwNC5uGc
+1243,[60],outdoors,SSCj,1pNJkdZty6M
+1244,"[15, 18, 60, 87, 333, 365]",outdoors,x9Cj,ih0rYKmEeeM
+1245,"[18, 43, 59, 60, 101, 286]",outdoors,vRCj,q7u65l6vKyc
+1246,"[60, 353, 673]",outdoors,UDCE,JaDLCBH8hfI
+1247,"[15, 18, 60, 87]",outdoors,VECE,jeTBoSvOcQw
+1248,"[262, 619, 3230]",outdoors,0UCE,borSAaCeqjQ
+1249,"[2, 7, 83, 208, 262, 751]",outdoors,n3CE,qXBhj8Taxj0
+1250,"[19, 60, 210]",outdoors,QKCE,LmFpDQKmdWk
+1251,"[2, 60, 76, 385, 419, 1055, 1569]",outdoors,CxCE,Tj1wuAfQnNs
+1252,"[88, 184, 380, 416]",indoors,yCCE,1tonKq6LxN4
+1253,"[184, 277]",indoors,WzCE,NNMbn_Mq_6I
+1254,"[0, 83, 254, 262, 542]",outdoors,LQCE,PZ09asS1uW0
+1255,"[15, 60, 2625]",outdoors,tFCE,MpVyfS3BQzo
+1256,"[88, 184, 2536]",indoors,4KCE,BYTtHC1x1R4
+1257,"[15, 60, 709, 2771, 3598]",outdoors,xzCE,qcr2ZHQ6O1g
+1258,"[88, 514, 2885]",indoors,edCE,DFhZlGPxfXg
+1259,"[1, 74, 184, 187, 736, 1730]",indoors,WhCE,v_LWJWmKW2o
+1260,"[71, 248]",outdoors,NSCE,V5RGlxWZuNI
+1261,"[18, 43, 59, 60, 101, 286]",outdoors,AeCE,kzViytIIJQg
+1262,"[11, 307, 477]",indoors,4TCF,qWHepedVAHc
+1263,"[184, 191, 985, 1803]",indoors,bQCF,eu26CqwS-5c
+1264,"[60, 166]",outdoors,10CF,hKrSjNC0xhY
+1265,"[60, 141, 247, 255]",outdoors,BMCF,HxHEItVKqiE
+1266,"[248, 990]",outdoors,KmCF,Ur4VJXPTq9U
+1267,"[2, 17, 30, 55, 60, 143, 166, 340]",outdoors,kICF,Kbr_B76-uVM
+1268,"[15, 96, 262, 789]",outdoors,uwCF,H3N5S3TaUmQ
+1269,"[11, 20, 22, 29, 32, 112, 122, 173, 307]",indoors,vXCF,baFtDjm2xr4
+1270,"[2, 43, 60, 76, 101, 374, 385, 549, 3703]",outdoors,F0CF,7zYLFTOP5Sw
+1271,"[43, 60, 101, 286, 873, 1032]",outdoors,dlCF,4dFlqvybFkE
+1272,[666],outdoors,ynCF,Y5PTK1aioaM
+1273,"[2, 7, 83, 262, 541]",outdoors,VVCF,MvAATky8Egg
+1274,[248],outdoors,HOCF,xRk9k90Jldo
+1275,"[18, 43, 59, 60, 101, 286]",outdoors,h7CF,aJo6qVycM2E
+1276,"[252, 666]",outdoors,xCCF,7LD6m4dI2Tw
+1277,"[11, 262]",outdoors,MxCN,_rjz-Kft4vo
+1278,"[88, 184, 307, 364, 380, 416, 514, 614, 899]",indoors,G0CN,KSkNDOWe3rw
+1279,"[2, 43, 60, 76, 281, 693, 2227]",outdoors,usCN,p3UKd5RuC_Y
+1280,"[2, 30, 55, 60]",outdoors,ZHCN,OqywgsWUD5A
+1281,"[184, 400, 416, 614, 952, 1152, 1608]",indoors,H7CN,sCwKgC9bJ-g
+1282,"[88, 184, 191, 380, 614, 985]",indoors,blCN,5KClt3rKdIM
+1283,"[184, 390]",indoors,hhCN,X_x3W-Mfbj4
+1284,"[15, 60, 239, 1452]",outdoors,xrCN,wbc2Aow6zhM
+1285,"[43, 60]",outdoors,sGCN,Mc-jcBKF3Ww
+1286,[248],outdoors,zoCN,UetmzMWgiqk
+1287,"[18, 43, 59, 60, 101, 286, 1975]",outdoors,BmCN,Gy3OoNIG5Wg
+1288,"[15, 60, 239, 363]",outdoors,HfCN,3TEgvQipsYg
+1289,"[18, 43, 59, 60, 101, 286]",outdoors,E9CN,H6BcrbjAXZ4
+1290,"[0, 1, 27, 262, 2011, 2953]",outdoors,aGCN,_0HDgBkNP8E
+1291,"[60, 160, 273]",outdoors,w3CQ,JimsF-vTIk8
+1292,"[83, 262, 542]",outdoors,EPCQ,pGzH0Fhyg1I
+1293,[248],outdoors,pPCQ,BOj7C4JhJ4Y
+1294,"[191, 248, 299]",outdoors,9RCQ,52y9lRDgRpc
+1295,"[53, 58, 60, 163, 214, 232, 494]",outdoors,tfCQ,hRUGjp0wi2c
+1296,"[598, 857, 1245]",indoors,tWCQ,Jm4mSVXDCjE
+1297,"[15, 60, 262, 1057]",outdoors,PkCQ,dyLNla99KZI
+1298,"[88, 184, 364, 380]",indoors,rdCQ,0Sq2J_ySAgA
+1299,"[0, 60]",outdoors,ybC6,8G2HXZAouSc
+1300,"[88, 184, 307, 380, 416, 614]",indoors,OHC6,6HpJ4aV8yz0
+1301,[248],outdoors,KFC6,T2M4_qAlUDE
+1302,"[18, 43, 59, 60, 374, 549, 906]",outdoors,4AC6,4rHuz_QFhcw
+1303,"[18, 43, 59, 60, 101, 286, 2952]",outdoors,nPC6,SrfXIk_Sscw
+1304,"[60, 68, 72, 98, 151]",outdoors,UUC6,cBp8worV0jI
+1305,"[53, 58, 60, 214, 494]",outdoors,slC6,rSjQ1jfb7zI
+1306,"[15, 18, 60, 87, 365, 536]",outdoors,7WC6,MTUB5T-SLLA
+1307,"[88, 184, 299, 380, 416, 614]",indoors,EpC6,5M51fzPLyS8
+1308,"[18, 43, 59, 60, 101, 374]",outdoors,0WC6,y6cIX8UA1uk
+1309,"[43, 60, 101, 286, 2350]",outdoors,B3C6,vK61HVIpAiM
+1310,"[15, 18, 43, 59, 60, 374, 549, 2490]",outdoors,ahC6,M05vzY4eVZc
+1311,"[15, 96, 262]",outdoors,GoC6,YQ2qhwj3Jzs
+1312,"[11, 307]",indoors,CRC6,0xdadsq89YE
+1313,"[83, 262, 2130]",outdoors,VkC6,eEx0CVc5VX4
+1314,"[88, 184, 307, 364, 380, 416, 614]",indoors,tZC6,sviot6-vgUY
+1315,"[60, 1056]",outdoors,sGC6,dDJfEDBj4m0
+1316,"[353, 666, 1194]",outdoors,l8C6,jKzAk-AiwSI
+1317,"[8, 1245]",indoors,brC6,VbODKlyw6Uw
+1318,[248],outdoors,M5C6,QN5hP69DR2s
+1319,"[43, 60, 101, 286, 549]",outdoors,urC6,XnqwFSIoeV8
+1320,[1226],outdoors,uCC6,5YlnMQzs3YY
+1321,"[248, 1120, 2626]",outdoors,tcC6,FnCGvk6Ayek
+1322,"[60, 239, 789, 1626]",outdoors,KzDc,6NDS9B45ek4
+1323,"[88, 184, 307, 380, 416, 514, 614]",indoors,fjDc,uSc2LRI_KIs
+1324,"[2, 60, 76, 1055]",outdoors,FTDc,yrxnAJG4Xew
+1325,"[2, 18, 43, 59, 60, 76, 101, 2227]",outdoors,glDc,CNhR4jVT86g
+1326,[184],indoors,DPDc,8k5A-kwgTq8
+1327,[60],outdoors,2nDc,N5lC5dWVDh0
+1328,"[88, 184, 307, 380, 416, 497, 614]",indoors,Q5Dc,U5kpIeEMdTM
+1329,"[2, 43, 60, 76, 101]",outdoors,9yDc,Q80RE6h3uYA
+1330,"[2, 43, 60, 76, 281, 385, 1271]",outdoors,KiDc,N9OWVR-nY4I
+1331,[666],outdoors,9IDc,4JXUsAvEQbI
+1332,"[43, 60, 101, 642]",outdoors,EKDc,SmiVAybycAM
+1333,"[60, 419, 1271, 1393]",outdoors,DbDc,rH2WorJki6o
+1334,[60],outdoors,UQDc,YSjBwy8krGA
+1335,"[307, 1299]",indoors,AMDc,F4nke5w4F1k
+1336,"[307, 2405]",indoors,8uDc,XDeC60Uk9Gg
+1337,"[88, 184, 299, 380, 416]",indoors,VuDc,Q-_B9ufSv6Q
+1338,"[83, 254, 262, 542]",outdoors,QuDc,wIo45rVbaCU
+1339,"[244, 248]",outdoors,IRDc,xXHkC7tTe84
+1340,"[60, 519, 1409, 2438]",outdoors,XmDc,ij0PTmc3EUo
+1341,"[0, 26, 307]",indoors,BBDc,l3FsIeHrLmQ
+1342,"[11, 20, 22, 29, 32, 122, 303, 307, 397, 560, 1450]",indoors,UZDf,wgQdtEPDNUs
+1343,"[15, 18, 60, 67]",outdoors,kkDf,_CzU964bpss
+1344,"[2, 43, 60, 76, 385]",outdoors,ubDf,K7Dsu__Of0E
+1345,"[262, 2000]",outdoors,3eDf,rdJkbbttdZA
+1346,"[18, 43, 59, 60, 101]",outdoors,C4Df,uLmGO-VUH9g
+1347,"[26, 88, 184, 194, 441, 1944]",indoors,JbDf,eZm6RIzr-v0
+1348,"[18, 43, 59, 60, 101, 286, 374, 549, 2490]",outdoors,QODf,sVenpv4Lp1o
+1349,"[88, 184]",indoors,OeDf,Hy1PzU642Js
+1350,"[88, 184, 364, 380, 416]",indoors,cfDf,Ur2jQHAl-gc
+1351,"[53, 58, 60, 163, 232]",outdoors,0FDf,M9i9d3QwFX4
+1352,"[184, 313, 388, 497, 1771, 2790]",indoors,4VDf,wPENgINltts
+1353,"[88, 184, 307]",indoors,HUDf,qDdmIhPN2iw
+1354,"[514, 1148]",indoors,39Df,KM8Wa1jc8xM
+1355,[60],outdoors,I5Df,DOpMqYfxEgw
+1356,"[191, 248, 299]",outdoors,uEDf,mTUT38HMtzQ
+1357,"[0, 262, 542]",outdoors,KVDf,ddtJScv2vS4
+1358,"[60, 289, 519, 666]",outdoors,CIDf,T_9WYkrHsf8
+1359,"[514, 1148, 2473]",indoors,nQDf,d44ZmhMJdfs
+1360,"[60, 244, 318, 333]",outdoors,cPDf,U6PdHYhqWPg
+1361,"[60, 160, 273]",outdoors,3fDf,o5xISRmTWT0
+1362,"[11, 20, 22, 32, 122, 221, 307, 2321]",indoors,V9Df,wykFp8DV_Kg
+1363,[2211],outdoors,RmDf,xni56UTSg8c
+1364,"[60, 248]",outdoors,mrDf,_E8V912oVjU
+1365,[666],outdoors,DJDf,igOe1_XrfAg
+1366,"[0, 60]",outdoors,bKDf,m7G5GSt-AjY
+1367,"[307, 388, 400, 497, 1299, 2277]",indoors,0ZDh,YyyuAsuXb8I
+1368,"[2, 18, 43, 59, 60, 76, 101, 1975]",outdoors,6xDh,5lzefhkVpRM
+1369,"[88, 184, 299]",indoors,tIDh,aiQCL-A4OnI
+1370,"[18, 43, 59, 60, 101]",outdoors,lUDh,hsNnasLOoKc
+1371,[248],outdoors,S4Dh,5xwG6SYmGPo
+1372,"[60, 1002]",outdoors,nyDh,bh2x8w8iJtk
+1373,"[289, 427, 519, 666]",outdoors,SFDh,JL_iJycF-3k
+1374,"[60, 141, 247, 255]",outdoors,DiDh,5IqKWS1ogj4
+1375,"[191, 248, 299]",outdoors,RaDh,pv7fdFcaPH4
+1376,"[514, 1148, 2473]",indoors,6XDh,fLwt9_zenRM
+1377,"[15, 18, 60, 67, 239]",outdoors,wEDh,gymt1jqGYBA
+1378,"[11, 83, 262, 619, 720, 751]",outdoors,XGDh,QdigsmSrGTE
+1379,"[15, 18, 87, 262, 541, 820]",outdoors,ZoDh,OTp6VtpdgDE
+1380,"[1238, 1918]",outdoors,ArDh,LapqnZ8BwIc
+1381,"[15, 18, 60, 67, 140, 1048]",outdoors,UUDh,V43M-MFJHXo
+1382,"[248, 3857]",outdoors,kEDh,rDiXZqLLyg0
+1383,"[184, 191, 1159]",indoors,88Dh,HsrtI76aXig
+1384,"[60, 398, 482, 519, 690]",outdoors,VTDh,kkPHc-rZxZM
+1385,"[88, 184, 307, 380, 416, 514, 614]",indoors,IaDG,mZmW4K-oIyo
+1386,"[60, 428, 825]",outdoors,h2DG,bgo8kCs4e4g
+1387,"[62, 83, 112, 220, 262]",outdoors,mADG,KikS9x9P-Tg
+1388,"[27, 313, 1097, 2105]",outdoors,hSDG,eSYCsjue18E
+1389,"[60, 180]",outdoors,Z0DG,EoCdhWRkM7s
+1390,"[15, 60, 239]",outdoors,zRDG,9v7ii844im8
+1391,"[60, 210, 427]",outdoors,UZDG,iL8vmEqjx8U
+1392,"[60, 353, 385, 673]",outdoors,VgDG,iQMFGUAJ24A
+1393,"[18, 43, 59, 60, 101, 286, 823]",outdoors,QBDG,9NDRNRyvb68
+1394,[248],outdoors,v6DG,RJabNtkGEh8
+1395,"[11, 83, 262, 601, 720]",outdoors,qoDG,ddH-TNdhuic
+1396,"[60, 239, 291]",outdoors,fpDG,1AFtOWWvY48
+1397,"[18, 43, 59, 60, 101, 286, 374, 1685]",outdoors,ksDG,dwA9lktnroE
+1398,"[60, 88, 251, 313]",outdoors,2CDG,YZacibyu3j8
+1399,"[184, 364]",indoors,GPDG,e6NH4D3K4DI
+1400,[307],indoors,91DG,l-bfbZoUJ7o
+1401,"[60, 519, 666]",outdoors,dHDG,HENyYD9xiMQ
+1402,"[18, 43, 59, 60, 101, 374]",outdoors,ttEa,h3Uit4-PFVU
+1403,[248],outdoors,OAEa,Wyeq2ik5Ukk
+1404,"[15, 18, 43, 59, 60, 101, 286]",outdoors,umEa,CzNuuu_8pQQ
+1405,"[182, 248, 634, 3857]",outdoors,AYEa,GjTuwTApOXk
+1406,"[60, 101, 286, 549]",outdoors,IEEa,Q_ZgrPKkYyE
+1407,"[11, 83, 262, 820]",outdoors,pLEa,Jsp5aLC_eME
+1408,"[88, 184, 380, 416, 614]",indoors,Y7Ea,e0oux-4D2ew
+1409,"[307, 388, 497, 1299, 2305]",indoors,15Ea,jJ8_iyNR8pQ
+1410,"[182, 248, 634]",outdoors,RkEa,7qXFARtkklg
+1411,"[60, 210]",outdoors,gqEa,EGFS_uIpS_U
+1412,"[88, 251, 313, 347, 614]",indoors,H7Ea,L7gFhKu94Ug
+1413,"[26, 262]",outdoors,gsEa,bv-HzXcOsX8
+1414,"[184, 227, 474, 985]",indoors,KXEa,vNVdTeMXwOM
+1415,"[182, 248, 634]",outdoors,byEe,eeDEANkELwo
+1416,"[307, 2277]",indoors,mHEe,OejXOYcPeYU
+1417,"[18, 43, 59, 60, 101]",outdoors,rmEe,QuTXZTRSCLY
+1418,"[60, 519, 995]",outdoors,rHEe,Kkmw471iOxc
+1419,"[88, 184, 313, 380]",indoors,2kEe,Jvyp5Lflkm4
+1420,"[88, 184]",indoors,FwEe,K1q1yjNgL4E
+1421,"[60, 138, 166, 398, 482, 501]",outdoors,YXEe,AVg_VX8Q76I
+1422,"[15, 262, 502, 3018]",outdoors,IdEe,DLA4GnsxPfo
+1423,[248],outdoors,DBEe,zROHiuQXug8
+1424,"[2, 60, 76, 385, 2696]",outdoors,z0Ee,tMJWzjSzt4U
+1425,"[11, 83, 262, 601, 720]",outdoors,XpEe,TwRENwd272Y
+1426,"[60, 353, 673]",outdoors,PTEe,YH7Sv7IS9mA
+1427,"[88, 184, 380, 416]",indoors,lOEe,1F4Jg30_hJc
+1428,"[60, 239]",outdoors,aVEe,wRadWW_nUjM
+1429,"[15, 18, 43, 59, 60, 101, 286]",outdoors,t6Ee,grIoYvVyNsc
+1430,"[2, 17, 60, 95, 116, 135, 297, 490, 583]",outdoors,GjEe,P-U79rU4kV0
+1431,"[88, 364, 514, 1013, 1148]",indoors,ZtEe,uzVXxxD6g68
+1432,"[43, 60, 101, 286, 374, 2681]",outdoors,fgEe,Zt6a_TeBMk8
+1433,"[60, 68, 72, 98, 151]",outdoors,pgED,tIU3CzTJo5Y
+1434,"[184, 390, 1300]",indoors,jcED,xCuTMh6m1IE
+1435,"[289, 666]",outdoors,scED,X-rjGfdELSk
+1436,"[60, 353, 388, 673]",outdoors,9nED,9USV_HDXIvg
+1437,"[60, 353, 673]",outdoors,qyED,9Vjmi9uYnyc
+1438,"[191, 248]",outdoors,ERED,taImHw2-tEk
+1439,"[60, 239, 291, 2625]",outdoors,E0ED,pUMjznikrzk
+1440,"[11, 112, 173, 262]",outdoors,mJED,2sx8MDm8x04
+1441,"[18, 43, 59, 60, 101, 419, 823]",outdoors,RqED,t2QszeQ-kUg
+1442,"[11, 83, 262, 720, 751]",outdoors,SbED,pZw2OrS64f4
+1443,"[16, 43, 60, 1415]",outdoors,b4ED,DmolelGbJIg
+1444,"[88, 307, 364]",indoors,BzED,S3YuuC-Conc
+1445,"[15, 18, 60, 67, 239, 2924]",outdoors,GpED,kAC21Zi3rOQ
+1446,"[0, 42, 262, 306]",outdoors,M9E0,_tCee6Ujwik
+1447,"[179, 248]",outdoors,BxE0,XRuGJs-Doaw
+1448,[248],outdoors,DJE0,LErPvsbXh6k
+1449,"[11, 83, 262, 506]",outdoors,4pE0,NTqMWiQoY8U
+1450,"[126, 239, 262, 686, 720, 1626]",outdoors,IzE0,2yJgO31F2Hw
+1451,"[184, 191, 299, 1159]",indoors,eoE0,4eQiHfSt5n4
+1452,"[60, 519, 995]",outdoors,g5E0,jwdfd74TDy4
+1453,"[2, 43, 60, 76, 473, 547]",outdoors,WNE0,k1fHi_Nghso
+1454,"[60, 519, 995]",outdoors,pgE0,LAE1rYfrA5o
+1455,[1245],indoors,SOE0,zZoyE5EaWHg
+1456,"[0, 1245]",indoors,TJE0,IWryGw5F-qc
+1457,"[262, 2000]",outdoors,OuE0,b9HVOtNN8Uc
+1458,"[39, 121, 156, 207, 338, 529, 1245]",indoors,jQE0,8pVCl7ROwfk
+1459,"[88, 307, 1299]",indoors,sVE0,jqna56NV8po
+1460,"[60, 311, 360, 1933]",outdoors,lHFm,KDDSwGNjbgk
+1461,"[60, 353, 669]",outdoors,qUFm,rdvRpoTYFuc
+1462,"[18, 43, 59, 60, 101, 419, 991]",outdoors,ILFm,p6c8F2u513I
+1463,"[43, 60, 101, 286, 374, 549, 2490]",outdoors,9wFm,SggoAeNEu9g
+1464,"[205, 1245]",indoors,U1Fm,MOx8H-JYU7Y
+1465,"[60, 141, 247, 255]",outdoors,hpFm,08M-LY5U-Fg
+1466,"[88, 184, 191, 364, 380, 416]",indoors,kdFm,CZ-RH1cAH5g
+1467,"[15, 18, 43, 59, 60, 101, 374, 549, 906]",outdoors,ONFm,eRPotMOAre0
+1468,"[88, 184, 307, 380, 416, 514]",indoors,jIFm,Q5rwqqTbUAo
+1469,"[15, 262, 502, 619]",outdoors,3vFm,H2hmx3c1eUY
+1470,"[60, 239, 686]",outdoors,F4Fm,zEl0nKpT27s
+1471,"[179, 248]",outdoors,EgFm,zeNXuC3N5TQ
+1472,"[43, 60, 428]",outdoors,XeFm,3d7ZO2top8Y
+1473,"[83, 262, 542]",outdoors,e4Fm,tSUtuE7A1Ms
+1474,"[2, 7, 60, 95, 135, 297, 427, 1948]",outdoors,FtFm,GY29x4QZEjc
+1475,"[11, 307]",indoors,DbFm,tcUOiiPydFs
+1476,"[43, 60, 101, 419]",outdoors,vCFm,U6maJLJSLxw
+1477,"[182, 248]",outdoors,EBFm,CHUNGtA3bY4
+1478,"[18, 43, 59, 60, 101]",outdoors,tnFm,LYeserY5Lv0
+1479,"[88, 184, 514]",indoors,AxFm,1TO2HUb9MbM
+1480,"[205, 1245]",indoors,twFm,r7buXbFDPo8
+1481,"[184, 364]",indoors,gAGr,EzOJHXFPnq8
+1482,"[11, 20, 22, 32, 211, 307]",indoors,0KGr,UYWo-bo3YBw
+1483,"[43, 60, 286, 873]",outdoors,eFGr,lzHfFSJEBEQ
+1484,"[307, 2277, 2476]",indoors,GqGr,9coHQYvDN08
+1485,"[88, 184, 307, 380, 416, 514, 614]",indoors,1DGr,UuufEqoFXhw
+1486,"[184, 364, 416]",indoors,8LGr,MDaB4CATEbE
+1487,"[2, 18, 43, 59, 60, 76, 101, 549]",outdoors,2LGr,gJGOSwBeCRE
+1488,"[60, 427, 519, 995]",outdoors,kPGr,7pgZZlKqEks
+1489,"[60, 239, 3633]",outdoors,xMGr,b2k2tVOy-XY
+1490,[248],outdoors,UmGr,2hPGTuzRAz8
+1491,"[88, 248, 364]",outdoors,OuGr,F4WHm-_ntVE
+1492,"[0, 88, 307]",indoors,6kGr,aui7lVSxb70
+1493,"[289, 666]",outdoors,xJGr,XOgUdo8Ls-o
+1494,"[0, 1, 139, 262]",outdoors,l9Gr,tmZ0MVcWQR4
+1495,"[11, 20, 22, 29, 32, 123, 176, 211, 221, 307, 1045, 1186]",indoors,LcGr,MfmWnOsmDbY
+1496,[184],indoors,QIGr,lkSpQoJkwlw
+1497,"[60, 68, 72, 182, 452, 480]",outdoors,LtGr,VMFUsbK3IH4
+1498,"[15, 262, 363, 502, 619]",outdoors,xtGr,0n0z4XGliss
+1499,[60],outdoors,mLGr,UWRt2Tw09ec
+1500,"[60, 686]",outdoors,rxGr,nyikA6mk0wI
+1501,"[83, 262, 542, 2091]",outdoors,K3GU,mJCZhgTGofA
+1502,"[88, 184]",indoors,IpGU,uFSrjWctrKs
+1503,"[15, 60, 96, 239, 1880, 2071, 2505]",outdoors,TiGU,uTiiKdJ8r-0
+1504,[248],outdoors,3UGU,FSxOOWDumF4
+1505,"[248, 299, 311]",outdoors,2TGU,WzxU3fRyU9Q
+1506,"[18, 43, 59, 60, 101, 823]",outdoors,sVGU,SOUQ4I4uSck
+1507,"[60, 68, 72, 98, 240, 480]",outdoors,zsGU,c8YaVURaQGA
+1508,"[53, 58, 60]",outdoors,UAGU,JMaMobBddjY
+1509,"[514, 1443]",indoors,u6GU,X87lA2ps9SA
+1510,[666],outdoors,pWGU,9u8JFH-ml7c
+1511,"[15, 60, 96, 239, 363, 686, 1714]",outdoors,pCGU,zcj3n_fhh1I
+1512,"[88, 497, 514, 1148]",indoors,VmGU,EtQYFC9RjTM
+1513,"[60, 239, 2389]",outdoors,9cGU,zre3ivP_9GY
+1514,[60],outdoors,byGU,Y4nh3nlnVpI
+1515,"[43, 60, 101, 286, 374, 549, 873, 2490]",outdoors,L1GU,49Ab6Wucg1E
+1516,[60],outdoors,5TGU,VLuUm5BNkTg
+1517,"[18, 43, 59, 60, 101, 286]",outdoors,QuGU,FyGWMOjPNeo
+1518,"[2, 43, 60, 76, 101, 823]",outdoors,hnGU,vTX-4_d7cvI
+1519,"[2, 18, 43, 59, 60, 76, 101, 286, 1685]",outdoors,BMHo,bq563UXZoRM
+1520,"[88, 184, 307, 380, 416, 514, 614]",indoors,SDHo,XgigjDtb_hs
+1521,[1238],outdoors,PaHo,xMIBhXp0wGs
+1522,"[15, 60, 239, 363, 686, 2625]",outdoors,sUHo,TuGEQ0TFWzE
+1523,"[0, 1, 5, 262]",outdoors,v4Ho,nAC7sVcjjio
+1524,"[2, 18, 43, 59, 60, 76, 101, 374, 549, 693, 906]",outdoors,xVHo,I0QBkt__rXQ
+1525,"[53, 58, 60, 163, 232]",outdoors,n3Ho,VB1OeTmJA6k
+1526,"[307, 1299, 2305]",indoors,yTHo,9zaZ1Y2wNvk
+1527,"[184, 191, 985]",indoors,YbHo,AFK0Xt9dVRI
+1528,"[2, 18, 43, 59, 60, 76, 101]",outdoors,YnHo,AvNkSY3RYIw
+1529,"[60, 385]",outdoors,OyHo,7nTdacX5UW0
+1530,"[184, 400]",indoors,B4Ho,5pbCHtjONy0
+1531,"[2, 60, 76, 1055, 1271, 1393]",outdoors,VkHo,S3WbR5hXyYA
+1532,"[0, 1, 5, 262, 3673]",outdoors,9OHo,XoGE-6A4skg
+1533,"[2, 76, 307, 446]",indoors,FyHo,NuEbUPXM-hw
+1534,"[60, 428, 825]",outdoors,OPHo,3wpuJdsP-0Y
+1535,"[88, 184, 416]",indoors,JaHo,m7nu_jsHPes
+1536,"[15, 363, 666]",outdoors,5XHo,Fi3TqYlYULI
+1537,"[18, 43, 59, 60, 101, 286, 1032]",outdoors,r6HA,kQVWLhCdh3Q
+1538,"[184, 191, 299]",indoors,oMHA,3rDcI3WuV_E
+1539,"[60, 3546]",outdoors,wlHA,m0sk-dnPKT0
+1540,"[2, 18, 43, 59, 60, 76, 101]",outdoors,oiHA,UuHOXM_UmWI
+1541,"[88, 184, 416]",indoors,IPHA,t-Ds-xiCvp0
+1542,"[26, 184, 453, 1190, 1360]",indoors,yJHA,opnBYJywF2Y
+1543,"[2, 60, 76, 101]",outdoors,IGHA,4piUkH6qyL4
+1544,"[2, 18, 43, 59, 60, 76, 101, 286]",outdoors,f8HA,lfpVwvIMkB0
+1545,"[53, 58, 60, 166, 228, 232]",outdoors,fkHA,Civ04UWmOr0
+1546,"[60, 239]",outdoors,GeHA,5eHDNFwbOxk
+1547,"[18, 43, 59, 60, 101, 286, 374, 549, 873, 906, 1503]",outdoors,J9HA,2Q09Ukfjm0c
+1548,"[2, 17, 30, 53, 58, 60, 143, 345]",outdoors,R9HA,GiWfct2D5aM
+1549,[307],indoors,S9HA,G3QmxV-NFqo
+1550,"[60, 993, 1056]",outdoors,tZHA,ZrPqeF7qOCo
+1551,"[43, 60, 1576]",outdoors,zSHA,Fir9AlcWObw
+1552,"[18, 43, 59, 60, 101, 286]",outdoors,1LHA,FoIgYWHTuFU
+1553,"[15, 220, 262, 502, 1797]",outdoors,2VII,mMcTCqCCuxM
+1554,"[18, 43, 59, 60, 101, 286]",outdoors,ZaII,RUJ4m9IRvsc
+1555,"[184, 400, 514]",indoors,waII,QwjxXSV2qSU
+1556,"[3, 248]",outdoors,SwII,Qy1yZf7lAN4
+1557,"[88, 184, 380, 416, 1638]",indoors,WSII,CrF6pLTzUvw
+1558,"[191, 248, 299]",outdoors,9III,0YU6Lyx0bAs
+1559,"[15, 18, 60, 87, 333, 536]",outdoors,kbII,Hz8qHG_gePs
+1560,"[2, 30, 60, 68, 72, 452, 480]",outdoors,pGII,GHJUm7SEE_M
+1561,"[18, 60, 87]",outdoors,Q9II,XxxI6WtJUgM
+1562,"[15, 18, 67, 140, 248]",outdoors,GQII,eBA9-A7P4ZE
+1563,"[18, 87, 262, 541]",outdoors,KYII,75aDF-ZXte4
+1564,[514],indoors,IzII,A7nZniqfWZw
+1565,"[60, 141, 247]",outdoors,acII,A_hfURBXobM
+1566,"[514, 580, 2289]",indoors,pJII,qlvsrbDD6Y4
+1567,"[11, 262, 601, 720]",outdoors,wHII,l7231-NQ7Hc
+1568,[60],outdoors,tIII,bFO3jR7ubKw
+1569,"[60, 186, 239]",outdoors,ZkII,xR7PGDMPhuE
+1570,"[53, 60, 519]",outdoors,hoII,aHKz8AYJMnM
+1571,"[182, 248]",outdoors,0UII,1pkHdikmDEs
+1572,"[18, 43, 59, 60, 238, 274, 366]",outdoors,lvII,NaeS4TssiaI
+1573,"[184, 191, 985]",indoors,PXII,RArs8woyWyw
+1574,[666],outdoors,pOII,HBndhyd1CT4
+1575,"[353, 666, 995]",outdoors,4QIU,FSyC2KszFds
+1576,"[53, 58, 60, 163, 232, 333, 427]",outdoors,UVIU,r_6GW7o2F8w
+1577,"[179, 248]",outdoors,RcIU,GFWbJikotPQ
+1578,"[88, 184, 2885]",indoors,EbIU,z2_jDDLg2wc
+1579,"[15, 18, 43, 59, 60, 101, 549, 906]",outdoors,VBIU,Lz62L4xHJ_Y
+1580,[60],outdoors,n4IU,Gnc0_8VpB-I
+1581,"[88, 416, 514]",indoors,GvIU,zzRKzJ5iCRs
+1582,"[11, 262]",outdoors,Z4IU,mTtyXh97nT0
+1583,"[60, 333]",outdoors,KsIU,d9xfP3lNTUI
+1584,"[60, 1396]",outdoors,ERIU,MvxtKItllfI
+1585,"[88, 307, 497, 1299]",indoors,E1IU,BYCNk4gDVXo
+1586,"[15, 262, 502, 619]",outdoors,NzIU,EEDH3mABhgw
+1587,"[184, 191, 307, 364, 416]",indoors,YgIU,u_CM84Q0_s8
+1588,"[43, 60, 101, 374, 549, 906]",outdoors,TjIU,GyFBBHRHjis
+1589,"[60, 68, 72, 98, 151]",outdoors,XvIU,bAR50hrdvlE
+1590,[248],outdoors,INIU,TQ2XVWCEFDA
+1591,"[88, 184, 307, 364, 380]",indoors,5mIY,KdFDW_XfO98
+1592,"[15, 60, 239, 363, 686]",outdoors,w0IY,80jv4rP13UQ
+1593,"[15, 96, 191, 248, 299]",outdoors,NsIY,NoLKyjC8Ya8
+1594,"[18, 43, 59, 60, 101]",outdoors,dxIY,6oD20daLu-4
+1595,"[80, 88, 416]",indoors,pYIY,d6cqkx_jf9Q
+1596,"[184, 191, 1947]",indoors,EsIY,ua6liZGVvDs
+1597,[248],outdoors,QKIY,8TTTkao5JPI
+1598,"[18, 43, 59, 60, 101, 286]",outdoors,m0IY,58NWKvtK3ng
+1599,"[184, 400, 614, 641, 952]",indoors,LMIY,dlCmJ5WsVEc
+1600,"[0, 1, 27, 183, 192, 262, 294, 331]",outdoors,UEI0,blNqDhzyt6w
+1601,"[60, 160, 231, 273, 398]",outdoors,sbI0,a5Pycw-urso
+1602,[3501],indoors,JII0,a8052zYI-8k
+1603,"[15, 60, 239, 363, 686]",outdoors,TWI0,oJmktb4_Z-E
+1604,"[15, 18, 43, 59, 60, 101, 286, 873]",outdoors,0xI0,8mQXwIwruc8
+1605,"[2, 18, 43, 59, 60, 76, 101, 286, 549, 693, 906]",outdoors,itI0,U0tWpOTTsuU
+1606,"[60, 210, 685]",outdoors,hZI0,Az2VbWo3uEI
+1607,"[88, 184, 307, 416, 514]",indoors,dNI0,AfiVgvjs_Ys
+1608,"[11, 262, 601, 2894]",outdoors,e6I0,zhnTllT6qLY
+1609,"[15, 18, 60, 87]",outdoors,blI0,3f46efIJacc
+1610,"[182, 248]",outdoors,I9I0,64T4NbgcYSo
+1611,"[666, 1964]",outdoors,WMI0,67I6gKp4XZY
+1612,"[166, 398, 482, 666]",outdoors,4XI0,MioNxZiCJG0
+1613,"[262, 502]",outdoors,vYI0,vlGA1HB58s4
+1614,"[15, 60, 239, 363, 686]",outdoors,M2I0,MdZ2H0RQ2TM
+1615,"[11, 83, 104, 262, 601, 720]",outdoors,cAI0,lcKpROGpRvY
+1616,"[11, 20, 22, 29, 32, 122, 123, 176, 307, 321]",indoors,kDI0,XlT4BeMtUCc
+1617,"[3, 2105]",outdoors,sNI0,Znl8HWJ-ut8
+1618,[60],outdoors,FMI0,bwwVMmAvNaM
+1619,"[205, 300, 1245]",indoors,m8I0,kAUzlh1fE4c
+1620,"[60, 1837]",outdoors,UBI1,GJ3zToh6xIA
+1621,"[60, 381]",outdoors,bKI1,brXvjN5R12A
+1622,"[15, 60, 96, 239, 2071, 2505]",outdoors,uII1,Cc-onI8lMyc
+1623,"[88, 184, 416, 2180]",indoors,MrI1,T3gcHnTCCyg
+1624,"[18, 43, 59, 60, 101, 286, 549]",outdoors,itI1,ixdep5MOd0w
+1625,"[15, 18, 87, 248]",outdoors,RUI1,3JlRTao6ooo
+1626,"[184, 364]",indoors,MJI1,CQUqh3eWxr8
+1627,[60],outdoors,VxI1,oWSgTghhy2I
+1628,"[2, 18, 43, 59, 60, 76, 101, 419, 991, 1824]",outdoors,OqI1,bcvI6Jd5kzc
+1629,"[43, 60, 101]",outdoors,txI1,T1eoiXW_LvU
+1630,"[60, 239, 686, 1714]",outdoors,JgI1,YRhfsl6iBUk
+1631,[248],outdoors,ICI1,J3q47BeJ0wM
+1632,"[2, 43, 60, 76, 473, 547]",outdoors,eMI1,34xJ08Hlbuw
+1633,"[26, 64, 83, 149, 262]",outdoors,wEI1,34lPOVMTKis
+1634,"[18, 43, 59, 60, 101, 286, 419, 991, 1824]",outdoors,j8I1,g5Yjri9njLs
+1635,"[88, 184, 191, 364, 380, 416, 514, 614, 899]",indoors,JJI1,Hc2bQulxTbw
+1636,"[88, 191, 299, 416, 1003]",indoors,bZI1,e7k5cZkyFBk
+1637,"[0, 27, 262]",outdoors,RSI1,1O8Kb2qR0Vs
+1638,"[88, 184, 364, 514]",indoors,GxI1,aTAC7VrmGIU
+1639,"[254, 1226, 1886, 1970]",outdoors,GqI1,G5LUeZZRM2M
+1640,"[60, 239]",outdoors,7vI1,dk6OyuQORpA
+1641,"[184, 380, 400, 1152]",indoors,GsJC,8CAemqD-Xb4
+1642,"[60, 210, 427, 685]",outdoors,HfJC,QR94sK7KSrM
+1643,"[60, 180, 239]",outdoors,AZJC,hxouIgoGl5g
+1644,"[2, 18, 43, 59, 60, 76]",outdoors,ZtJC,JK2R7wObha4
+1645,"[11, 20, 24, 131, 307]",indoors,2UJC,_T-5Aplf2CI
+1646,"[15, 18, 60, 67, 239, 2924]",outdoors,xZJC,FavAg9ncwoo
+1647,"[18, 43, 59, 60, 419]",outdoors,WSJC,ab-PxRQWNCU
+1648,"[15, 18, 59, 184, 191, 555, 797, 2543]",indoors,dfJC,s_ITCOYdNiQ
+1649,"[2, 30, 60, 427]",outdoors,DzJC,0oXr6cDnTdE
+1650,[262],outdoors,BjJC,v9coqax3zf0
+1651,"[11, 83, 262, 2894]",outdoors,BYJT,C-rF9sg1rPc
+1652,"[2, 18, 43, 59, 60, 76, 101, 286, 385, 549]",outdoors,wKJT,iAedgPB2-SY
+1653,"[43, 60, 1032, 1503, 3823]",outdoors,L3JT,27txcnUFac4
+1654,"[307, 400, 1299]",indoors,YwJT,30-jzLYfTjk
+1655,"[11, 307]",indoors,7OJT,k1_XWtR4Bno
+1656,"[2, 83, 262]",outdoors,tZJT,YaDgbRkGGCY
+1657,"[307, 420, 497]",indoors,PMJT,Ntldp6UxcfU
+1658,"[43, 60, 101, 286]",outdoors,taJT,aEFuqOh2vdA
+1659,"[2, 17, 30, 55, 60, 340]",outdoors,tuJT,v73ZCIAAmgI
+1660,"[2, 83, 262]",outdoors,XoKF,iwnioHMAkGE
+1661,"[60, 304]",outdoors,X7KF,hsy44xghx6s
+1662,"[11, 83, 262, 2091]",outdoors,PZKF,8kJUgCtV494
+1663,"[2, 60, 544, 1089]",outdoors,2VKF,oYW7wujSDGs
+1664,"[43, 60, 101, 571]",outdoors,dDKF,iPJ86uecLD0
+1665,"[43, 60, 873]",outdoors,AAKF,YOlDUxxp5VM
+1666,[60],outdoors,RCKF,NfVs1mTRHLM
+1667,"[18, 43, 59, 60, 101, 286, 374, 2350, 2681]",outdoors,roKF,la43O2-Odf8
+1668,"[18, 43, 59, 60, 101, 286, 374]",outdoors,9VKF,TVJxJT8byeY
+1669,"[60, 82, 160, 273, 888]",outdoors,fGKF,YC_oy2tXtvg
+1670,[248],outdoors,6VKF,Bdr5y3XExtc
+1671,"[43, 60, 101]",outdoors,n7KF,fa3RKoC9Y7w
+1672,"[60, 239, 686, 1714]",outdoors,itKF,FyaqJVhqvtA
+1673,"[11, 83, 262, 1845, 3714]",outdoors,nKKF,gd0ikcuMpt0
+1674,"[19, 53, 58, 60, 163, 214, 232, 494]",outdoors,lEKF,LbcVrO5x_r4
+1675,"[18, 43, 59, 60, 101, 286, 1032]",outdoors,aQKN,juqFYAlxpuc
+1676,"[307, 2277, 2405]",indoors,62KN,m6v1v8WoNcU
+1677,"[88, 184, 191, 380, 614]",indoors,56KN,KCk3rcvzuDg
+1678,"[289, 666, 2374]",outdoors,pEKN,uRmBnRilbqY
+1679,"[15, 363, 1102, 1238, 1816, 1835]",outdoors,zJKN,RU3jqp6U7w4
+1680,"[2, 18, 43, 59, 60, 76, 101, 1496]",outdoors,AbKN,C-yNlIzgyLo
+1681,"[184, 364]",indoors,FpKN,nae0d2HFIiE
+1682,"[184, 191, 299, 380, 1013]",indoors,sxKN,cAuo1Qitchg
+1683,"[18, 43, 59, 60, 101, 374, 1975, 2681]",outdoors,gyKN,0YKMEpOF60E
+1684,"[191, 248, 299]",outdoors,BvKN,TcjEawbn78w
+1685,"[88, 184, 514]",indoors,tUKN,77hgbOLNfDI
+1686,"[191, 248, 299]",outdoors,1dKN,8REPYn1nxt8
+1687,"[1226, 3273]",outdoors,z3KN,RH2fH-jHlKU
+1688,"[184, 191]",indoors,Y2KN,w8lWCyp0osU
+1689,"[88, 184, 307, 364, 416]",indoors,5XKN,udzdzrb-4eU
+1690,"[60, 238, 274, 366]",outdoors,n8KN,XEoCapj4gi0
+1691,"[39, 514]",indoors,7VKN,jzijFoTq3q8
+1692,"[262, 542]",outdoors,NmKN,g6xhy33exV4
+1693,"[8, 248]",outdoors,gLKN,57CrcPMQkDU
+1694,"[60, 353, 673, 3598]",outdoors,YzKN,Kr2p7rN8f0M
+1695,"[2, 60, 76, 473, 547]",outdoors,TpKN,2QCuJkehKwc
+1696,"[43, 60, 101, 286, 374, 385]",outdoors,KxKN,v3k1nUk7Wyg
+1697,"[88, 184, 307, 364, 616]",indoors,0qK5,uTfNstaM38Q
+1698,"[400, 416, 2305]",indoors,OLK5,b_9Rz8ocriU
+1699,"[15, 18, 43, 59, 60, 101]",outdoors,RxK5,-E3lbgEO9fk
+1700,"[2, 18, 43, 59, 60, 76, 101]",outdoors,fbK5,hSftjYcSoog
+1701,"[18, 43, 59, 60, 101, 286, 549]",outdoors,zkK5,1alULs8WCpE
+1702,"[60, 353, 673]",outdoors,ucK5,Zfvuk5zQ_KA
+1703,"[88, 242, 313, 470, 2105]",outdoors,1xK5,Ow-T6Oo-kw4
+1704,"[43, 101, 248, 286, 1415]",outdoors,XlK5,2fkfjODjOHw
+1705,"[11, 22, 307, 341, 791, 1265]",indoors,NuK5,TIVuSwZdqJM
+1706,"[2, 18, 43, 59, 60, 76, 101, 286]",outdoors,pXK9,-4P7Xab3nPw
+1707,"[353, 519, 666]",outdoors,LcK9,ObawTmEY87M
+1708,"[88, 364, 514]",indoors,olK9,KulANZzz4Pc
+1709,"[60, 365]",outdoors,QjK9,NAOxgVF0ARM
+1710,"[514, 616, 1025]",indoors,39K9,4EweFQaRoJk
+1711,"[15, 18, 60, 87, 365, 536]",outdoors,Q7K9,7lYTGM-YZ2U
+1712,"[307, 400]",indoors,vAK9,AyRi3EDE2d4
+1713,"[15, 262, 605, 619, 713, 1174]",outdoors,dEK9,6oG9GSM3njU
+1714,"[184, 191]",indoors,NhK9,u_Vm2NT-WEk
+1715,"[60, 353, 519]",outdoors,9TK9,NreRB3zuLjQ
+1716,"[60, 1396]",outdoors,dZK9,LVAB0Dgg7lM
+1717,"[11, 20, 22, 29, 32, 120, 122, 303, 307, 397, 426, 680]",indoors,27K9,C9Jx91A7CzI
+1718,"[15, 18, 60, 87, 333]",outdoors,VcK9,W6YDlArLeu0
+1719,"[184, 191, 985, 1803]",indoors,4jLb,mMwNGFXp9GE
+1720,"[15, 60, 239, 363, 686, 1714, 1880, 2109]",outdoors,VFLb,t8csd6YgDAc
+1721,"[11, 20, 22, 29, 32, 112, 303, 307, 430, 559, 3175]",indoors,SlLb,onco97fcZKA
+1722,"[11, 20, 22, 29, 32, 122, 123, 307, 1157]",indoors,XHLb,PoYcuJEdzTw
+1723,"[15, 18, 60, 87, 333]",outdoors,nSLb,M2HhVBZD-Js
+1724,"[514, 616, 1025, 1440, 1815, 2476]",indoors,zSLb,Abwsv-TQVEM
+1725,"[184, 1248]",indoors,VCLb,T1n8_0V61Ps
+1726,[248],outdoors,6jLb,dv-D03tUJCg
+1727,"[88, 184, 313, 380, 614]",indoors,EkLb,9iGJ0nYlp5Q
+1728,[60],outdoors,q7Lb,q3GLajblQFE
+1729,"[15, 96, 262, 397, 619, 1784]",outdoors,iBLH,ecsiRz_R_Y4
+1730,"[60, 353, 519, 666, 673]",outdoors,h6LH,4rBqCykgx5A
+1731,"[60, 289, 519]",outdoors,rSLH,B1z5ez35q9o
+1732,"[182, 248, 392, 634]",outdoors,zILH,IOTTf_qaVks
+1733,"[26, 184, 194]",indoors,5ULH,qsdfb1qedX4
+1734,[248],outdoors,pZLH,PpQ4caZHXMs
+1735,"[0, 60]",outdoors,L1LH,OPvcELxTnj8
+1736,[248],outdoors,mNLH,7feLjTrkNeo
+1737,"[60, 353, 519]",outdoors,H7LH,hWdR1dHa3Eg
+1738,"[0, 83, 254, 262, 542]",outdoors,WGLH,J2x_mUMPk9g
+1739,[248],outdoors,kQLH,4XJi8TsnGe0
+1740,"[15, 18, 43, 59, 60, 101, 286]",outdoors,auLH,xXIBqWcjiRY
+1741,"[88, 184, 307, 364, 380, 416, 514, 614, 1013, 3330]",indoors,VtLH,b4V0c2ReyGQ
+1742,"[313, 1013, 2105]",outdoors,QPLH,ft00Z4IxeZo
+1743,"[60, 353, 519, 673]",outdoors,W5LH,qLsBiHs4Y_8
+1744,"[184, 2076]",indoors,kTLH,0FcJlF6OZAw
+1745,"[18, 43, 59, 60, 101, 286]",outdoors,v1Nb,rQlcgD25lGo
+1746,"[88, 184, 380, 641]",indoors,WrNb,oAeDHvBbp0A
+1747,"[60, 519, 995, 3598]",outdoors,2VNb,Jf7oo11EqBw
+1748,"[88, 184, 191, 364, 416, 514]",indoors,T3Nb,AAjPOylF2KU
+1749,"[184, 380, 400, 416, 641, 1152, 1608]",indoors,0ENb,AE0WqcrIeXE
+1750,"[15, 18, 60, 87]",outdoors,T2Nb,6mtVpXWIKK4
+1751,[307],indoors,oTNb,wDcRhZocwkg
+1752,"[2, 53, 58, 60, 163, 214, 232]",outdoors,4eNb,uiAj6DCoH38
+1753,"[2, 7, 83, 262]",outdoors,i9Nb,BIjoedm0jao
+1754,"[18, 43, 59, 60, 101, 286, 419, 1824]",outdoors,tYNb,mzvmGIFxpWA
+1755,"[248, 519]",outdoors,f0Nb,alJZUWrSyiw
+1756,"[184, 416, 453]",indoors,PiNb,KsXQkATV0qU
+1757,"[53, 58, 60, 163, 232]",outdoors,rlNb,YMCvs-dEj5o
+1758,"[15, 519, 1238, 2785]",outdoors,z6Nb,1sheQR39qf8
+1759,[248],outdoors,i6Nb,l0aJj-fXtF4
+1760,"[18, 43, 59, 60]",outdoors,2kOp,RW7vNOB1BXg
+1761,"[307, 400, 2305]",indoors,ecOp,ai4YxgVGDwA
+1762,"[18, 43, 59, 60, 101, 374, 823, 991, 1415]",outdoors,IMOp,6Y42INl0qbg
+1763,"[0, 1, 83, 254, 262, 542]",outdoors,hfOp,ZjnKYwuQXbM
+1764,"[18, 43, 59, 60, 101, 334, 374]",outdoors,w0Op,e3fc4S7ivd8
+1765,"[15, 18, 43, 59, 60, 101, 374]",outdoors,iFOp,I66D27mdURA
+1766,[248],outdoors,YOOp,EDrE8DCSzLE
+1767,"[0, 60]",outdoors,o0Op,pdOoe-Zavhc
+1768,"[18, 43, 59, 60, 101, 374, 549, 906, 2490]",outdoors,BPOp,b5kCONdBCRk
+1769,"[0, 42, 262, 306]",outdoors,ibOp,Gc5L0zNvfxU
+1770,"[88, 497, 614]",indoors,SNOp,fykgJkHR53g
+1771,"[248, 668]",outdoors,3cOp,R9POnsMvgdc
+1772,"[26, 60, 64, 149]",outdoors,NfOA,mK5MC2ONTQM
+1773,"[53, 58, 60, 163, 232, 427]",outdoors,yZOA,Yx2YwYsi5tI
+1774,"[184, 400, 614, 641, 952]",indoors,yBOA,lJJubwnlA4g
+1775,"[0, 1, 262, 542]",outdoors,uvOA,7V1t9UCDHII
+1776,"[60, 353, 519, 666, 673, 995]",outdoors,p5OA,8hcibHmxy1Q
+1777,"[88, 184, 307, 380, 416, 514, 614, 1013]",indoors,5EOA,7FUdaEO-Bx0
+1778,"[60, 353, 673]",outdoors,ukOA,8Q-DyGsY-r4
+1779,"[60, 182, 392]",outdoors,QpOA,Rczm3dpYUk0
+1780,[2105],outdoors,tmOA,vH0yNNAIo9I
+1781,"[2, 18, 43, 59, 60, 76, 101, 374]",outdoors,E1OA,M1W37yl7QQU
+1782,"[307, 375, 420, 1299]",indoors,DoOA,pEgUbtnb7kk
+1783,"[43, 60, 101, 286, 873, 2490]",outdoors,9xOA,7orc7oPU8Z4
+1784,"[184, 416, 514, 1148, 2885]",indoors,BcOA,eD2E43Qigl8
+1785,"[18, 43, 59, 60, 101, 1032]",outdoors,UiOA,2yz4PG1ghOs
+1786,"[191, 248, 299]",outdoors,kxOA,4D_jn2Dq2z0
+1787,"[43, 248, 798, 912, 971]",outdoors,ZGOA,OuxV6k5ILKE
+1788,[60],outdoors,5dOA,qgBLDMuPuvE
+1789,"[15, 60]",outdoors,r9OA,GubV88pkoZM
+1790,"[15, 18, 43, 59, 60, 101, 374]",outdoors,QLOA,OKG8nfSwE-o
+1791,"[15, 60, 96, 363]",outdoors,CPOA,9peNL34Mgbg
+1792,[666],outdoors,DFOS,Bt6i4gMdM1s
+1793,"[15, 60, 363, 509, 533, 1238, 1816, 1855, 2537]",outdoors,MEOS,ogMj0qBh16Y
+1794,"[88, 307, 411, 614, 1299]",indoors,lmOS,IdlB4U1Cs4I
+1795,"[380, 400, 952, 1608]",indoors,duOS,idYfDd62L8M
+1796,"[18, 43, 59, 60, 101, 286, 823]",outdoors,zrOS,hColLV4UcjQ
+1797,"[2, 43, 60, 76, 385]",outdoors,YyOS,5JC6hX7PcOw
+1798,"[2, 7, 83, 208, 262, 541, 1025, 1134]",outdoors,PfOS,TlOnkIZzqZ8
+1799,"[289, 666, 669]",outdoors,94OS,jTgOybSybB8
+1800,"[88, 184, 313, 364, 380, 416, 514, 1013]",indoors,0YOS,6jQ-bVjJoEY
+1801,"[2, 60, 76, 353, 473, 571]",outdoors,W1OS,1gYtK4Sw7I0
+1802,"[15, 60, 96, 239, 363, 1880, 2071, 2505]",outdoors,4GOS,10zvRswFmJ8
+1803,"[60, 353, 519, 666]",outdoors,UMOS,ucFCxY6WPi4
+1804,"[88, 184]",indoors,seOS,vhHMAvh_NRs
+1805,"[15, 18, 43, 59, 60, 101, 1496]",outdoors,n9OS,jNxzSJYINnQ
+1806,"[184, 364]",indoors,ydOS,fTydEIG9Uh0
+1807,"[18, 43, 59, 60, 101, 374, 549, 571, 693, 906]",outdoors,baOS,E9dqQNfnOiE
+1808,"[11, 83, 262, 601, 720]",outdoors,gcOS,Hd-Px1_QYfM
+1809,"[11, 20, 22, 29, 122, 307, 341]",indoors,QXO9,QQrZmtcHHko
+1810,"[2, 60, 76, 419, 1271, 1393]",outdoors,1MO9,BrTCiD7ZN94
+1811,"[2, 43, 60, 76]",outdoors,WyO9,yrjCx4H4P88
+1812,[248],outdoors,kaO9,c6OtPyFQmyk
+1813,"[88, 388, 514, 1148, 1583]",indoors,BbO9,Qwt3OpylJl0
+1814,"[191, 248, 299]",outdoors,BKO9,oZbIAFr9NgQ
+1815,"[60, 419, 1393]",outdoors,R5O9,KeyqYTnCHSY
+1816,"[248, 1003]",outdoors,pMO9,PiCcl67xp5A
+1817,"[666, 1948]",outdoors,i0O9,8ziAS_VXau8
+1818,[60],outdoors,T1O9,M2uBWMiFoyo
+1819,"[191, 248]",outdoors,EuO9,u4b6uYAhjpA
+1820,[60],outdoors,BTO9,F5-C1QvgWXU
+1821,"[15, 18, 43, 59, 60, 101, 286]",outdoors,ORO9,l7HB5CRD17o
+1822,"[53, 58, 60, 163, 2690]",outdoors,KXO9,DYKvEjA7vvo
+1823,"[18, 43, 59, 60, 101, 286]",outdoors,DwO9,fbN1dF6MqZQ
+1824,"[18, 43, 59, 60, 101, 693, 1685]",outdoors,85O9,n1NO5peQUDQ
+1825,"[53, 58, 60, 214, 494]",outdoors,a4O9,xRp3fSNl8WU
+1826,"[43, 248, 286, 873]",outdoors,zrO9,V09onszAoYw
+1827,"[2, 17, 60, 76, 281]",outdoors,EwO9,vMBP5V9LWZ8
+1828,"[43, 248, 912, 1576]",outdoors,XjPx,jcVzttAs7ME
+1829,"[53, 58, 60, 163, 232, 3725]",outdoors,FoPx,CypBMc3cJ90
+1830,"[11, 83, 262, 601, 1613]",outdoors,43Px,VB3vaPsfPQA
+1831,"[1, 184]",indoors,mSPx,KcRxaK84Myg
+1832,"[83, 262, 542]",outdoors,lBPx,A2n3n4f4jxI
+1833,"[179, 182, 248]",outdoors,jCPx,hRpI8KFL0rI
+1834,"[2, 83, 262]",outdoors,e3Px,vCMi0LvJkMA
+1835,"[2, 43, 60, 76, 571]",outdoors,cjPx,AHDVbpRvn6Q
+1836,"[60, 166, 398, 482, 501, 664]",outdoors,o5Px,Z9lvxjli5XA
+1837,"[88, 364, 380, 416]",indoors,aNPx,ZB1QR-fKY48
+1838,"[18, 43, 59, 60, 101, 286]",outdoors,0APx,CjcSGwMHpYM
+1839,[1238],outdoors,kqPx,Y8xCmnlyzT0
+1840,"[0, 42, 262, 306]",outdoors,78Px,fzaC5Tdx-pU
+1841,"[43, 60, 101, 286]",outdoors,95Px,9qJQJRc46r4
+1842,"[5, 60]",outdoors,yiPU,Rwey0t6jfDs
+1843,"[262, 1673]",outdoors,bvPU,IuO_wu7otFM
+1844,"[60, 482]",outdoors,RlPU,c7vpOnfeWK8
+1845,"[191, 248, 299]",outdoors,kNPU,P6Qghf6IkD8
+1846,"[2, 43, 60, 76, 419]",outdoors,KUPU,78hwcGkVujQ
+1847,"[2, 43, 60, 76, 385, 549, 906]",outdoors,BWPU,K-O0Wan-7_8
+1848,"[60, 419]",outdoors,WCPU,zjU7Ma4w91Q
+1849,"[11, 20, 22, 29, 32, 307]",indoors,5jPU,pwAXsPhGkBI
+1850,"[53, 58, 60, 163, 214, 232]",outdoors,6PPU,Nh0cVCpzAzs
+1851,"[18, 43, 59, 60, 101, 991]",outdoors,NYPU,pcBI-4CYp7g
+1852,"[18, 43, 59, 60, 101, 286, 374]",outdoors,BtPU,gmkpS2WQ3YU
+1853,"[88, 184, 307, 364, 380, 416, 514]",indoors,XTPU,Du3QbW_7IuA
+1854,"[43, 60, 166, 398, 482, 501, 664]",outdoors,KLPU,RR81ghRxqtg
+1855,"[248, 958, 3583]",outdoors,3hQC,qwVTz1kiSOE
+1856,"[15, 18, 43, 59, 60, 101, 286, 549, 693, 906, 1415]",outdoors,fJQC,VWfRzPNDjXQ
+1857,"[18, 43, 59, 60, 101, 823]",outdoors,FnQC,PYtuCf3Igaw
+1858,[248],outdoors,VLQC,6uWXyx5Oblg
+1859,"[2, 18, 43, 59, 60, 76, 101, 873]",outdoors,hjQC,JsmpHH-4TDY
+1860,"[88, 184, 364]",indoors,XgQC,wJz2l1yUSBo
+1861,"[15, 18, 60, 87, 365, 536, 2832]",outdoors,BxQC,9r8zvg3ki8M
+1862,"[18, 43, 59, 60, 101, 286, 374, 549, 693, 906, 2681]",outdoors,U4QC,nviKZSu9oKY
+1863,"[2, 18, 43, 59, 60, 76, 101, 873]",outdoors,mjQC,W5lSQT17ouU
+1864,"[43, 60, 101, 549, 2490]",outdoors,EvQN,Yznj3ge-oLE
+1865,"[88, 184, 191, 299, 307, 380, 396, 416, 614, 985]",indoors,mWQN,MQb6idsuJl4
+1866,"[43, 60, 101]",outdoors,bOQN,RekpgC2Ik_8
+1867,"[88, 184, 364, 380, 400, 614]",indoors,LeQN,NAf2pjC7RKM
+1868,"[60, 72, 98]",outdoors,xUQN,-Amth3ORtZc
+1869,"[60, 385, 1569]",outdoors,hnQN,Ai4lTsK3xL0
+1870,"[53, 58, 60, 163, 232]",outdoors,XCQN,SyTDSGiFsBc
+1871,"[388, 497, 514, 1025, 1443]",indoors,fRQN,0EeszsiE2N0
+1872,"[8, 89, 1226]",outdoors,tUQN,FzYr74HtlyI
+1873,"[60, 1880, 3556]",outdoors,XlQN,FfZNQqOWXuQ
+1874,"[60, 798, 824, 971]",outdoors,XjQN,XGND46X7D_k
+1875,"[43, 60, 101, 286]",outdoors,s5QN,aoV9SqW6imE
+1876,[248],outdoors,oGQN,YArwHWqCTQo
+1877,[248],outdoors,dgQX,luhXfiq38j0
+1878,"[307, 1299]",indoors,39QX,K7FgjaZHnqA
+1879,[248],outdoors,KcQX,CdBQwokMw9U
+1880,"[400, 416, 2076]",indoors,7SQX,yhLtBYhhBkQ
+1881,[248],outdoors,BRQX,etnu_N3vh6M
+1882,"[0, 248, 2434]",outdoors,2IQX,Sd0jnGU3UGQ
+1883,"[11, 83, 262, 820]",outdoors,5LQX,3s9xWGvgYHQ
+1884,[60],outdoors,iyQX,YiH9umbI_0M
+1885,"[2, 83, 262, 291, 820, 911]",outdoors,l7QX,SnZYayWEvJc
+1886,[248],outdoors,fPQX,Ates2Kv0mTI
+1887,"[0, 27, 262]",outdoors,sCQX,7xAhFvlB72U
+1888,"[60, 163, 214]",outdoors,ImQX,j4ERktYKkzo
+1889,"[184, 191, 380, 985, 1803]",indoors,SDQX,h0BRnklESe0
+1890,[248],outdoors,4UQX,tluDh2UZfg8
+1891,"[60, 1396]",outdoors,R0QX,4dSHfqbFGMo
+1892,"[88, 184, 307, 380, 400, 416, 497, 614]",indoors,lHQX,29Z3Oiw96-c
+1893,"[18, 43, 59, 60, 549]",outdoors,aFQX,czjle8AfCfo
+1894,"[19, 53, 58, 60, 163, 232]",outdoors,0aQX,PzxTNuuVqtk
+1895,"[0, 83, 254, 262, 542]",outdoors,3mQX,E9jN92W-8cg
+1896,[60],outdoors,I4QX,ayCBAdS6HVo
+1897,"[88, 184, 614]",indoors,0rQX,cWADJocevWA
+1898,"[60, 353, 673]",outdoors,qFQX,_0BOsIlQpjw
+1899,"[248, 3793]",outdoors,GxQ5,jcMunLGWDCo
+1900,"[11, 83, 262, 720, 751, 1081]",outdoors,1GQ5,Yu6yNhl2HqE
+1901,[248],outdoors,K8Q5,plNpAntBrRg
+1902,"[0, 1, 83, 254, 262, 542]",outdoors,ytQ5,uLNyaStdy6U
+1903,"[1, 27, 2105]",outdoors,q0Q5,oNTQsLO2g64
+1904,"[184, 416, 3566]",indoors,3dQ5,xdNjzf15GG8
+1905,"[18, 43, 59, 60, 101, 286, 1032]",outdoors,88Q5,3j2F8x6D6AE
+1906,"[514, 2566]",indoors,vUQ5,ywaRNE38Kvw
+1907,"[18, 43, 59, 60, 101, 286, 385, 873, 1415]",outdoors,6TQ5,GjbWI3rzX8k
+1908,"[0, 262, 542]",outdoors,J1Q5,RGnS_6rFUgg
+1909,"[11, 83, 208, 262, 820]",outdoors,1JQ5,LoTNmzcPjrU
+1910,"[2, 75, 83, 262, 506]",outdoors,PmQ5,j9tlH1dfCd4
+1911,"[83, 254, 262, 542]",outdoors,f9Q5,UCMeGADysDY
+1912,"[15, 262, 1098, 2728]",outdoors,7wQ5,Py8Jk0cxLJ4
+1913,"[2, 60, 76, 385]",outdoors,IkQ5,GvePdyNOrVQ
+1914,"[519, 666, 1002]",outdoors,tFQ5,y-_azPBMd9g
+1915,"[60, 428, 825]",outdoors,owQ5,bxWCiUo8atY
+1916,[307],indoors,ulQ5,kimK3vViuGk
+1917,"[83, 262, 542, 820]",outdoors,lZQ5,Fm2qAz0kfho
+1918,"[184, 416, 1947, 2776]",indoors,XHRc,uOLt5QUXvmA
+1919,"[2, 18, 43, 59, 60, 76, 101, 385]",outdoors,wPRc,Ak6hLcygqCE
+1920,"[88, 184, 191, 299, 985]",indoors,nJRc,R2ezQK4A_ks
+1921,"[158, 184]",indoors,uzRc,F_1ZXOdV3Hc
+1922,[60],outdoors,ADRc,iA4wyyucPOQ
+1923,"[88, 184, 307, 380, 400, 416]",indoors,IMRc,mdQhvSXTqc4
+1924,"[15, 18, 60, 67, 519, 571, 995]",outdoors,YLRc,x7Fmb-FPwl8
+1925,"[18, 43, 59, 60, 101]",outdoors,XLRc,dVKxSyUWs-Y
+1926,"[15, 18, 43, 59, 60, 101, 286]",outdoors,ZsRc,lhPGbchf4zk
+1927,"[60, 427, 519]",outdoors,CFRc,OrAbKNAwiF4
+1928,"[49, 184, 260, 1534]",indoors,QWRc,xU8CkqJKSJo
+1929,"[43, 60, 353, 673, 1975]",outdoors,1ERc,bwNOiK6enic
+1930,"[60, 519]",outdoors,5IRc,7G5ajdJ6_UE
+1931,"[43, 60, 353, 374, 673, 1615]",outdoors,bXRc,kiyf6NQOgkw
+1932,"[184, 191, 985, 1803]",indoors,7oRc,l3Ga6EINzQ4
+1933,"[313, 347, 780, 2105]",outdoors,RjRQ,We0gqq5h3kw
+1934,[248],outdoors,xXRQ,bO8JS1dZyUw
+1935,"[15, 18, 60, 87, 365]",outdoors,0uRQ,IRI9UfggXxM
+1936,"[18, 43, 59, 60, 101, 286, 374]",outdoors,CJRQ,5FBt1uuMwr0
+1937,"[15, 18, 60, 87]",outdoors,O6RQ,nA5WpJVcqpg
+1938,"[43, 60, 101]",outdoors,adRQ,iKfDdWpO-Mg
+1939,"[88, 364, 416, 497]",indoors,ZvRQ,t1WpuhiNUK8
+1940,"[2, 7, 83, 262]",outdoors,7lRQ,rlaEnCFyfzw
+1941,"[2, 7, 60, 95, 116, 135, 297, 1397]",outdoors,59RQ,bJPjeWWZnvw
+1942,"[11, 20, 22, 29, 307, 370]",indoors,ZpRQ,L5jmnj3xePI
+1943,"[205, 598, 1245]",indoors,HtRQ,g2rxgKutLmw
+1944,"[262, 1784]",outdoors,JFRQ,TQhqoMW7aMI
+1945,"[43, 60, 101, 286]",outdoors,yERQ,6-SzZzQ3pyM
+1946,"[11, 20, 22, 307]",indoors,xIRQ,q6MNGwx1qQ8
+1947,"[15, 18, 43, 59, 60, 101, 286, 549, 906]",outdoors,unRQ,sQutH00U2XM
+1948,"[88, 184, 307, 380, 416, 514, 2885]",indoors,L0R4,LNb7d_8UlyM
+1949,"[2, 17, 30, 55, 60, 340]",outdoors,HHR4,QsSlJALWHVA
+1950,"[18, 43, 59, 60, 101, 286]",outdoors,XIR4,oH6Kbu_6RjE
+1951,"[262, 1057]",outdoors,Q5R4,i-RW8r1ates
+1952,"[88, 184, 364]",indoors,E0R4,wuE7rrQAMCM
+1953,[60],outdoors,tKR4,JhbhXbnY46I
+1954,"[184, 191, 985]",indoors,CUR4,EWJ42IEcz4A
+1955,"[60, 353, 673]",outdoors,ITR4,AhBWpQL8t1s
+1956,"[2, 60, 76, 473, 547]",outdoors,iSR4,c3c9dw0WYtQ
+1957,"[60, 353, 519, 995]",outdoors,bpR4,DaWU3a1esug
+1958,"[15, 18, 43, 59, 60, 101, 1503]",outdoors,RFR4,dX5PbzvRGBc
+1959,"[18, 43, 59, 60, 101, 286]",outdoors,E8R4,qeUv_e0q9kU
+1960,"[15, 262, 502, 619, 747]",outdoors,eIR4,CHe0X348fm8
+1961,"[18, 43, 59, 60, 101, 286, 549, 571, 3040]",outdoors,cmR4,E4uwZQT3qlM
+1962,"[11, 20, 22, 29, 120, 122, 173, 307, 892]",indoors,ZVR4,k0XIlhqCUyg
+1963,"[43, 60, 101]",outdoors,8fR4,2Oa_B1pABBg
+1964,"[18, 43, 59, 60, 101, 1032]",outdoors,SZSC,qwwE_jQTD1Q
+1965,"[27, 88, 262, 313]",outdoors,CFSC,8GGiQzmnRCA
+1966,"[43, 60, 101, 286, 549, 873]",outdoors,ooSC,Lmn3LkGyi-U
+1967,"[43, 60, 95]",outdoors,5iSC,BUhkvjH8Yf8
+1968,"[15, 18, 43, 59, 60, 101, 239, 374]",outdoors,GdSC,9UJ1_A_HxlA
+1969,"[18, 43, 59, 60, 101, 374]",outdoors,rzSC,wO7bmH-zD64
+1970,[248],outdoors,7YSC,4o285iSgxs8
+1971,"[60, 166, 398, 482]",outdoors,WQSC,nhyYlX1pLa4
+1972,"[60, 333]",outdoors,wlSC,1cg5BbBEKOc
+1973,[60],outdoors,3TSC,F66WoqWG3eQ
+1974,"[2, 60, 76, 385, 419]",outdoors,jZSC,o1wku5e5am8
+1975,"[43, 60, 101]",outdoors,l0SC,WDa1Yz4c7NE
+1976,"[43, 60, 101]",outdoors,BpSC,30_OmkejRXs
+1977,"[60, 353]",outdoors,J2SC,XnyYDB9aRO8
+1978,"[60, 1396]",outdoors,wDSC,uuuPb0KrVFU
+1979,"[18, 43, 59, 60, 101, 286]",outdoors,K1S8,WY7s2q_vCC0
+1980,"[88, 184, 313, 380, 416, 614]",indoors,dJS8,6LLvxsOf2js
+1981,[514],indoors,7NS8,MGSj8cDsT4A
+1982,"[32, 88, 184, 191, 299]",indoors,R2S8,rYffmlAnoHk
+1983,[248],outdoors,oSS8,VajZ-Dd3_hE
+1984,"[43, 60, 101, 419]",outdoors,puS8,GHJUNAWU5ys
+1985,"[18, 43, 59, 60, 101, 571, 1685]",outdoors,U2S8,3fHvLNWHT1I
+1986,[248],outdoors,DGS8,wea7tq_PlB0
+1987,"[53, 58, 60, 163, 232]",outdoors,PGS8,BpLq9_zryXo
+1988,"[2, 75, 83, 262, 720, 751, 1205]",outdoors,mmS8,RuwHUC9VBfA
+1989,"[2, 43, 60, 76]",outdoors,AXS8,jL2E2r8gusU
+1990,"[2, 83, 262]",outdoors,TvS8,MZmcMz4zEUs
+1991,[60],outdoors,lZS8,OkJp1Al7l40
+1992,"[88, 184, 380, 416, 2536]",indoors,JpS8,xilfWHKiEhE
+1993,"[2, 7, 88, 184, 311, 514]",indoors,4hS8,cYckP4fWtgc
+1994,[60],outdoors,3MTb,eh6D7Xf-uBE
+1995,"[2, 43, 60, 76, 385]",outdoors,VvTb,WRTeBiPp4EY
+1996,[248],outdoors,X2Tb,QX50_vFDXBA
+1997,"[19, 53, 58, 60, 166, 228]",outdoors,QuTb,kB2ViTXytEg
+1998,"[43, 60, 101, 286, 385, 549]",outdoors,qdTb,yqU9uJ2BENc
+1999,"[11, 22, 307, 477, 876]",indoors,HZTb,_tZSS1OPum0
+2000,"[2, 60, 544]",outdoors,yWTb,HH_T49MKQWM
+2001,"[60, 353, 673]",outdoors,RWTb,u2Qa9RB2J3I
+2002,"[15, 18, 43, 59, 60, 101, 286, 571, 1415, 3040]",outdoors,EkTb,h_IuGBvQJl4
+2003,"[88, 184, 380, 614]",indoors,MrTb,1GyXvi-8LNk
+2004,"[353, 666, 673]",outdoors,m1Tb,llj7XPXC8g4
+2005,"[2, 18, 43, 59, 60, 76, 101]",outdoors,O8Tb,Wkar23i7UB8
+2006,"[2, 7, 83, 262, 541]",outdoors,UnTb,sa8-VoomJtU
+2007,"[11, 83, 262, 601, 1613]",outdoors,DvTb,mg6W-VV7C2E
+2008,"[64, 149, 248]",outdoors,KtTb,nuYPZXTWfpw
+2009,"[2, 17, 60, 340]",outdoors,u4T9,QrV_SzxLz2A
+2010,"[2, 44, 46, 113, 664, 666, 908, 965]",outdoors,GQT9,51uCkJ4P8Kw
+2011,"[15, 18, 60, 87, 333, 365, 545]",outdoors,XiT9,IM3Lr2Xk-M8
+2012,"[184, 380, 388, 416, 3001]",indoors,68T9,XRDY-hmStg4
+2013,[60],outdoors,vDT9,72IMFg227mg
+2014,"[15, 18, 60, 87, 365, 536, 619]",outdoors,m6T9,x5KHk3XoasE
+2015,"[15, 18, 43, 59, 60]",outdoors,2uT9,qEbVTlziGww
+2016,"[43, 60, 101, 286, 1032]",outdoors,glT9,NhY2HQ3-HFw
+2017,"[2, 43, 60, 76]",outdoors,7uT9,lS7pBQCBUzI
+2018,"[15, 18, 60, 87, 365]",outdoors,xwT9,MhRVdjIW-h8
+2019,"[60, 289, 353, 3553]",outdoors,H8T9,RDAKf1EES7k
+2020,"[43, 60, 101, 286, 906]",outdoors,XIT9,VKUYream2ds
+2021,"[39, 248]",outdoors,KZT9,gC_OJbavuaE
+2022,"[262, 542]",outdoors,hkT9,40ko6zfgJ9Y
+2023,"[18, 43, 59, 60, 101, 286]",outdoors,tfT9,y1wHlg8VJls
+2024,"[307, 347]",indoors,6XT9,mktRqyR9Mjo
+2025,"[0, 262, 542]",outdoors,CDUa,rO0M2DxU-OM
+2026,"[15, 262, 502, 713, 3018]",outdoors,M8Ua,NxReCnxHy54
+2027,"[0, 432, 1056, 1245]",indoors,qNUa,8S5MtNmI748
+2028,"[11, 22, 307]",indoors,DrUa,Re7aunE0vLA
+2029,"[184, 191, 299, 380, 614, 985]",indoors,qwUa,NBFcmwPE_zs
+2030,"[251, 260, 514]",indoors,qgUa,IhYmfzMOqUo
+2031,"[15, 363, 1194, 1238, 2625]",outdoors,FPUa,0vTGkHJ4rbQ
+2032,"[18, 43, 59, 60, 239, 286]",outdoors,ceUa,b7M7AjDScy8
+2033,[248],outdoors,bwUa,cTp9JrqiEH4
+2034,[60],outdoors,hVUa,5XtRnzyuDI0
+2035,"[15, 18, 60, 87, 333]",outdoors,J2Ua,nylg7zew09A
+2036,"[60, 1868]",outdoors,eiUC,ETXtx0hKv0g
+2037,[248],outdoors,1fUC,LLZUQKKQcmo
+2038,"[15, 18, 43, 59, 60, 101, 286, 374]",outdoors,hyUC,BrU8333Gb5M
+2039,"[88, 184, 307, 364, 380]",indoors,CzUC,Qv-a8sAAKKA
+2040,"[53, 58, 60, 160, 163, 273]",outdoors,uaUC,hLtlmXfr4TY
+2041,"[2, 15, 18, 43, 59, 60, 76, 604]",outdoors,YhUC,lyEQwZoNcqQ
+2042,[60],outdoors,JzUC,JbNU_HRmqhA
+2043,[666],outdoors,mpUC,9b-s7ZwGI0s
+2044,"[20, 260, 1245]",indoors,uCUC,rvq452OQPm4
+2045,"[18, 43, 59, 60, 101, 286]",outdoors,xtUC,z0Q5WU3vEf8
+2046,"[511, 514, 1148, 2405, 2473]",indoors,ryUC,ZVjibP5FC4Q
+2047,"[88, 184, 364]",indoors,jiUC,zm_S7ZKTJyI
+2048,"[2, 43, 60, 76, 284]",outdoors,PEUC,PbmuDOwCy0I
+2049,[248],outdoors,TyUC,85xRvb_zgeo
+2050,[60],outdoors,0PUC,c4xNjeCdh6M
+2051,"[60, 427, 519]",outdoors,duUC,JRBQZogFi88
+2052,"[11, 22, 29, 307, 406, 1815]",indoors,knUC,V72LZW2CMfs
+2053,"[2, 60, 76, 385, 419, 1055]",outdoors,n4US,89JbQAA9MaE
+2054,"[254, 262, 542]",outdoors,BWUS,WXL4Av0YLM0
+2055,"[60, 1393]",outdoors,rIUS,5kojSwg4_OA
+2056,"[514, 2277, 2289]",indoors,gzUS,MNiWEaDDOy0
+2057,"[88, 184, 364]",indoors,huUS,-TmHyyuvYWo
+2058,"[2, 17, 83, 262, 778]",outdoors,fZUS,NMHf1dBMuKI
+2059,"[60, 239, 1452]",outdoors,srUS,iKvzzhk29fU
+2060,"[60, 333, 398, 1837]",outdoors,1UUS,SZgSGlJypnM
+2061,"[60, 353, 673, 1615]",outdoors,NFUS,jS0mnKuJSZY
+2062,"[60, 353]",outdoors,bqUS,wbFGfOrcu5Y
+2063,"[60, 68, 72, 98]",outdoors,JkUS,lBXYIH7a60E
+2064,"[18, 43, 59, 60, 101]",outdoors,KQUS,MiEO2uw4Gro
+2065,"[43, 60, 101, 823]",outdoors,ywUS,K6fKJZfjr1g
+2066,[248],outdoors,ZpUS,ux4WvcggOnM
+2067,"[11, 20, 22, 307, 341]",indoors,vjUS,RSwrB7fb1Qk
+2068,"[83, 262, 542, 820, 2091]",outdoors,WzUS,7NTMWhk3QPc
+2069,"[184, 191, 985]",indoors,KAUS,5TM7LmmUXrA
+2070,"[60, 238, 274, 366]",outdoors,wZUS,IocGRI1Brtw
+2071,"[88, 184, 380, 614]",indoors,XHUY,oj2Kz4PSd-E
+2072,"[11, 83, 262, 601, 1613]",outdoors,VRUY,AQz0R6vC7AI
+2073,"[60, 1264]",outdoors,HNUY,E_O5OdvZxsA
+2074,"[53, 58, 60, 160, 163, 273, 888]",outdoors,IiUY,EbKQbApHbCM
+2075,"[2, 60, 76, 385, 419, 1055, 2696, 3256]",outdoors,6iUY,n2kzTwxT3Ok
+2076,"[15, 18, 43, 59, 60, 101, 1032]",outdoors,bzUY,NO6Oz8sYTNY
+2077,[60],outdoors,GvUY,9IsOAeZFdJ4
+2078,"[184, 191, 474, 985, 1638, 3243]",indoors,JLUY,pOA3XJBO7qU
+2079,"[400, 416, 1152, 3566]",indoors,7tUY,-eBL4S60r5A
+2080,"[60, 166, 353, 398, 482]",outdoors,X4UY,tE2ugWRBSWo
+2081,[307],indoors,VTUY,PLkZ3EV1SIs
+2082,"[182, 248, 392]",outdoors,dIUY,x9zV0NGIv5M
+2083,"[18, 43, 59, 60, 101, 374, 873, 1496]",outdoors,uwUY,2xSO1EQaJeA
+2084,[248],outdoors,5iUY,KP74wssEjdQ
+2085,"[71, 248]",outdoors,J0UY,7vRqXrQYOnw
+2086,"[8, 248]",outdoors,vAU8,ma6hVj4ET1U
+2087,"[53, 58, 60, 163, 232]",outdoors,rOU8,_B0t5hPjfF0
+2088,"[32, 191, 248, 299, 1159]",outdoors,xCU8,4xPuCYX2W8c
+2089,"[43, 60, 642, 1824]",outdoors,39U8,hKeSCl2CME0
+2090,"[60, 141, 247, 255]",outdoors,e7U8,Eq3C90Pdeqg
+2091,"[88, 184, 299]",indoors,1PU8,RgGBtAFrk_g
+2092,"[0, 1, 198, 262, 542, 2140]",outdoors,4xU8,y8AtBZh-dBI
+2093,[60],outdoors,Q6U8,gJ1_nfo0oio
+2094,"[8, 248]",outdoors,irU8,3HIxcdColO8
+2095,"[2, 18, 43, 59, 60, 76, 101, 286, 374, 2227]",outdoors,cYU8,UMcmCfD_ubU
+2096,"[11, 20, 22, 29, 32, 122, 221, 307, 321, 334, 564, 1096, 2031]",indoors,XDU8,LVABGg3OYtU
+2097,"[2, 7, 83, 262, 2126]",outdoors,guU8,xx5A6PgXTjo
+2098,"[2, 43, 60, 76, 101, 385, 668]",outdoors,gUU8,aSVkXV6u_jE
+2099,"[15, 60, 239, 363, 686, 1714]",outdoors,7gU8,C9IUberEKtk
+2100,"[380, 400, 1346]",indoors,VEU8,Fmu1FeBFrYw
+2101,"[18, 43, 59, 60, 101, 906]",outdoors,qeVe,DgXymxWAwA4
+2102,"[53, 58, 60, 163, 232]",outdoors,PWVe,-k7T9QXD67o
+2103,"[313, 2105]",outdoors,l5Ve,SbMCpZLoQ9g
+2104,"[60, 869]",outdoors,2kVe,YkCcmgp6J3Q
+2105,"[2, 15, 18, 43, 59, 60, 76, 101, 549]",outdoors,hXVe,BMkh-f-njHI
+2106,"[88, 184, 380, 416]",indoors,kgVe,jPEHyo8kevI
+2107,"[15, 262, 502, 619]",outdoors,9HVe,bQi4P77dD7c
+2108,"[8, 60]",outdoors,WZVe,6bkENgU5t80
+2109,"[0, 1, 83, 262, 542]",outdoors,sKVe,XO8_-BADLg4
+2110,"[88, 184]",indoors,FiVe,d8CaEMVXwKA
+2111,[248],outdoors,XNVe,McdFTbKw6Zs
+2112,"[88, 184, 380, 416, 514, 614]",indoors,ZlVe,DHVYULNDnzE
+2113,"[60, 353, 673]",outdoors,NjVe,tW72GR8r_Yw
+2114,"[388, 514, 1148, 2177, 2473]",indoors,3CVe,bNf8_GHBSYk
+2115,"[2, 18, 43, 59, 60, 76, 101]",outdoors,sMVK,-QqMMnV8gmk
+2116,"[15, 262, 502, 619, 3018]",outdoors,V2VK,eGzkGDW99JA
+2117,"[307, 1299, 2113, 2566]",indoors,PVVK,IPD6WqyA51Q
+2118,"[184, 380, 400, 614, 641, 1608]",indoors,vSVK,2aKVfK2HtDo
+2119,"[60, 353, 673]",outdoors,qIVK,m1duoYvXRno
+2120,"[60, 166, 482]",outdoors,5TVK,YjjyKC3yqFo
+2121,"[60, 72, 98]",outdoors,VpVK,TcZsxRkuclU
+2122,"[11, 83, 262, 2126]",outdoors,tnVK,Qq_b1V_vA38
+2123,"[43, 60, 385]",outdoors,TtVK,VI6oXKO9Mcc
+2124,"[11, 20, 22, 307, 886]",indoors,2oVK,PgKAp0JIH6g
+2125,"[88, 184, 380]",indoors,h5VK,nfxsls2OPOQ
+2126,"[60, 141, 247]",outdoors,AFVK,1dGgr5sEzwQ
+2127,"[60, 353, 519, 666, 995]",outdoors,wQVK,F61aTJcd7bs
+2128,"[15, 60, 239, 363, 686]",outdoors,T6VK,TV4krqEI67M
+2129,[184],indoors,sPVK,CMbDCIChvP8
+2130,"[191, 416]",indoors,KSVK,gs4_D_0nmFA
+2131,"[205, 1245]",indoors,0dVK,Y9dphW39vQA
+2132,"[0, 262, 542]",outdoors,73VK,kspSOhdGB-s
+2133,[248],outdoors,C7VK,LXOVyoafa08
+2134,"[11, 123, 184, 416, 1152, 1163]",indoors,FFVK,eyJk5BaWeu8
+2135,"[17, 19, 128, 129, 1226]",outdoors,G5VK,5VTyieh0kGc
+2136,"[500, 1238, 3353]",outdoors,8wV5,-10VrRDOhPM
+2137,"[2, 43, 60, 76, 101, 286, 374, 1415]",outdoors,YoV5,MUkmVRQrwYY
+2138,"[140, 248]",outdoors,VqV5,MUm6brG1vfs
+2139,[184],indoors,DlV5,ZUmyYKHSt_U
+2140,"[60, 68, 72, 98, 452, 480]",outdoors,uIV5,qHUpdUB7giY
+2141,[248],outdoors,BkV5,njoTmIuK88g
+2142,"[184, 388]",indoors,VrV5,6m3OmJ0nG18
+2143,"[15, 18, 60, 87, 244, 333, 365, 536, 619]",outdoors,aXV5,rqF8b9b-7Uk
+2144,[1245],indoors,TRV5,Myh0n233_kc
+2145,"[60, 284]",outdoors,zsV5,UjBMlCsSVOA
+2146,"[18, 43, 59, 60, 101, 286, 549, 873, 906]",outdoors,wZV5,akjmTxM2hMI
+2147,"[11, 18, 20, 22, 29, 43, 59, 60, 101, 122]",outdoors,mvV5,exGsRQ5vEpY
+2148,[514],indoors,U8V5,9hutqOSdXXo
+2149,"[15, 60, 239, 363, 709, 1452, 2785]",outdoors,d0V5,cRWCukMLZ_w
+2150,"[43, 60, 101]",outdoors,a1V5,dn2ewRekYr0
+2151,"[18, 43, 59, 60, 101]",outdoors,mrV7,rP_HVOYq-LU
+2152,"[88, 184, 307, 380, 416, 614]",indoors,EZV7,aiP1HU3Mqz4
+2153,"[2, 18, 43, 59, 60, 76, 101, 1496]",outdoors,HYV7,nB-Nn2_znmk
+2154,"[248, 299, 985]",outdoors,EhV7,1w-I7nGlRIY
+2155,"[514, 580, 750, 1443]",indoors,IvV7,Q7ZBH1OtI98
+2156,"[15, 60, 96, 239, 789, 1626, 1795]",outdoors,g1V7,f5P7hmGa43U
+2157,[60],outdoors,NoV7,bVMoNHvmkuw
+2158,"[184, 191, 514, 1148]",indoors,h9V7,Cp2y7jWJd1o
+2159,"[2, 43, 60, 76, 101, 286]",outdoors,NHV7,J4U393o1eew
+2160,"[18, 43, 59, 60, 101, 286, 693]",outdoors,oKV7,e2Hcygbws1c
+2161,"[11, 83, 262, 601, 720, 751, 1081]",outdoors,ONV7,mzoBI3soxPM
+2162,"[60, 210]",outdoors,oNV7,dWBEfHi9wtI
+2163,[248],outdoors,HWV7,69_80bvKaQ4
+2164,"[18, 43, 59, 60]",outdoors,bVV7,5QD6KcW0GkQ
+2165,"[60, 1393]",outdoors,TsV8,_A22ObS692s
+2166,"[60, 68, 72, 98, 240, 480]",outdoors,2YV8,MNy551hpz7Y
+2167,"[60, 210, 685]",outdoors,O4V8,BgVrQM_P_W8
+2168,"[83, 262, 542]",outdoors,eyV8,QjuZQIw4s9Y
+2169,"[182, 248]",outdoors,NoV8,VDhPvizY_ak
+2170,"[0, 262, 542]",outdoors,W8V8,HJsOIgAShZw
+2171,"[43, 60, 101, 571]",outdoors,BeV8,jDOb5Y1co_U
+2172,[248],outdoors,vxV8,UAadDHTocPY
+2173,"[514, 1025, 1443]",indoors,bCV8,Mjg5g2Pfn6I
+2174,"[88, 184, 364, 416, 514]",indoors,HJV8,BZiEFdFmdzg
+2175,"[0, 60, 806]",outdoors,4qV8,1Ibuuyv7sJA
+2176,"[60, 68, 72, 98]",outdoors,ESV8,LUyX9HBBk_k
+2177,"[353, 519, 666, 995]",outdoors,WRV8,PAlcRVh-aXI
+2178,"[2, 60, 76, 532, 1569, 2499]",outdoors,XXV8,T8JnLlZU0ok
+2179,"[400, 3501]",indoors,TmWl,-Vx1kmDMJvo
+2180,"[60, 353, 673]",outdoors,xoWl,FGrOlYX1UTc
+2181,"[83, 262, 284]",outdoors,DOWl,bVyM09S-Daw
+2182,[248],outdoors,iFWl,Q_ydc6_CS5M
+2183,"[18, 43, 59, 60, 101, 286]",outdoors,U1Wl,lg44XtGxM-s
+2184,"[11, 83, 262, 601]",outdoors,MAWl,RrU9GeJ7T1Y
+2185,"[88, 184, 307, 380, 416, 899]",indoors,urWl,4jW_ieNqEds
+2186,"[191, 248, 299]",outdoors,HnWl,rNoh0ueJAGo
+2187,[60],outdoors,DVWl,bziqEAoFKTQ
+2188,"[18, 43, 59, 60, 101, 286]",outdoors,pAWl,W6AGl6p96BU
+2189,"[88, 184, 307, 364, 380, 416, 497, 899, 1299, 1815]",indoors,QuWD,pi5312j5dO8
+2190,"[60, 333, 536]",outdoors,0yWD,ra6LABe_Nik
+2191,"[26, 83, 262]",outdoors,2CWD,rcg7GMVlxuc
+2192,"[53, 58, 60, 228]",outdoors,8ZWD,QB1LQc1iQFU
+2193,"[15, 60, 96, 239, 789, 1626, 1795]",outdoors,VzWD,n6FNjfDkLDQ
+2194,"[88, 184, 307, 380, 416, 514, 614]",indoors,hBWD,NjenO_9FtZs
+2195,"[60, 353, 519, 666, 995]",outdoors,bNWD,VyUNmEIcng4
+2196,"[0, 262, 542]",outdoors,6VWD,the2KnmzLK8
+2197,"[191, 248, 299]",outdoors,TOWD,Pxjd1vJSUxw
+2198,[307],indoors,y3WD,ZLc1hDksCZk
+2199,[60],outdoors,15WK,qvoXJOHJrTg
+2200,"[15, 18, 43, 59, 60, 101]",outdoors,J8WK,kJLS42zkaMQ
+2201,"[88, 184, 307, 514]",indoors,xqWK,MBAIPpcaBoU
+2202,"[2, 18, 43, 59, 60, 76]",outdoors,KdWK,WOQFgmPHYnA
+2203,"[18, 43, 59, 60, 101, 374, 2735]",outdoors,GqWK,hWIuzC7fuLo
+2204,[1226],outdoors,95WK,AfrjiTYOfII
+2205,"[18, 43, 59, 60, 374]",outdoors,0gWK,AiZLd_EF3v4
+2206,"[60, 353, 398, 673]",outdoors,BAWK,Jpo3QiXtcLU
+2207,"[2, 18, 43, 59, 60, 76, 101, 286, 873]",outdoors,qjWK,LQJuEj7RbVs
+2208,"[15, 262, 502]",outdoors,FUWK,bGUBpbETvwU
+2209,"[82, 103, 118, 184]",indoors,yXWK,VhM1Sub5_u8
+2210,"[43, 248, 2626]",outdoors,0uWK,BZbJ71efM9g
+2211,"[15, 18, 43, 59, 60, 101, 286, 1415]",outdoors,uKWK,8wy6TOdLqW0
+2212,"[60, 519, 669]",outdoors,faWK,GiUEZ0IafiQ
+2213,"[60, 333, 365, 536]",outdoors,lEWK,60bajiWuVxk
+2214,"[43, 60]",outdoors,uqWK,5SZxmduFHfE
+2215,"[53, 58, 60, 163, 232]",outdoors,W9Xy,-4t2q-9t-i0
+2216,"[18, 43, 59, 60, 101, 286]",outdoors,adXy,Wdy3l9LbZoI
+2217,"[60, 402, 428, 1389, 1638]",outdoors,vhXy,7VZRBoyEcIk
+2218,"[11, 20, 22, 29, 32, 221, 307]",indoors,czXy,f2IoTgSUKRs
+2219,"[191, 248]",outdoors,ipXy,96jRM8odyNc
+2220,"[60, 519]",outdoors,XGXy,3DshJIf_Gw4
+2221,"[60, 398, 482, 1290]",outdoors,qkXy,UIuzAuKdKew
+2222,"[184, 191, 1803]",indoors,qhXy,OVcwdqtxDMU
+2223,"[184, 416]",indoors,tSXy,2CZ6o0-VFRE
+2224,[184],indoors,NFXy,BZ_ZYt0_hiI
+2225,"[15, 18, 43, 59, 60, 101, 374, 549, 906, 1451]",outdoors,KxXy,0NK4nf_qIRE
+2226,"[18, 43, 59, 60, 1032]",outdoors,gEX5,-1MmVQGm6l4
+2227,"[60, 353, 3553]",outdoors,1dX5,JB9AjPNYjvQ
+2228,"[307, 2277, 2405]",indoors,eSX5,xMbr7wqwgTY
+2229,"[88, 388, 497, 514, 899, 1025, 1148, 2883]",indoors,QKX5,Sf2eP6n0qho
+2230,"[0, 262, 591]",outdoors,cqX5,6XsI1cWIUbg
+2231,"[514, 1148, 2177]",indoors,BEX5,0JnWSHodC-Y
+2232,"[43, 60, 101, 286]",outdoors,cMX5,a_CLHv8dR8c
+2233,"[0, 254, 1226, 1886]",outdoors,g5X5,pVDQx-GMxdE
+2234,"[18, 43, 59, 60, 101, 286]",outdoors,3pX5,hSUBRokA0Q4
+2235,"[88, 184, 307, 380, 400, 416, 614]",indoors,SJX5,pxFoOYhb9qQ
+2236,"[88, 184, 307, 380, 416, 514, 614]",indoors,NfX5,Ihzi8nG8Rho
+2237,[248],outdoors,qJX5,JmB-w5tQUb8
+2238,[514],indoors,36X5,tw6rm1PRSqs
+2239,"[18, 43, 59, 60, 101, 286]",outdoors,D0X5,snCCUWTSeNA
+2240,"[514, 1148, 2177, 2277]",indoors,mVX5,dEyovSKSYoE
+2241,[248],outdoors,MdX5,Md6ZyhEuQ3E
+2242,"[88, 184, 380, 416, 514]",indoors,WdX5,PVc8Fo2NLzQ
+2243,"[60, 239, 686]",outdoors,KmX5,G_D_tzhqdAc
+2244,"[191, 248]",outdoors,RkX5,TLp_oeIdVK4
+2245,"[60, 353, 666, 673]",outdoors,vEX5,aRaG0uNW_Ec
+2246,"[184, 277, 380]",indoors,mCX5,c-7-I7ETf4M
+2247,"[88, 184, 307, 364, 380, 416, 614, 1013]",indoors,tvX9,yzUKEz6tJ4k
+2248,"[60, 353, 673]",outdoors,8AX9,adTiUmHxhU0
+2249,"[60, 519, 1002]",outdoors,UvX9,gutliNv_baM
+2250,"[99, 666, 716]",outdoors,CXX9,haYXOgROU_k
+2251,"[2, 15, 18, 43, 59, 60, 76, 101, 2227]",outdoors,b8X9,ld6bOLBlB_E
+2252,"[313, 1013, 2105]",outdoors,EbX9,LC0WoOWN2q8
+2253,[184],indoors,tpX9,TIY1VuWbCLg
+2254,"[184, 227, 474, 514, 1807]",indoors,O2X9,Durp7HoFwzc
+2255,[60],outdoors,1KX9,r25ew8qFj50
+2256,"[11, 123, 176, 248, 728, 814, 1411]",outdoors,NWYU,nT3BXRme0Cg
+2257,"[0, 1, 27, 262]",outdoors,HCYU,lOa2tuvELuw
+2258,"[60, 428]",outdoors,47YU,51CN2wtQ7gg
+2259,"[0, 262, 542]",outdoors,WkYU,JHWUmDfgYR0
+2260,"[18, 43, 59, 60, 101, 286]",outdoors,6iYU,yHwT8hy69Jk
+2261,"[60, 419, 1271, 1393]",outdoors,tLYU,VCLo6v8HTtk
+2262,"[18, 43, 59, 60, 101, 286]",outdoors,DvYU,3fZPsYMAMDo
+2263,"[2, 83, 262]",outdoors,L5YU,w5XxPdgtV18
+2264,"[43, 60, 101, 823, 1824]",outdoors,jLYU,13n3ucNCiJc
+2265,[248],outdoors,TJYU,5D2xrbyVhUQ
+2266,"[60, 482]",outdoors,0dYU,L90S4cg4uk4
+2267,"[18, 43, 59, 60, 101, 286, 374, 549, 693, 873, 906, 1503]",outdoors,tVYU,WlcES_X9w-g
+2268,[60],outdoors,zuYU,IWbipf29c4Y
+2269,"[15, 18, 60, 87, 333]",outdoors,OOYU,xTMLB85IRcU
+2270,"[18, 43, 59, 60, 101, 286]",outdoors,zWYU,wVmUwfmNH6I
+2271,"[60, 239, 686, 2389, 2625]",outdoors,TcYU,kc6vw-lHhe4
+2272,"[184, 420, 616, 3365]",indoors,Q2YU,2XwKh5jB8wc
+2273,"[11, 22, 60, 428, 2474]",outdoors,5wY0,bk7SGCsL7Tk
+2274,"[60, 210, 427, 685, 3650]",outdoors,BZY0,h2rbu7poB5k
+2275,"[83, 262, 542]",outdoors,ILY0,QzjWuP-GJT0
+2276,"[18, 43, 59, 60, 101, 286, 1415]",outdoors,3vY0,s9bxjqQK_Tk
+2277,"[191, 248]",outdoors,kVY0,zjhwjy7I32g
+2278,"[60, 419, 1393]",outdoors,JCY0,0tIDbw4-ou8
+2279,"[19, 53, 58, 60, 163, 232]",outdoors,2PY0,tk_RawYncMQ
+2280,"[15, 262, 502]",outdoors,cSY0,2pDCDdx4XuU
+2281,"[60, 353]",outdoors,3qY0,bAVh4bAV_L8
+2282,"[60, 68, 72, 98]",outdoors,msY0,OJJgHTvd3ZM
+2283,"[60, 239, 304]",outdoors,H4Y0,428k6uw-IXk
+2284,"[60, 353, 673]",outdoors,ghY0,7Pj_5L7Kw4k
+2285,"[60, 284, 519]",outdoors,ZDY0,r8djkCu3WxY
+2286,"[184, 191, 474, 985]",indoors,iPY0,vqtuTp-uE0I
+2287,"[60, 333, 365, 545]",outdoors,j5Y6,epVdOlAKk4w
+2288,"[18, 43, 59, 60, 101, 571, 1032]",outdoors,wNY6,hxGyH6W-wBw
+2289,[60],outdoors,BgY6,9WOCXRxZUWo
+2290,"[60, 68, 72, 98, 240, 452, 480]",outdoors,wzY6,shYj8ZgKf-M
+2291,"[88, 184, 191, 299, 380, 614]",indoors,AcY6,SwqzoB5cWF8
+2292,"[43, 60, 571]",outdoors,HwY6,w5eIFH71TBI
+2293,"[11, 20, 22, 307, 2076]",indoors,3JY6,3EYLhrLVTF8
+2294,"[18, 43, 59, 60, 101]",outdoors,9PY6,F3vIawo5QHo
+2295,"[60, 491]",outdoors,tmY6,U8mywpwbbu8
+2296,"[871, 1226]",outdoors,R4Y6,BI5PSfISR4s
+2297,[184],indoors,TfY6,MjWoly1y_js
+2298,"[0, 307]",indoors,9WY6,MlfioMlRz_I
+2299,"[60, 160]",outdoors,wAY6,aqqDlf43L_U
+2300,"[15, 18, 43, 59, 60, 101]",outdoors,jlY6,Tne5KntKF2w
+2301,"[88, 184, 364, 416]",indoors,SfY6,Wg42R8yOt4I
+2302,"[60, 360]",outdoors,Y3Y6,fJGEkupUGcg
+2303,"[60, 482]",outdoors,ADZI,mZZPFMkAv4s
+2304,[60],outdoors,mMZI,WXKU5bkX6DQ
+2305,"[2, 18, 43, 59, 60, 76, 101, 286, 693, 873, 1503]",outdoors,AfZI,umHXo80ZxzU
+2306,"[184, 474, 985]",indoors,o0ZI,Tyb4L-BQa4U
+2307,"[15, 18, 43, 59, 60, 101, 286]",outdoors,JVZI,Zjj-HNc-hiE
+2308,"[11, 262]",outdoors,KRZI,iSqinChTT70
+2309,"[0, 1, 93, 102, 262]",outdoors,UdZI,th0uT3XLA7g
+2310,"[18, 43, 59, 60, 101, 286]",outdoors,KWZI,15bqFeohcNI
+2311,[248],outdoors,eEZI,o08S1fEYPXo
+2312,"[2, 18, 43, 59, 60, 76, 101, 385]",outdoors,RBZI,CKzMzHI_l1c
+2313,"[15, 262, 619, 1057, 1174, 2172]",outdoors,hqZI,N2MQ7e1GFrI
+2314,"[598, 1245]",indoors,sSZI,ovmANDtIrj0
+2315,"[88, 184, 313, 364]",indoors,1WZ6,t9GvjU9BTWs
+2316,"[248, 299]",outdoors,40Z6,yaHxtk2J_Mw
+2317,"[388, 514, 616, 1025, 1443]",indoors,2pZ6,FPmjFI9F24Y
+2318,"[60, 353, 519, 666, 1002]",outdoors,ZFZ6,9T_29sFqd8w
+2319,"[60, 1056]",outdoors,qKZ6,hCjf4BqQHhs
+2320,"[11, 83, 262]",outdoors,TKZ6,s6tcUM8XmUo
+2321,"[53, 58, 60, 163, 228, 232]",outdoors,WNZ6,BLmtJOFR8Mc
+2322,"[2, 30, 60]",outdoors,ljZ6,yxYwCMHPuvE
+2323,"[15, 262, 397]",outdoors,kQZ6,sfsk40yZhgY
+2324,"[18, 43, 59, 60, 101, 374, 2350]",outdoors,3uZ6,9OGvyP6Qnmw
+2325,"[11, 262]",outdoors,oMZ6,FBVmOqboZmg
+2326,"[88, 184, 299, 364]",indoors,67Z6,TZLLSXzhPew
+2327,"[0, 1, 83, 254, 262, 542]",outdoors,YzZ6,VcD3J9pYLC4
+2328,"[88, 184, 307, 380, 400, 416, 614]",indoors,WGZ6,g2cywqA2jpo
+2329,[248],outdoors,EFZ6,8pt_gEGCn7g
+2330,"[18, 43, 59, 60, 823, 2952]",outdoors,aGZ6,YbsHW2lNwgQ
+2331,"[88, 184, 307, 313, 364, 380, 416, 614]",indoors,MkZ6,vT8tG1nzzuo
+2332,"[43, 60, 101, 428, 823]",outdoors,hGZ8,kOjFX5elcv8
+2333,"[2, 30, 55, 60]",outdoors,kUZ8,esDLRsJqyCw
+2334,"[60, 68, 72, 98, 151]",outdoors,TZZ8,c6rtYucI78U
+2335,[248],outdoors,JCZ8,m2LMJcUbsZM
+2336,[60],outdoors,rnZ8,0YpbhYW5qRI
+2337,"[60, 353, 519, 673]",outdoors,TRZ8,8hfWLwh_z1k
+2338,"[15, 18, 60, 67, 210, 427]",outdoors,BBZ8,CX6IVfEre9A
+2339,"[60, 239]",outdoors,fhZ8,azHyNQh4zgY
+2340,"[19, 53, 58, 60, 214, 494]",outdoors,cVZ8,KgNjae6d_1o
+2341,"[43, 60, 101, 823]",outdoors,XuZ8,zEFTHGi8z5c
+2342,"[60, 116, 239]",outdoors,4QZ8,yAGpNvEMQc0
+2343,"[2, 18, 43, 59, 60, 76]",outdoors,XEZ8,IHxE5pHKusY
+2344,"[2, 60, 76, 182, 385]",outdoors,FaZ8,AjhidRb6a0U
+2345,"[2, 7, 60, 95, 135, 297, 353, 428, 673, 742]",outdoors,YPZ8,kRnjzHaQvE8
+2346,"[60, 160, 273, 888]",outdoors,1vZ8,Osu_s-7_OXM
+2347,"[191, 248]",outdoors,98Z8,pboiEgwEWAE
+2348,[60],outdoors,P3Z8,kmx3_--kZHY
+2349,"[2, 43, 60, 76]",outdoors,3HZ8,tZkO2gTTmbE
+2350,"[43, 60, 101, 991]",outdoors,QLZ8,LbDy23hhqN8
+2351,"[205, 598, 1245]",indoors,ZxZ8,dUA1AVf1SqI
+2352,"[18, 43, 59, 60, 101, 374]",outdoors,jEZ8,C6OwcffcrrU
+2353,"[43, 60, 101, 549]",outdoors,yEZ8,uz01D5AAOYg
+2354,"[2, 60, 76, 182, 1387, 1569]",outdoors,TpZ8,dosMoqZa80w
+2355,"[60, 239, 686, 1714, 1880]",outdoors,Fm0W,maI5OXvbteA
+2356,"[60, 519, 995]",outdoors,tS0W,YvdE712Q8q0
+2357,"[43, 60]",outdoors,Ri0W,eG37Juxtv78
+2358,"[18, 43, 59, 60, 101]",outdoors,yi0W,uQRbDBONWbE
+2359,"[18, 43, 59, 60, 101, 374, 549, 693, 906]",outdoors,3e0W,iyMn3VT_kOo
+2360,"[88, 184, 380]",indoors,AG0W,naKBSLQKXqk
+2361,[1245],indoors,5m0W,WzMJlhOQbFE
+2362,"[53, 58, 60]",outdoors,Jo0W,_eBeQKOVp6A
+2363,[248],outdoors,6B0W,MPwI18oPFyg
+2364,"[43, 60, 101, 286, 374, 549, 693, 906]",outdoors,GL0W,IkCaIvRDdpI
+2365,"[60, 160, 231, 252, 273]",outdoors,k50W,A6BPRM7zU28
+2366,"[2, 60]",outdoors,8Q0W,SQ2t6IM9hIo
+2367,"[313, 353, 354, 2105]",outdoors,Kf0W,w7RLDvfM9HQ
+2368,"[18, 43, 59, 60, 101, 419, 571, 2227]",outdoors,150W,1zEvWM7O5AE
+2369,"[251, 307, 1470, 1815]",indoors,yv0W,Vhau-qclPRw
+2370,"[60, 68, 72, 98, 240]",outdoors,Zz0W,dF_CNg2w9a8
+2371,"[60, 239, 3633]",outdoors,lH0W,TpJOcVmO13o
+2372,"[11, 20, 22, 29, 307]",indoors,W00W,8TwJuicxqV8
+2373,"[18, 43, 59, 60, 101, 2735]",outdoors,7w0W,hA482rQSDlE
+2374,"[18, 43, 59, 60]",outdoors,SE0W,uyeu-Lk6haY
+2375,"[60, 1396]",outdoors,Zk0W,V7O5tNcyyHU
+2376,"[60, 239]",outdoors,Wi0Z,tGjNLiLv5GU
+2377,"[88, 184, 307, 380, 416, 514]",indoors,2m0Z,qVI9c9XVpIg
+2378,"[15, 60, 239, 3633]",outdoors,TU0Z,wKTsVmMaq0w
+2379,"[60, 353, 519, 666, 673]",outdoors,cZ0Z,c5alwSeF7OQ
+2380,[307],indoors,UA0Z,MM7_ULKCyQM
+2381,"[15, 262, 502, 619, 1835]",outdoors,xF0Z,JlXfjBRAKgs
+2382,"[88, 184, 307, 364, 416, 514]",indoors,T60Z,N656RHqPp0c
+2383,"[60, 385]",outdoors,P80Z,momkDvmxN5U
+2384,"[60, 1056]",outdoors,wT0Z,n5iXrwvj3nQ
+2385,[248],outdoors,f70Z,Gp9S2ZTnOk8
+2386,"[60, 289, 2230]",outdoors,i40Z,_wNjig3EtIM
+2387,"[18, 43, 59, 60, 101, 286, 549, 906]",outdoors,7g0Z,tOlb5ZANHto
+2388,"[2, 17, 30, 55, 60, 1557]",outdoors,7v0Z,WwUb6PrUjz4
+2389,"[598, 857, 1245]",indoors,b30Z,bJmDe4vOfSs
+2390,[248],outdoors,a70Z,1GcLkgvY4ZA
+2391,[248],outdoors,Qb0Z,Kz20EJmORBc
+2392,"[88, 184, 307, 416, 497, 514, 616, 1299]",indoors,Y10Z,LCooXUQR5Bo
+2393,[60],outdoors,GL0Z,ktUq__GUO4Y
+2394,"[15, 60, 2401]",outdoors,lV0Z,NqrEVMyC5Tk
+2395,[248],outdoors,0S0Z,EfVfoNNmCTk
+2396,"[88, 184, 307, 380, 497, 614, 3807]",indoors,Ql0Z,cQXxNvn4THA
+2397,"[43, 60, 64, 549, 906, 1451]",outdoors,Lq0Z,cRwfp3Jh-ng
+2398,"[60, 141, 247, 255, 3215]",outdoors,190Z,dqaAQLYzYV8
+2399,"[388, 497, 514, 1443]",indoors,Pm1B,-Z_e_7HbBmY
+2400,"[43, 60, 482, 664, 908, 1563, 2197]",outdoors,5n1B,nA0tnShkXzk
+2401,"[60, 101, 286, 374, 549]",outdoors,RC1B,9Yv4tDZAtus
+2402,"[18, 43, 59, 60, 101, 286, 823, 873]",outdoors,QX1B,9_0j4BPZ1EA
+2403,"[53, 58, 60, 519]",outdoors,yu1B,pGBXvxrgrLQ
+2404,[262],outdoors,ii1B,EVzoIPZh_y4
+2405,"[43, 60, 284]",outdoors,gJ1B,u8QFk919Zx4
+2406,"[18, 43, 59, 60, 286]",outdoors,dn1B,bWH8YzYjv6g
+2407,"[60, 274, 366]",outdoors,qu1B,YYuqTmKHgKM
+2408,"[416, 1645, 2166]",indoors,W41B,6iF4kKQ6geQ
+2409,"[18, 43, 59, 60]",outdoors,4V1B,Lu20JZlNwrI
+2410,"[88, 184, 364]",indoors,DB1B,5ZYHaWJdLsQ
+2411,"[43, 60]",outdoors,0H1C,B6qL9AADLPc
+2412,"[60, 353, 519, 673]",outdoors,n01C,HTnVw3jJ49s
+2413,"[18, 43, 59, 60, 101]",outdoors,xm1C,yH6zxJalHgY
+2414,"[18, 43, 59, 60, 101, 284]",outdoors,8Z1C,I0MClfZJ-PI
+2415,"[88, 184, 191, 299, 380, 396, 416, 614, 985]",indoors,NI1C,rLEpMVVQFu8
+2416,"[18, 43, 59, 60, 101, 286]",outdoors,qu1C,Ygn8JXrOcGE
+2417,"[60, 101, 374]",outdoors,m31C,4aDJyLmOaPQ
+2418,"[18, 43, 59, 60]",outdoors,oP1C,bH8-y7Fspeg
+2419,"[18, 43, 59, 60, 101, 286, 374, 549, 2490]",outdoors,4u1C,GyTM4pDtHr0
+2420,"[18, 43, 59, 60, 101, 286]",outdoors,Jo1C,FtnfmHRVkFo
+2421,"[60, 68, 72, 98, 151]",outdoors,t21C,YMcgLrTLh08
+2422,[248],outdoors,hY2w,bnG7-kEbDNg
+2423,"[2, 60, 95, 135]",outdoors,Fc2w,rXkOXg6bYec
+2424,"[15, 18, 60, 87, 365]",outdoors,xq2w,__anuvkLKAQ
+2425,"[11, 176, 248, 912]",outdoors,fI2w,rnS-2injq1E
+2426,"[60, 353, 673]",outdoors,iH2w,NGo7EpDs66U
+2427,"[262, 2044]",outdoors,Ia2w,MVfWWaTdB9o
+2428,"[184, 390, 400]",indoors,MN2w,EC9Q1W08OYg
+2429,"[19, 53, 58, 60, 163, 232]",outdoors,3n2w,dWWT-AOXqyE
+2430,"[15, 18, 43, 59, 60, 101]",outdoors,sM2w,KznrGff9Ijg
+2431,"[15, 18, 60, 87, 365, 545]",outdoors,6g2w,2mx4VHwNTLI
+2432,"[53, 58, 60, 163, 166, 228, 232, 1423]",outdoors,Ok2C,lNrjDhfhdCQ
+2433,"[60, 353, 1238, 3598]",outdoors,PG2C,cCcUdlSezHc
+2434,"[18, 43, 59, 60, 101, 286]",outdoors,mU2C,oJBWrxjJW6s
+2435,"[74, 131, 205, 209, 598, 1245]",indoors,mQ2C,GDds8T5xQMc
+2436,"[43, 60, 1055]",outdoors,J22C,Y0y_jFbhKvg
+2437,"[60, 1061]",outdoors,g92C,i15sk69aD3c
+2438,"[126, 220, 262, 276]",outdoors,ij2C,qIkqlHLIC1Q
+2439,"[11, 307, 341, 1265, 2461]",indoors,cg2C,iLQEgoT7Vzo
+2440,"[88, 184, 380, 416, 514]",indoors,XK2C,Pfv0zVwFhGI
+2441,[60],outdoors,df2C,_xFYbMjZ9GE
+2442,"[25, 60, 533]",outdoors,vp2C,LqCFXJeW_mU
+2443,"[53, 58, 60, 163, 214, 232]",outdoors,Wj2C,1YvH-PpYMVE
+2444,"[15, 248, 555, 797, 2543]",outdoors,YL2C,UF350P_IwJk
+2445,"[60, 239, 798, 971]",outdoors,bh2C,vYC2wlmNNeA
+2446,"[5, 16, 184, 514, 556, 1148]",indoors,TY2C,Ybxkd3n23PQ
+2447,"[1014, 2211]",outdoors,NG2C,GZ4IKVXduV0
+2448,"[2, 7, 104, 500, 666, 1948]",outdoors,li2C,C9mwOPSw9_0
+2449,"[60, 210, 427]",outdoors,LG2C,7ZL6BuyrL2k
+2450,"[0, 60, 1056]",outdoors,QZ2C,a3Mnqa8dqHw
+2451,"[88, 184, 380, 416, 514, 614, 2001]",indoors,Zw2Z,jtwcT5a-DVk
+2452,"[11, 20, 22, 29, 32, 122, 173, 307, 559, 2505]",indoors,UE2Z,jtL5lktOUbg
+2453,"[60, 284]",outdoors,Z52Z,GJ5XhudZkfw
+2454,"[88, 364, 416]",indoors,Xn2Z,wjze8tgQH3w
+2455,"[11, 20, 22, 29, 32, 112, 120, 122, 211, 307, 444, 1588, 1753]",indoors,LQ2Z,wjqukyXxE0Y
+2456,"[88, 184, 380]",indoors,nf2Z,YsPYTy0Od20
+2457,"[184, 416]",indoors,5P2Z,_9MQ14sjxgw
+2458,"[49, 1020, 2211]",outdoors,eo2Z,c6Hjx4hbLRY
+2459,"[1013, 2105]",outdoors,2X2Z,hwXzNXi9yNE
+2460,[248],outdoors,VA2Z,8SwIHV4Wzks
+2461,"[0, 1, 83, 262, 542]",outdoors,dr2Z,NBh97S1IsVY
+2462,"[2, 30, 60, 428]",outdoors,aA2Z,4LQD6kp-IXU
+2463,"[15, 259, 262, 502, 619, 3018]",outdoors,4z2Z,92ZkyO9LTE4
+2464,"[2, 19, 53, 58, 60, 163, 214, 494, 1913]",outdoors,v62Z,92ULpptqM1E
+2465,"[0, 254, 262, 542]",outdoors,Mj2Z,Sz0jzbyb-xI
+2466,"[2, 60, 76, 2696]",outdoors,5D2Z,j9KtGyesEEo
+2467,"[60, 68, 72, 98, 240]",outdoors,fv2Z,mXPmtSg1NAM
+2468,[60],outdoors,t92Z,_PQk2pdLUb4
+2469,"[184, 2180]",indoors,lV2Z,fVkts3TA3lY
+2470,"[60, 519]",outdoors,NH2Z,K4ILmAXmM5k
+2471,[262],outdoors,F62Z,IwmnsXbje90
+2472,"[2, 43, 60, 76, 385, 1271]",outdoors,qt2Z,2RgzZU2rIoM
+2473,[60],outdoors,Gh2Z,T5PVva8lSfY
+2474,"[60, 210, 685]",outdoors,FW2Z,TFDdAqZV6yo
+2475,[1238],outdoors,yG2Z,uxeCfXhCr2E
+2476,[3501],indoors,Fs3f,p4TM2Tgi4IU
+2477,"[88, 184, 307, 380, 416, 514, 614, 2885]",indoors,Su3f,hC92m5YB64c
+2478,"[2, 43, 60, 76, 281]",outdoors,SD3f,CSrj6GFqCAQ
+2479,"[2, 18, 43, 59, 60, 76, 101, 374, 385, 1387, 1569]",outdoors,fV3f,s9zx40avbgE
+2480,"[60, 419, 669]",outdoors,c93f,CaS71jnJnOM
+2481,"[0, 60, 1056, 1865]",outdoors,fM3f,O1qcB9m4qps
+2482,"[60, 210, 685]",outdoors,iG3f,pSy1OY20-Ko
+2483,"[248, 1848]",outdoors,L23f,4QiwP8nH_zQ
+2484,"[15, 18, 43, 59, 60, 101, 286]",outdoors,1B3f,aupbs9QMguk
+2485,"[277, 514, 1025]",indoors,Hv3f,5rLwwXks5Gc
+2486,"[184, 191, 985]",indoors,Ay3f,xwSbSrl9rXg
+2487,"[14, 1245]",indoors,yR3f,xyJzXPyXbdI
+2488,"[60, 180]",outdoors,Qi3f,vPysHxkJX7k
+2489,"[2, 184, 364, 1013]",indoors,KD3f,rEQO_M0Eoy8
+2490,"[497, 514, 1443]",indoors,j33f,H6gSehZP3nI
+2491,"[60, 210, 685]",outdoors,kN36,jeFyW7lD6Zc
+2492,"[18, 43, 59, 60, 101, 286, 374, 823]",outdoors,rh36,nV0C5AjVpko
+2493,"[11, 20, 22, 29, 32, 122, 123, 211, 307, 370]",indoors,a836,yeHr0qshoto
+2494,"[18, 43, 59, 60, 101]",outdoors,zK36,xEPQ8E3GB9E
+2495,"[53, 58, 60, 163, 232]",outdoors,od36,nDQnRFu5fKc
+2496,"[2, 43, 60, 76]",outdoors,KY36,XxHsdBoW0Xs
+2497,"[88, 184, 380, 400, 416, 1152]",indoors,O836,_TBx8pVYexc
+2498,"[191, 248, 299]",outdoors,Wn36,MAP3WLxCKO0
+2499,"[88, 184, 307, 380, 514, 1025]",indoors,qD36,ZSnzz2yqrk0
+2500,"[18, 43, 59, 60, 101, 286, 374]",outdoors,4Y36,OPrdFrO3oaw
+2501,"[43, 60, 101, 286, 549]",outdoors,Xl36,JmE26J77CAA
+2502,"[60, 82, 103, 346, 350, 537, 3000]",outdoors,Xq36,nenawon7MrE
+2503,[60],outdoors,1Y36,5CRGCz_OoGs
+2504,"[18, 43, 59, 60, 101, 823]",outdoors,0P36,peXeupcFNtw
+2505,"[41, 60]",outdoors,fW36,D6GK87uxmSA
+2506,"[60, 239]",outdoors,Dn36,exK4WCusbiA
+2507,[60],outdoors,7E36,ey8LGuqQkiA
+2508,"[15, 18, 60, 87, 365, 536]",outdoors,qG36,a0rXlhUSxBw
+2509,"[49, 184]",indoors,Ex36,mgbb4uggB2w
+2510,"[88, 184, 307, 380, 416, 514, 614]",indoors,lw36,-sxiqs_CkhA
+2511,"[388, 497, 514, 616, 1025, 1440, 1443, 2998]",indoors,Z436,-zLXk-rPd7w
+2512,"[2, 60, 76]",outdoors,gC36,5Q3EkScJgqw
+2513,"[60, 160, 273]",outdoors,Rb37,WcszyhzrXpg
+2514,"[2, 83, 262, 751, 804]",outdoors,YJ37,-VT506KB13I
+2515,[1238],outdoors,hH37,0-s9V7jUUlk
+2516,"[88, 184, 307, 614]",indoors,Ev37,pKDVXK3eUTY
+2517,"[11, 83, 262, 601, 820]",outdoors,3R37,ErUufzjzReM
+2518,"[2, 43, 60, 76, 385, 1271]",outdoors,Ka37,nJ0rO8QjhR8
+2519,"[2, 17, 30, 53, 58, 60, 232]",outdoors,nF37,u8Bg-17i6hk
+2520,"[15, 18, 43, 59, 60, 101, 286, 374, 2490]",outdoors,X337,oo1w8PycZR0
+2521,"[0, 60]",outdoors,BA37,e0CU9XeGqOY
+2522,"[60, 239]",outdoors,Og37,MbrqKNVR0CY
+2523,"[15, 60, 239, 1452]",outdoors,wD37,Q1JSRxj5890
+2524,"[15, 96, 262, 397, 3430]",outdoors,uZ37,9g_g5fORuGU
+2525,[60],outdoors,Wu4f,qz0tUEZNOls
+2526,[248],outdoors,bV4f,SBLw0pZjQlA
+2527,"[18, 43, 59, 60, 101, 419]",outdoors,ym4f,eKk36BK3F0E
+2528,"[11, 83, 262]",outdoors,Yj4f,QTHkGkcWtNA
+2529,"[191, 248, 299]",outdoors,iY4f,wujGDifOzyI
+2530,"[18, 43, 59, 60, 101]",outdoors,wO4f,8iBoq9MjR-o
+2531,"[18, 43, 59, 60, 101, 286]",outdoors,nW4f,BO0olB3FBgI
+2532,[60],outdoors,jd4f,ZQrMp6yozNE
+2533,"[43, 60, 642]",outdoors,Dx4f,rGbDaTXke4s
+2534,"[43, 60, 419, 1824]",outdoors,9u4f,LRG-zOfYmxY
+2535,"[11, 20, 22, 307, 506, 930, 2797]",indoors,tw4f,Ww9h8iHRbuw
+2536,"[60, 482]",outdoors,0I4f,2CH9-DWe_UQ
+2537,"[88, 184, 364]",indoors,my4f,mzNjDT8k_74
+2538,"[2, 83, 262]",outdoors,yz4f,2f_ubbwy-vs
+2539,"[88, 184, 313, 380, 614, 3330]",indoors,kt4f,pbxGFkNGY80
+2540,"[60, 210]",outdoors,RS4f,0c9FB-mzhEM
+2541,[380],indoors,qw4f,gW4ztg2TuUo
+2542,"[2, 18, 43, 59, 60, 76, 101, 172, 281, 549, 571]",outdoors,QC4f,T8-EL0lKYAs
+2543,"[88, 184, 380, 400, 1947]",indoors,gT4f,wFtsg9xqUsA
+2544,"[18, 43, 59, 60, 101, 286, 693, 1685]",outdoors,UP4f,V6gDc_ftjNI
+2545,"[88, 184, 299, 380, 416, 514]",indoors,2Z4f,vztxaeEJXQU
+2546,"[15, 18, 43, 59, 60, 101, 286]",outdoors,3E4f,J7mQ7uywf-g
+2547,"[2, 83, 262]",outdoors,Mm4V,r-0C9_k1hR4
+2548,"[64, 113, 119, 248, 475, 3793]",outdoors,Rg4V,-VZhKHCj7vk
+2549,"[60, 432, 1056, 1865]",outdoors,0d4V,ahBNdLUKS5c
+2550,"[43, 60, 101, 374, 873]",outdoors,mN4V,AkCGiBM82oc
+2551,"[0, 5, 26, 83, 262]",outdoors,7P4V,oBvJM7v6YK8
+2552,[1226],outdoors,Bw4V,JlJle4Lk4qc
+2553,"[15, 18, 60, 87, 365, 536]",outdoors,L74V,I5bIgxoCcH4
+2554,"[15, 18, 60, 87, 365, 536, 545, 1696]",outdoors,rh4V,KcPDYbMDWUc
+2555,"[2, 83, 126, 262, 751, 804]",outdoors,xN4V,EprItSSpsNI
+2556,"[15, 60, 239, 363, 686, 1880, 2625]",outdoors,UV4V,rLUOzAP68B0
+2557,"[88, 184, 307, 380, 416, 614, 985]",indoors,xi4V,wef0I1KgHhw
+2558,"[88, 184, 191, 416]",indoors,l64V,QfXimN_Co_g
+2559,"[66, 248]",outdoors,Le4V,MuoHljklSe0
+2560,"[2, 43, 60, 76, 101]",outdoors,Si4V,IBfOU6PA5WU
+2561,"[289, 2211]",outdoors,bU4V,5D4a4jUN-8o
+2562,[248],outdoors,YX4V,xQ-IGiqvpFA
+2563,"[60, 353, 673]",outdoors,jg4V,mehojxHUSeA
+2564,"[2, 43, 60, 76, 101]",outdoors,Hi4V,q4YgB3apaFg
+2565,"[15, 60, 239, 686]",outdoors,uK4V,k84bpA0j0Ig
+2566,"[18, 43, 59, 60, 101, 286]",outdoors,lg4V,jjfcSisQGdY
+2567,"[184, 400]",indoors,KB41,Yw-ItmRn8WM
+2568,"[60, 353, 673]",outdoors,7841,nUd7C13ldgw
+2569,"[18, 43, 59, 60, 101, 286, 2023]",outdoors,An41,7En3-ZzZRFU
+2570,"[15, 18, 43, 59, 60, 101]",outdoors,pz41,XtLFk9XYHVo
+2571,"[15, 1238, 2401, 2678]",outdoors,Qg41,RgZiFndfC6A
+2572,"[313, 364, 1013, 1226]",outdoors,w941,vBfylBy8GrM
+2573,"[60, 353, 642, 3553]",outdoors,8J41,jYQ-i3SMoVI
+2574,"[88, 184, 380, 416]",indoors,RE41,LR0CHbxlvdY
+2575,"[11, 20, 22, 29, 123, 176, 211, 250, 307, 462, 576, 2185]",indoors,A441,OHjg_nhwBi4
+2576,"[160, 666]",outdoors,UY41,Nph70uxuwoc
+2577,"[88, 184, 380, 416, 614]",indoors,SI41,T6VzCWSW1o4
+2578,"[2, 18, 43, 59, 60, 76, 101, 991]",outdoors,j041,uq-liHc-O0I
+2579,"[60, 244, 333]",outdoors,9q45,IehsJi6tMS4
+2580,"[43, 60, 238]",outdoors,3r45,WzqGece-oOU
+2581,"[88, 184, 299, 380, 416]",indoors,8b45,QziWBlq8g7c
+2582,"[18, 43, 59, 60, 101, 823]",outdoors,Fc45,r1K8Bf6eD8k
+2583,"[43, 60, 101, 286]",outdoors,1k45,5HpeU34XOn0
+2584,"[88, 184, 307, 380, 416, 614]",indoors,YO45,-GaoWHuLcZk
+2585,"[15, 262, 1098, 1452]",outdoors,t845,ODZaW_dpA4U
+2586,"[313, 2105]",outdoors,hD45,4PVhqVi758E
+2587,"[88, 364, 416]",indoors,QP45,4TSJm12gknE
+2588,"[88, 184, 276, 416, 2351]",indoors,8l45,qk4YleDS-MM
+2589,"[11, 83, 262, 751, 1081]",outdoors,yO45,6g_-mqBDyMk
+2590,"[191, 248, 299]",outdoors,tA45,Qc0L1CTLvtI
+2591,"[205, 598, 1245]",indoors,zq45,U6lrnAZxjiQ
+2592,"[60, 353, 3697]",outdoors,UY45,o5qXTAiM2r4
+2593,[666],outdoors,BK45,alxVsjJORMY
+2594,"[2, 7, 75, 95, 197, 248, 508]",outdoors,rA45,406CmNFdNe8
+2595,"[53, 58, 60]",outdoors,q145,_0ihumK57ao
+2596,"[15, 666, 1183]",outdoors,D65c,m260ysuY6ss
+2597,"[18, 43, 59, 60, 101, 549, 571]",outdoors,V25c,rtjZ68DcqrA
+2598,"[60, 160, 273, 353]",outdoors,U45c,Q3T-pR76ux0
+2599,"[60, 353, 519, 673]",outdoors,vp5c,HMWJ61DNhHA
+2600,"[11, 262, 720, 751]",outdoors,ar5c,0vj1Bw3gAwg
+2601,"[60, 64, 95, 116, 135, 149, 297]",outdoors,kj5c,6axzn9ojXsc
+2602,"[2, 83, 262]",outdoors,gu5c,U6gvKAJQ7LQ
+2603,"[15, 262]",outdoors,qp5c,kaUFd5Kh870
+2604,"[60, 519, 669]",outdoors,xl5c,x7OerunX80Q
+2605,"[88, 184, 191, 364, 416, 1013]",indoors,Ln5c,8XNSmGnrOl8
+2606,"[83, 262]",outdoors,6y5c,ri9D2A3B9MY
+2607,"[71, 152, 248]",outdoors,IG5h,FLd2HYu_cqA
+2608,[248],outdoors,145h,tHD8PKL5Ax0
+2609,"[191, 248, 299]",outdoors,vx5h,t8ggQ4rUiv0
+2610,"[15, 18, 43, 59, 60, 101, 374, 419, 991]",outdoors,Db5h,yinMCROfKoQ
+2611,"[15, 18, 43, 59, 60, 101]",outdoors,iQ5h,j1SNDqZMx6U
+2612,"[18, 43, 59, 60]",outdoors,m25h,h2wffAyJni4
+2613,"[18, 43, 59, 60, 101, 2952]",outdoors,CV5h,FZkh5ICEPc0
+2614,"[60, 160, 166, 333, 398, 501]",outdoors,gZ5h,LPMq_zDZ9hU
+2615,"[60, 333, 365]",outdoors,Us5h,avGQN5-4UrQ
+2616,"[60, 68, 72, 98]",outdoors,HU5h,7qoKRxz-Rfk
+2617,[666],outdoors,HQ5h,TnkduJxiMW0
+2618,"[60, 239, 3633]",outdoors,VN5h,QMLXOj6rtuM
+2619,"[15, 18, 60, 87, 244, 333]",outdoors,ul5h,ZbtaFyL7sZY
+2620,[248],outdoors,gx5h,mlkOe-mlSOI
+2621,"[11, 60, 291, 820]",outdoors,MZ5h,cYsysgG9pmQ
+2622,"[15, 18, 43, 59, 60, 101, 286, 2350]",outdoors,hU5h,VSXGOlAYc0o
+2623,"[60, 519]",outdoors,QL5r,N7tg5jp76eQ
+2624,"[88, 184, 307, 380, 400, 614, 641, 1299]",indoors,UW5r,_2hRjVpJtdY
+2625,"[18, 43, 59, 60, 101, 1415]",outdoors,rc5r,1VwRusfcN1o
+2626,"[43, 60]",outdoors,EO5r,ATIUzM2A3lc
+2627,"[277, 514, 1025, 1443, 2277]",indoors,6B5r,99hxQwJtLIA
+2628,"[60, 231, 491]",outdoors,ZP5r,x2w8zLfZSGQ
+2629,"[88, 184, 364]",indoors,VV5r,cf_E6PleEf0
+2630,"[184, 388, 497, 514, 1025, 1148, 1443]",indoors,8C5r,moKX5M3UERs
+2631,"[60, 160, 353]",outdoors,mx5r,AYKLwHZukZY
+2632,"[43, 60]",outdoors,Pf5r,rIu3SnulL5k
+2633,"[60, 68, 72, 98, 151]",outdoors,f95r,SGc3GL_lAcE
+2634,[1245],indoors,RZ5r,UcsRqnS_kQE
+2635,"[191, 614]",indoors,OS5r,POuRnTvjuVY
+2636,"[15, 18, 60, 87, 365, 545]",outdoors,vM5r,PXA3XLSMysg
+2637,"[60, 1396]",outdoors,eV5r,57kNgsGfre0
+2638,[60],outdoors,Sk5r,zWP4nAek320
+2639,"[60, 353]",outdoors,c35r,rCAfunzBA2g
+2640,"[2, 60, 76, 532, 2499]",outdoors,ux5A,yafIKxz9hYU
+2641,"[43, 60, 693, 823]",outdoors,cy5A,hLAamYo23to
+2642,[60],outdoors,qz5A,__Ts3wcliPM
+2643,"[184, 400, 1608]",indoors,Yv5A,Ktj8DDOyRQI
+2644,"[11, 83, 262, 601]",outdoors,4c5A,UtFho2NqKf8
+2645,[248],outdoors,9K5A,Fasve-aCnaw
+2646,"[18, 43, 59, 60, 101]",outdoors,JQ5A,2VKThRZXngk
+2647,"[43, 60, 179, 374]",outdoors,Ee5A,AwABNIG6lxk
+2648,[248],outdoors,7a5A,xJfoLVeUiUc
+2649,[60],outdoors,Ov5A,1dg0J-pwiM0
+2650,"[2, 75, 262, 601, 1613]",outdoors,Gy5A,Vy4LzghTpQw
+2651,"[43, 60, 374, 549, 2490]",outdoors,sb5A,1zE6Wy9af4s
+2652,"[60, 1396]",outdoors,NJ5A,sui1yyEqqKs
+2653,"[60, 385]",outdoors,en5A,MVbu4Ha7jU0
+2654,"[43, 60, 101, 248, 286]",outdoors,s75A,OioF8UUtiVg
+2655,"[18, 43, 59, 60, 101, 1975]",outdoors,jZ5A,b9F6Vqj_DEo
+2656,"[289, 571, 666, 1948]",outdoors,uH5A,v8uEqOq8OXs
+2657,"[60, 428, 825]",outdoors,3U5A,OWDj8fKY9KM
+2658,"[43, 60, 101]",outdoors,xh6g,qxlVf332Zrw
+2659,"[60, 385, 419, 1393, 1918]",outdoors,mT6g,yT7BRmQtxfM
+2660,"[60, 427, 519, 995]",outdoors,wh6g,VDcyo23m8E0
+2661,"[60, 231, 284, 491]",outdoors,eX6g,gwxGQuHVOuM
+2662,"[88, 184, 388, 416, 514]",indoors,xg6g,lCgbdY_Fn1c
+2663,"[0, 1, 27, 192, 262, 294, 331, 2574]",outdoors,JM6g,TXkSFtfOxdw
+2664,"[43, 60, 101, 286, 549, 906]",outdoors,uS6g,MqJAQQgAOOQ
+2665,"[1245, 1776]",indoors,T66g,9DeqAZ0mWro
+2666,"[307, 400, 3566]",indoors,AV6l,6CscUTF6euw
+2667,"[115, 248]",outdoors,oj6l,2au1kRbro_0
+2668,"[2, 15, 43, 60, 76]",outdoors,ai6l,_edI1X659I4
+2669,"[49, 184]",indoors,036l,OBR8v_n36W8
+2670,"[60, 669, 2438]",outdoors,Yd6l,P0qXrdyvNos
+2671,[514],indoors,X86l,UcLui00Nnug
+2672,"[11, 22, 307, 341, 791, 2461]",indoors,a56l,HgZc2f9qEwg
+2673,"[2, 7, 60, 95, 135, 1412]",outdoors,D56l,LAkMft3fIVI
+2674,"[43, 60]",outdoors,ky6l,lDo3Wbql8vE
+2675,"[2, 18, 43, 59, 60, 76, 101, 286, 991]",outdoors,pb6m,bpPEyl6xNYY
+2676,"[15, 60, 239, 363, 686, 1452]",outdoors,KX6m,-_dGgSJz_i0
+2677,"[11, 262, 619]",outdoors,qZ6m,QPwAeNFUJXk
+2678,"[60, 519]",outdoors,8w6m,2bR4WtqCVTY
+2679,"[53, 58, 60, 163, 232]",outdoors,uz6m,Q4q_ES0k1jA
+2680,"[18, 43, 59, 60, 101, 284, 286, 549]",outdoors,Ct6m,T19_GbWTIYc
+2681,"[88, 184, 191]",indoors,fz6m,JOrBOUP82fo
+2682,"[53, 58, 60, 214, 494]",outdoors,VC6m,kaf7xaDqvBA
+2683,"[88, 184, 191]",indoors,F76m,6xUZZW8t2LM
+2684,"[8, 248]",outdoors,gt6m,k-l4krOAW_I
+2685,"[26, 83, 262]",outdoors,Pc6m,0bVeWgJGrnc
+2686,"[18, 43, 59, 60, 101, 286]",outdoors,TY6m,gdCJb7p5OVc
+2687,"[43, 60, 642, 2227, 3040]",outdoors,LH6m,SLacrpz_9fc
+2688,"[2, 7, 248, 1848]",outdoors,Sq6m,GZkgUjc8Eek
+2689,"[2, 7, 83, 262, 745]",outdoors,Ui6m,2nY5AQDlfKw
+2690,"[53, 58, 60, 163, 232]",outdoors,AQ6A,YuGyBmA_jCU
+2691,"[2, 43, 60, 76, 374, 3040]",outdoors,DP6A,50uKCKeuH-c
+2692,"[514, 1025]",indoors,g46A,Z70i579Y9Ws
+2693,"[15, 18, 60, 67, 239]",outdoors,fd6A,GGhefkH7B4c
+2694,"[2, 17, 53, 58, 60, 163, 232, 340]",outdoors,Nf6A,A6xsS_HBNAo
+2695,"[191, 248, 299, 1159]",outdoors,EV6A,z75EJdHD1k0
+2696,"[43, 60, 101, 823]",outdoors,N16A,QZk6uSfNRWs
+2697,"[2, 7, 60, 359]",outdoors,Cp6A,5Cf73SZbIFI
+2698,[248],outdoors,ze6A,dJ0jN_KT8ww
+2699,"[43, 60, 2227]",outdoors,nI6A,S0P7eB2Em6c
+2700,"[60, 166, 664, 1563]",outdoors,ag6A,ZK7L4EMwMhI
+2701,"[2, 18, 43, 59, 60, 76, 101, 286]",outdoors,RV6A,LUrjgTkxquw
+2702,[248],outdoors,0a6A,GdrcqGMuQ8Y
+2703,"[205, 598, 1245]",indoors,Ct6A,fyfxUZpRTGo
+2704,"[60, 269]",outdoors,Gq6A,RA1Yp1u-0sg
+2705,[60],outdoors,8r6A,3uRoPeKH-Xo
+2706,"[2, 60, 76, 419, 1271, 1393]",outdoors,3L6A,cTOCDgOsy2A
+2707,"[2, 43, 60, 76, 549, 571]",outdoors,Rl6A,3An2gBZFFsE
+2708,"[88, 184, 307, 380, 416, 514, 614, 899, 1299]",indoors,8K6A,q2OPEOte_KY
+2709,"[53, 58, 60, 163, 214, 232, 284]",outdoors,K76E,kPi3q6DSOtQ
+2710,[666],outdoors,qn6E,wniY-OCDX18
+2711,"[11, 83, 262, 720, 1081]",outdoors,k06E,qWko-PE81F8
+2712,"[43, 60, 101]",outdoors,ng6E,FSQWpk5wRd4
+2713,"[88, 184, 307, 416, 1013]",indoors,4D6E,rTvGkG99tQs
+2714,"[11, 83, 262, 720, 751]",outdoors,wr6E,vDTNWKMbP5c
+2715,"[2, 75, 262]",outdoors,FS6E,DOb9pFKZcs4
+2716,"[2, 83, 262, 2091]",outdoors,z76E,SVYsgyP5V4g
+2717,"[179, 248]",outdoors,s86E,4bZhe18b4jo
+2718,"[18, 43, 59, 60, 238, 274, 366]",outdoors,5t6E,YEBrPyTiXPU
+2719,"[60, 482]",outdoors,7S6E,LBdby66UDqk
+2720,"[43, 60, 101, 823]",outdoors,GW6E,8a-ryqv7cFM
+2721,"[60, 101, 286, 991]",outdoors,6s6E,C26BWcWq4HI
+2722,"[18, 43, 59, 60, 101, 286]",outdoors,GL6E,XpraaM3Bcz8
+2723,"[18, 43, 59, 60, 101]",outdoors,pv6G,Bnza_W1uhrg
+2724,"[2, 83, 262]",outdoors,Ut6G,rUrVdC8P4Zk
+2725,[60],outdoors,gO6G,9l-4itdNtc8
+2726,"[307, 1299, 2305]",indoors,WT6G,XxbZP1qvUjM
+2727,"[18, 43, 59, 60, 101]",outdoors,tK6G,z8eDYbcu2Qg
+2728,"[2, 60, 64, 76, 149, 1043]",outdoors,ko6G,EtqW9OiQqZk
+2729,"[2, 43, 60, 76, 281]",outdoors,oF6G,tckjfR4MD-8
+2730,"[11, 83, 262, 820]",outdoors,4h6G,QhLgq3YQuUs
+2731,"[2, 15, 18, 43, 59, 60, 76, 374, 549, 906, 1451]",outdoors,j56G,d1DEEA1f2uU
+2732,"[15, 18, 60, 87, 333, 365, 536]",outdoors,8Q6G,YqPjOna1jtI
+2733,"[11, 22, 26, 136, 194, 307, 441, 527, 637, 1208]",indoors,0Y6G,V3bFYVIVJ8A
+2734,"[2, 7, 95, 179, 248]",outdoors,Dv6Q,87WY1csFe4U
+2735,"[2, 43, 60, 76, 385, 1387]",outdoors,hl6Q,uLo1oRvDP8E
+2736,"[191, 248, 299]",outdoors,rO6Q,1Wyx17xMtzg
+2737,"[88, 184, 307, 364, 380, 416, 514, 614, 1013]",indoors,ft6Q,R-k6Z8ORvVA
+2738,"[43, 60, 101, 286, 549]",outdoors,9x6Q,3tDv88fe9Q0
+2739,"[12, 248]",outdoors,h06Q,mFEXoLuhDJk
+2740,"[60, 239]",outdoors,cT6Q,Kf9QFNgZGbM
+2741,"[11, 83, 262, 1081]",outdoors,JS6Q,QAjJXAUFcVM
+2742,"[88, 248, 364]",outdoors,SK6Q,i422ReANnCU
+2743,"[18, 43, 59, 60, 101]",outdoors,Cr6Q,2UOH1193ig4
+2744,[60],outdoors,g46Q,823fsk4k7I8
+2745,"[88, 184, 364]",indoors,Tb6Q,bWU5lIuMCq4
+2746,"[0, 42, 262, 306]",outdoors,nW6Q,lnYVL3XFNB8
+2747,"[60, 333, 365]",outdoors,DM6Q,XrI2bzqwgiY
+2748,"[18, 43, 59, 60, 101, 286, 823, 1824]",outdoors,N16Q,4hRDfuBc2ks
+2749,"[0, 1, 36, 94, 416]",indoors,aF6Q,wIxfXjd_dj8
+2750,"[60, 160, 231, 491]",outdoors,HO6Q,xuOR2_ak2Vo
+2751,"[289, 666, 669, 1238]",outdoors,Tk6Q,xxjFr86xiXc
+2752,"[88, 184, 416, 514]",indoors,QN6Q,GQRmcD_SSko
+2753,[184],indoors,346Q,sQOiqai5gj0
+2754,"[15, 18, 43, 59, 60, 101, 823, 1824]",outdoors,SF61,juACZt26LtI
+2755,"[18, 43, 59, 60, 101, 286]",outdoors,Kd61,SAOL2rSK2WM
+2756,"[18, 43, 59, 60, 101]",outdoors,9v61,uPz3ojjq-KM
+2757,"[88, 184, 388, 497, 580, 1771]",indoors,QF61,Is8nUpa9XJs
+2758,"[18, 43, 59, 60, 101, 374, 549, 906]",outdoors,Wl61,8gFvN87jO7o
+2759,"[60, 519]",outdoors,id61,_UuWgJNNWYw
+2760,"[291, 1168, 1964, 2211]",outdoors,Ir61,azZhghNfwJ8
+2761,"[2, 83, 262, 751]",outdoors,j161,EpVW4omfF-Y
+2762,"[2, 18, 43, 59, 60, 76, 101, 284, 286, 374, 385, 419, 549, 571, 906, 1415, 1685]",outdoors,TG61,x2VRDxVMOz4
+2763,[60],outdoors,Lw61,pyYie8f43Ss
+2764,[248],outdoors,OU61,LvVRQVjP6Xs
+2765,"[15, 18, 60, 87]",outdoors,sa61,l8zitj2dEOg
+2766,"[0, 1, 36, 94, 416]",indoors,1S61,kS7R6sIibNE
+2767,"[15, 262, 502, 619, 3169]",outdoors,aD61,yVGsbzktIas
+2768,"[60, 519]",outdoors,xc61,BClxNM7HBGM
+2769,"[18, 43, 59, 60, 101, 374, 693, 823, 1824]",outdoors,9Y61,MdF_Mcc6GU8
+2770,"[43, 248]",outdoors,Bh61,2uEEuw6scRE
+2771,"[184, 191]",indoors,o961,69vDJxHRcfc
+2772,"[11, 126, 262, 2916]",outdoors,xq61,VJNm-6gI4kQ
+2773,[307],indoors,zM61,xv6ykrJSsQw
+2774,"[60, 141, 247, 255]",outdoors,y761,5YEjrUnMUqg
+2775,"[88, 184, 313, 364, 380, 416]",indoors,UV61,W03-OdJBIgA
+2776,[1238],outdoors,IR64,kHJF7uFOgoE
+2777,"[248, 1013]",outdoors,dE64,j_tQZW6COMo
+2778,"[60, 669]",outdoors,so64,XfwODEPL98w
+2779,"[88, 184, 307, 364, 380, 416, 514, 614, 1013]",indoors,X864,B31em_s1pMQ
+2780,[184],indoors,N864,HTqDxTFAcpA
+2781,"[18, 43, 59, 60, 101, 549, 873, 1415]",outdoors,w664,Ty0w3TX-xjM
+2782,"[60, 333, 365]",outdoors,6q64,hPbrrEDzEFk
+2783,"[2, 43, 60, 76, 873]",outdoors,mQ64,hV1YZW45V0c
+2784,"[11, 83, 262, 3020]",outdoors,yE64,TTlbtkrpvE0
+2785,"[179, 248]",outdoors,tC64,jmPP85H3YSw
+2786,"[88, 184, 380, 614]",indoors,n464,n0Az4HgqQ_s
+2787,"[60, 304]",outdoors,Jf64,pXl8BKk95aI
+2788,"[2, 83, 262]",outdoors,jN64,6-yRoVmDq1w
+2789,"[184, 191]",indoors,bL64,Ht1tKcJfnuM
+2790,[666],outdoors,RE7S,Ysf_E-aubME
+2791,"[83, 262, 542, 1616]",outdoors,zN7S,U-st2EeOu0Q
+2792,"[2, 7, 83, 262, 541]",outdoors,PI7S,XX5KOJ2oZSc
+2793,[60],outdoors,Iz7S,U7afNzMuyqU
+2794,"[307, 497]",indoors,qG7S,hmDDsA5lOxE
+2795,"[88, 184, 380, 416]",indoors,rE7S,MpVMVXmBXIY
+2796,"[60, 1396]",outdoors,9j7S,fS9wGoZtGpc
+2797,"[2, 7, 83, 262, 541]",outdoors,qZ7S,YogFzq2ShGY
+2798,"[60, 182, 1387, 1569, 1611]",outdoors,Uj7S,ytvBxEFZLks
+2799,"[88, 184, 380, 388, 400, 416, 1152]",indoors,fb7S,ftffRHED-uE
+2800,"[15, 18, 60, 87, 365, 3599]",outdoors,CE78,-2nO_11RB5Q
+2801,[1226],outdoors,So78,WRhYguGryMQ
+2802,"[184, 400, 416]",indoors,UI78,n__CyJk9rAk
+2803,"[88, 184, 307, 380, 416, 614]",indoors,W778,XtHPqc7qFyE
+2804,"[88, 307, 497, 514, 1025]",indoors,mn78,KUsPFjMyI3Q
+2805,"[11, 20, 22, 32, 307, 341]",indoors,eV78,Zi-4_vUViZ4
+2806,"[60, 68, 72, 98]",outdoors,jL78,7lVVkbDVMag
+2807,"[15, 18, 43, 59, 60, 101, 374]",outdoors,M478,1HapkUkTlx0
+2808,"[2, 17, 30, 55, 60, 340]",outdoors,oA78,ECLRKRpbXEQ
+2809,"[53, 58, 60, 163, 232]",outdoors,o978,D3giGjFVnNc
+2810,"[184, 364]",indoors,BR78,Xomjun0FHwA
+2811,"[184, 364]",indoors,jH8c,51SlVUCYMlM
+2812,[1245],indoors,wy8c,Sr8lO3u94k0
+2813,[248],outdoors,go8c,hIp_j1s0Ko4
+2814,[666],outdoors,vR8c,m1wdqI3eqVk
+2815,"[227, 248]",outdoors,8e8c,XxgwdLiUVTc
+2816,"[11, 262, 2894]",outdoors,wg8c,pJR5FXPNh6c
+2817,[248],outdoors,Ye8c,eF72B1TjPE0
+2818,"[18, 43, 59, 60, 101, 286]",outdoors,uc8c,2gOB1-gWF2M
+2819,"[11, 262]",outdoors,Sk8c,Fg2xXb6J9ms
+2820,"[60, 428, 825]",outdoors,5I8c,5d3yHxrrUGg
+2821,"[88, 380, 614]",indoors,FD8c,Me34q0Qyygw
+2822,"[60, 398]",outdoors,R68c,2vTH3NblQBs
+2823,"[2, 17, 88, 184]",indoors,F08c,3LaFLVtlg6Q
+2824,"[1238, 1918]",outdoors,9L8B,wobRVG6Meno
+2825,"[60, 239, 686, 1714]",outdoors,1o8B,RtNAyzc4u1U
+2826,"[15, 262]",outdoors,0e8B,MTE7nDMPHY8
+2827,"[15, 18, 60, 87]",outdoors,cf8B,KeaRynzKztY
+2828,"[0, 83, 254, 262, 542]",outdoors,j88B,Rl-fVJlgMok
+2829,"[0, 262, 542]",outdoors,Rg8B,u2Z0zwXvQaM
+2830,"[88, 184, 364, 416, 514, 1013]",indoors,ZO8B,a-9vONZxVMU
+2831,"[60, 210, 685]",outdoors,eY8B,EKWVwsLcFVU
+2832,"[18, 43, 59, 60, 101, 823, 1824]",outdoors,vQ8B,miHnTfSiLu4
+2833,"[184, 191, 416]",indoors,dS8B,RRMR37Ybcd4
+2834,"[18, 43, 59, 60, 101, 823]",outdoors,PZ8B,vp_QaEFMENo
+2835,"[66, 248, 293]",outdoors,Qn8B,kyR5KGd2gFE
+2836,"[18, 43, 59, 60, 101, 1880]",outdoors,ei8D,jaSl00B8K18
+2837,"[43, 60, 101, 286, 385, 1415]",outdoors,0T8D,lIjScdYwRkM
+2838,"[15, 18, 43, 59, 60, 101, 286]",outdoors,h98D,ai2BSx5-jWA
+2839,"[11, 83, 262, 804, 1613, 2044]",outdoors,Ju8D,pJBQ1j7xxcM
+2840,"[18, 43, 59, 60, 101, 286, 419, 991, 1824]",outdoors,wn8D,TzTAe6JjMQI
+2841,"[0, 5, 307]",indoors,PQ8D,gx4v2qvFOE8
+2842,"[11, 83, 262, 2953, 3230]",outdoors,pt8D,Y3HA70utm2U
+2843,"[60, 101, 3285]",outdoors,C68D,vmRvrCKFAhI
+2844,"[88, 307]",indoors,0K8D,dZfKAnuOjP8
+2845,"[2, 43, 60, 76]",outdoors,Yn8D,Nd5wjVJ2S_c
+2846,"[83, 254, 262, 542]",outdoors,Eq8D,TF3GCUxXgEE
+2847,"[0, 1, 42, 262, 306]",outdoors,dy8D,c-fgqODlrs4
+2848,"[60, 353, 519, 673]",outdoors,1D8D,sRSnF2_C2n0
+2849,"[60, 160, 166]",outdoors,Pg8D,iVqKKIqHe-0
+2850,"[11, 20, 22, 29, 32, 122, 123, 307, 1016]",indoors,rM8T,j_Ssxd8gjXU
+2851,"[53, 58, 60, 163, 232]",outdoors,Wg8T,ya8rvPmb9W4
+2852,"[11, 20, 22, 122, 307, 321, 334, 680]",indoors,uy8T,IPbJEBTyxIo
+2853,"[2, 7, 307, 402]",indoors,ix8T,3KpoBDO-GVU
+2854,"[8, 89, 248]",outdoors,BJ8T,DxYKMhOcjF8
+2855,"[60, 210, 685]",outdoors,Rg8T,O4pSzVerGZo
+2856,[514],indoors,7J8T,AtnvOmb09MQ
+2857,"[18, 43, 59, 60, 101, 286]",outdoors,lx8T,toQQoU05Wo8
+2858,"[2, 18, 43, 59, 60, 76, 101]",outdoors,OC8T,tqKBWx2MI_Y
+2859,"[2, 522, 2105]",outdoors,sL8T,0Df3SWBxn5E
+2860,"[191, 248, 299]",outdoors,gt8T,YYhylsDoi5Y
+2861,"[53, 58, 60, 163, 210, 232, 685]",outdoors,Wk8T,UJTmTbEJQaU
+2862,"[15, 18, 43, 59, 60, 101, 274]",outdoors,fO8T,TUeJ955cdLA
+2863,"[60, 353, 519]",outdoors,tQ8T,BJR7dhJwTxY
+2864,[248],outdoors,Vy8T,OHza4RuXJ48
+2865,[666],outdoors,xb8T,PtubhN-Q01U
+2866,"[15, 18, 60, 87, 244, 333, 365, 1938]",outdoors,Fk8T,m43oZC7vDtU
+2867,[60],outdoors,2I8T,_jz1lgw2_zM
+2868,"[2, 83, 262]",outdoors,k38T,T7t9exUF87Y
+2869,"[60, 231, 252]",outdoors,qL9e,kO8SLNHbdQQ
+2870,"[88, 184, 191, 299, 380, 614]",indoors,j79e,iuP0yvtZFz0
+2871,"[248, 2374]",outdoors,iH9e,R2nuvXc1raI
+2872,"[289, 666]",outdoors,Ll9e,YjMqL534HuM
+2873,"[2, 60, 76, 182, 1387, 1569]",outdoors,Ou9e,GzWlVtWAD3A
+2874,"[60, 353, 673]",outdoors,8I9e,cMBAbWcy6OA
+2875,"[88, 191, 248, 299]",outdoors,aN9e,iFfZYDa5MA8
+2876,[307],indoors,6O9e,2LK6-Q-PV3c
+2877,"[184, 453]",indoors,lq9e,jRPsmN-mro4
+2878,"[43, 60, 101, 286, 823]",outdoors,y09e,jUj42kFDX28
+2879,[60],outdoors,nH9e,gZmAh96DreM
+2880,"[60, 571]",outdoors,oK9e,vewTIrkSPok
+2881,"[2, 60, 76]",outdoors,aB9e,3SF5jUcOrFg
+2882,"[15, 18, 60, 87, 333, 365]",outdoors,ih9Y,0-W_O0knAKM
+2883,"[88, 514, 899]",indoors,pM9Y,oSC2MmKAbB4
+2884,"[60, 179, 385]",outdoors,Nf9Y,xFMI7y74hhc
+2885,[666],outdoors,uk9Y,OqXQ4NokEks
+2886,"[31, 248]",outdoors,M09Y,oEiah0gnbDU
+2887,[248],outdoors,Zt9Y,_ietdyRZXQk
+2888,"[18, 43, 59, 60, 101, 286]",outdoors,f79Y,9CKoWuZCfvA
+2889,"[26, 83, 262, 601]",outdoors,uf9Y,Q56Nbv3lzfE
+2890,"[420, 514]",indoors,mo9Y,u-_Hx9izsR0
+2891,"[11, 262, 370]",outdoors,sa9Y,RF_c2Zp5AhU
+2892,"[184, 191, 985]",indoors,jD9Y,3GHSzGIqgTg
+2893,"[60, 210, 685]",outdoors,lV9Y,xK2AdjZBNoA
+2894,"[60, 2701]",outdoors,F99Y,6w6VXsszoak
+2895,"[60, 141, 247, 396]",outdoors,lv9Y,9js7VPIdPlE
