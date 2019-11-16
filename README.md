@@ -23,3 +23,7 @@ Shows how data was parsed from http://research.google.com/youtube8m/explore.html
 Uses data output from previous notebook to pull the requested number of frames from the Youtube ID and saves them to the relevant folder in the **data** directory.
 #### 2_Tensorflow_Training.ipynb
 Uses the frames saved from the previous notebook to train a CNN model using Tensorflow. That model is then saved and used as the model for **indoor_outdoor.py**
+
+Unit Test
+---------
+A basic unit test is in 0_TFRecords_Get_Target_YoutubeId.ipynb in the same code cell with the `yt8m_id_translate()` function using `assert`. I typically use nosetests, but since the majority of code was in Jupyter notebooks, I kept the test in the notebook.
